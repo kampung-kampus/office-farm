@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Office Farm Plot</title>
+
+<style>
+
+body{
+font-family:Arial, sans-serif;
+background:#f2f2f2;
+margin:0;
+padding:0;
+}
+
+.container{
+max-width:600px;
+margin:auto;
+background:white;
+padding:20px;
+margin-top:20px;
+border-radius:10px;
+box-shadow:0 2px 10px rgba(0,0,0,0.1);
+}
+
+h1{
+text-align:center;
+color:#2c7a3f;
+}
+
+.image{
+text-align:center;
+margin:15px 0;
+}
+
+.image img{
+width:100%;
+max-width:300px;
+border-radius:8px;
+}
+
+.section{
+margin:10px 0;
+}
+
+.label{
+font-weight:bold;
+}
+
+.buttons{
+text-align:center;
+margin-bottom:15px;
+}
+
+button{
+padding:10px 20px;
+margin:5px;
+border:none;
+border-radius:5px;
+cursor:pointer;
+font-size:16px;
+}
+
+.visitor{
+background:#4CAF50;
+color:white;
+}
+
+.staff{
+background:#333;
+color:white;
+}
+
+.staff-data{
+display:none;
+margin-top:15px;
+padding-top:10px;
+border-top:1px solid #ddd;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1 id="plotTitle">Loading...</h1>
+
+<div class="buttons">
+<button class="visitor" onclick="showVisitor()">Visitor</button>
+<button class="staff" onclick="showStaff()">Staff</button>
+</div>
+
+<div class="image">
+<img id="plantImage" src="" alt="Plant Image">
+</div>
+
+<div class="section"><span class="label">Plant:</span> <span id="plant"></span></div>
+<div class="section"><span class="label">Staff:</span> <span id="staff"></span></div>
+<div class="section"><span class="label">Date Planted:</span> <span id="datePlanted"></span></div>
+<div class="section"><span class="label">Est Harvest:</span> <span id="estHarvest"></span></div>
+<div class="section"><span class="label">Uses:</span> <span id="uses"></span></div>
+<div class="section"><span class="label">Fun Fact:</span> <span id="funFact"></span></div>
+
+<div class="staff-data" id="staffSection">
+
+<div class="section"><span class="label">Last Manure Date:</span> <span id="lastManure"></span></div>
+<div class="section"><span class="label">Next Manure Date:</span> <span id="nextManure"></span></div>
+<div class="section"><span class="label">Last Weeding Date:</span> <span id="lastWeeding"></span></div>
+
+</div>
+
+</div>
+
+<script>
+
+const API_URL = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+
+function getPlotNumber(){
+
+const params = new URLSearchParams(window.location.search);
+return params.get("plot");
+
+}
+
+async function loadData(){
+
+const plot = getPlotNumber();
+
+document.getElementById("plotTitle").innerText = plot;
+
+const response = await fetch(API_URL + "?plot=" + plot);
+const data = await response.json();
+
+document.getElementById("plant").innerText = data.plant;
+document.getElementById("staff").innerText = data.staff;
+document.getElementById("datePlanted").innerText = data.datePlanted;
+document.getElementById("estHarvest").innerText = data.estHarvest;
+document.getElementById("uses").innerText = data.uses;
+document.getElementById("funFact").innerText = data.funFact;
+
+document.getElementById("lastManure").innerText = data.lastManure;
+document.getElementById("nextManure").innerText = data.nextManure;
+document.getElementById("lastWeeding").innerText = data.lastWeeding;
+
+document.getElementById("plantImage").src = data.image;
+
+}
+
+function showVisitor(){
+
+document.getElementById("staffSection").style.display = "none";
+
+}
+
+function showStaff(){
+
+let password = prompt("Password required");
+
+if(password.toLowerCase() === "farm123"){
+
+document.getElementById("staffSection").style.display = "block";
+
+}else{
+
+alert("Incorrect password. Access denied.");
+
+}
+
+}
+
+loadData();
+
+</script>
+
+</body>
+
+</html>
