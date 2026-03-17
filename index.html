@@ -207,13 +207,15 @@ font-weight:bold;
 
 <div class="staff-data staff-panel" id="staffSection">
 
-<h3>Staff Information</h3>
+<h3>👨‍🌾 Staff Information</h3>
 
-<div class="section"><span class="label">Staff Name:</span> <span id="staff"></span></div>
+<div class="section"><span class="icon">👨‍🌾</span><span class="label">Staff Name:</span> <span id="staff"></span></div>
 
-<div class="section"><span class="label">Last Manure Date:</span> <span id="lastManure"></span></div>
-<div class="section"><span class="label">Next Manure Date:</span> <span id="nextManure"></span></div>
-<div class="section"><span class="label">Last Weeding Date:</span> <span id="lastWeeding"></span></div>
+<div class="section"><span class="icon">🌱</span><span class="label">Last Manure Date:</span> <span id="lastManure"></span></div>
+
+<div class="section"><span class="icon">🧪</span><span class="label">Next Manure Date:</span> <span id="nextManure"></span></div>
+
+<div class="section"><span class="icon">🌿</span><span class="label">Last Weeding Date:</span> <span id="lastWeeding"></span></div>
 
 </div>
 
@@ -234,7 +236,8 @@ return params.get("plot");
 
 /* Plant Status Calculation */
 
-function getPlantStatus(harvestDate){
+ 
+ function getPlantStatus(harvestDate){
 
 const today = new Date();
 const harvest = new Date(harvestDate);
@@ -242,14 +245,14 @@ const harvest = new Date(harvestDate);
 const diffDays = Math.floor((harvest - today)/(1000*60*60*24));
 
 if(diffDays <= 0){
-return {text:"🔴 Harvest Ready", class:"status-ready"};
+return {text:"Harvest Ready", class:"status-ready"};
 }
 
 if(diffDays <= 7){
-return {text:"🟡 Fertilize Soon", class:"status-soon"};
+return {text:"Fertilize Soon", class:"status-soon"};
 }
 
-return {text:"🟢 Growing", class:"status-growing"};
+return {text:"Growing", class:"status-growing"};
 
 }
 
@@ -273,6 +276,19 @@ document.getElementById("funFact").innerText = data.funFact;
 document.getElementById("lastManure").innerText = data.lastManure;
 document.getElementById("nextManure").innerText = data.nextManure;
 document.getElementById("lastWeeding").innerText = data.lastWeeding;
+
+ /* Calculate growth progress */
+
+const planted = new Date(data.datePlanted);
+const harvest = new Date(data.estHarvest);
+const today = new Date();
+
+const totalDays = (harvest - planted)/(1000*60*60*24);
+const daysPassed = (today - planted)/(1000*60*60*24);
+
+let progress = Math.min(100, Math.max(0,(daysPassed/totalDays)*100));
+
+document.getElementById("growthBar").style.width = progress + "%";
 
 /* Display plant status */
 
