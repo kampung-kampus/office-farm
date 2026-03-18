@@ -1,10 +1,10 @@
 {
   "Plot1": {
     "plot": "Plot1",
-    "staff": "KK",
+    "staff": "Chin Hui",
     "plant": "cabbage包菜",
-    "datePlanted": "",
-    "estHarvest": "",
+    "datePlanted": "2026-03-01",
+    "estHarvest": "2026-06-29",
     "lastManure": "2026-03-01",
     "nextManure": "2026-03-11",
     "lastWeeding": "2026-03-01",
