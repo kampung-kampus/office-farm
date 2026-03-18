@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Today's Farm Tasks</title>
+
+<style>
+
+body{
+font-family:Arial;
+background:#f4f6f8;
+margin:0;
+}
+
+.header{
+background:#2c7a3f;
+color:white;
+padding:15px;
+text-align:center;
+font-size:20px;
+}
+
+.container{
+padding:15px;
+}
+
+.card{
+background:white;
+padding:12px;
+border-radius:10px;
+margin-bottom:10px;
+box-shadow:0 2px 6px rgba(0,0,0,0.1);
+border-left:6px solid red;
+}
+
+.title{
+font-weight:bold;
+font-size:16px;
+}
+
+.small{
+font-size:13px;
+color:#555;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="header">📋 Today's Tasks</div>
+
+<div class="container" id="tasks"></div>
+
+<script>
+
+const DATA_URL = "https://kampung-kampus.github.io/office-farm/data/farm.json?v=" + new Date().getTime();
+
+function getTasks(data){
+
+const today = new Date();
+
+const harvest = new Date(data.estHarvest + "T00:00:00");
+const manure = new Date(data.nextManure + "T00:00:00");
+const weeding = new Date(data.lastWeeding + "T00:00:00");
+
+const harvestDiff = (harvest - today)/(1000*60*60*24);
+const manureDiff = (manure - today)/(1000*60*60*24);
+const weedDiff = (today - weeding)/(1000*60*60*24);
+
+if(harvestDiff <= 0){
+return "🔴 Harvest Ready";
+}
+
+if(manureDiff <= 0){
+return "🟡 Manure Today";
+}
+
+if(weedDiff >= 7){
+return "🟣 Weeding Needed";
+}
+
+return null;
+
+}
+
+async function load(){
+
+const res = await fetch(DATA_URL);
+const farm = await res.json();
+
+const container = document.getElementById("tasks");
+
+Object.keys(farm).forEach(plot => {
+
+const item = farm[plot];
+const task = getTasks(item);
+
+if(!task) return;
+
+const div = document.createElement("div");
+
+div.className = "card";
+
+div.innerHTML = `
+<div class="title">${plot} — ${item.plant}</div>
+<div>${task}</div>
+<div class="small">👨‍🌾 ${item.staff}</div>
+<div class="small">🌾 ${item.estHarvest}</div>
+`;
+
+container.appendChild(div);
+
+});
+
+}
+
+load();
+
+</script>
+
+</body>
+
+</html>
