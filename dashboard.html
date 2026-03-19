@@ -134,10 +134,10 @@ border-radius:15px;
 </select>
 
 <!-- TASK SUMMARY -->
-<div class="task-summary">
-<span id="taskHarvest">🔴 0</span>
-<span id="taskManure">🟡 0</span>
-<span id="taskWeeding">🟣 0</span>
+ <div class="task-summary">
+<span id="taskHarvest">🔴 0 Harvest Ready</span>
+<span id="taskManure">🟡 0 Manure Today</span>
+<span id="taskWeeding">🟣 0 Weeding Needed</span>
 </div>
 
 </div>
@@ -271,9 +271,11 @@ if(status.class === "weeding") weeding++;
 
 });
 
-document.getElementById("taskHarvest").innerText = "🔴 " + harvest;
-document.getElementById("taskManure").innerText = "🟡 " + manure;
-document.getElementById("taskWeeding").innerText = "🟣 " + weeding;
+<div class="task-summary">
+<span id="taskHarvest">🔴 0 Harvest Ready</span>
+<span id="taskManure">🟡 0 Manure Today</span>
+<span id="taskWeeding">🟣 0 Weeding Needed</span>
+</div>
 
 }
 async function load(){
