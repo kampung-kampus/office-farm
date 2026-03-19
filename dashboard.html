@@ -94,6 +94,20 @@ border-radius:8px;
 margin-top:8px;
 }
 
+  .task-summary{
+display:flex;
+gap:10px;
+align-items:center;
+margin-left:10px;
+font-weight:bold;
+}
+
+.task-summary span{
+background:#eee;
+padding:5px 10px;
+border-radius:15px;
+}
+
 </style>
 
 </head>
@@ -103,7 +117,9 @@ margin-top:8px;
 <div class="header">🌿 Farm Dashboard</div>
 
 <div class="controls">
+
 <input type="text" id="search" placeholder="Search plot or plant...">
+
 <select id="filter">
 <option value="all">All</option>
 <option value="ready">Harvest Ready</option>
@@ -116,6 +132,14 @@ margin-top:8px;
 <option value="none">Sort: Default</option>
 <option value="urgent">Sort: Urgency</option>
 </select>
+
+<!-- TASK SUMMARY -->
+<div class="task-summary">
+<span id="taskHarvest">🔴 0</span>
+<span id="taskManure">🟡 0</span>
+<span id="taskWeeding">🟣 0</span>
+</div>
+
 </div>
 
 <div class="grid" id="grid"></div>
@@ -174,6 +198,7 @@ const sort = document.getElementById("sort").value;
 
 // FILTER
 items = items.filter(item => {
+  updateTaskSummary(items);
 
 const status = getStatus(item);
 
@@ -230,6 +255,27 @@ grid.appendChild(card);
 
 }
 
+  function updateTaskSummary(items){
+
+let harvest = 0;
+let manure = 0;
+let weeding = 0;
+
+items.forEach(item => {
+
+const status = getStatus(item);
+
+if(status.class === "ready") harvest++;
+if(status.class === "soon") manure++;
+if(status.class === "weeding") weeding++;
+
+});
+
+document.getElementById("taskHarvest").innerText = "🔴 " + harvest;
+document.getElementById("taskManure").innerText = "🟡 " + manure;
+document.getElementById("taskWeeding").innerText = "🟣 " + weeding;
+
+}
 async function load(){
 
 const res = await fetch(DATA_URL);
