@@ -134,5 +134,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd3.jpg"
     ]
+  },
+  "A07": {
+    "plot": "A07",
+    "staff": "Mrs Tang",
+    "plant": "Brinjal",
+    "datePlanted": "2026-03-01",
+    "estHarvest": "",
+    "lastManure": "2026-03-02",
+    "nextManure": "2026-03-25",
+    "lastWeeding": "2026-03-02",
+    "uses": "Cooked in curries, grilled, or roasted",
+    "funFact": "Botanically a berry; comes in many shapes and colors.",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/brinjal1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/brinjal2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/brinjal3.jpg"
+    ]
   }
 }
