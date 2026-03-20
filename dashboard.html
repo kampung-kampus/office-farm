@@ -291,6 +291,9 @@ render();
 }
 
 ;
+document.getElementById("search").addEventListener("input", render);
+document.getElementById("filter").addEventListener("change", render);
+document.getElementById("sort").addEventListener("change", render);
 
 load();
 
