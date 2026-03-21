@@ -235,20 +235,20 @@
   },
   "AO2": {
     "plot": "AO2",
-    "staff": "Chin Hui",
-    "plant": "Banana flower",
-    "datePlanted": "",
+    "staff": "Mrs Tang",
+    "plant": "Nursery",
+    "datePlanted": "2026-02-02",
     "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
+    "lastManure": "2026-03-03",
+    "nextManure": "2026-03-26",
+    "lastWeeding": "2026-03-03",
     "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bananaflower1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bananaflower2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bananaflower3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery3.jpg"
     ]
   },
   "B06": {
