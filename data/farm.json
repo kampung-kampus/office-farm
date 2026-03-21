@@ -10,6 +10,7 @@
     "lastWeeding": "2026-03-16",
     "uses": "Use for oriental dishes",
     "funFact": "Good for all including young and old.",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pakchoy1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pakchoy2.jpg",
@@ -27,6 +28,7 @@
     "lastWeeding": "2026-03-04",
     "uses": "Use for oriental dishes",
     "funFact": "Good for all including young and old.",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pakchoy1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pakchoy2.jpg",
@@ -44,6 +46,7 @@
     "lastWeeding": "2026-03-03",
     "uses": "Use for oriental dishes",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage2.jpg",
@@ -61,6 +64,7 @@
     "lastWeeding": "2026-03-16",
     "uses": "Use for oriental dishes",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage2.jpg",
@@ -69,19 +73,20 @@
   },
   "A01": {
     "plot": "A01",
-    "staff": "Chin Hui",
-    "plant": "Banana",
-    "datePlanted": "2026-03-05",
-    "estHarvest": "",
-    "lastManure": "2026-03-11",
-    "nextManure": "2026-03-18",
-    "lastWeeding": "2026-03-17",
-    "uses": "Nutrient-rich fruit, eaten fresh, cooked, or dried.",
-    "funFact": "Known to be one of the first  cultivated fruits in human history; peel can polish leather or soothe bug bites.",
+    "staff": "Pris",
+    "plant": "Cabbage",
+    "datePlanted": "2026-03-01",
+    "estHarvest": "2026-06-29",
+    "lastManure": "2026-03-02",
+    "nextManure": "2026-03-24",
+    "lastWeeding": "2026-03-20",
+    "uses": "Used in salads, stir-fries, soups, and pickling.",
+    "funFact": "Can be stored for months; grows well in cool climates.",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage3.jpg"
     ]
   },
   "A03": {
@@ -95,6 +100,7 @@
     "lastWeeding": "2026-03-03",
     "uses": "Culinary herb for flavoring dishes, teas, and oils.",
     "funFact": "Sacred in many cultures; repels insects naturally.",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
@@ -112,6 +118,7 @@
     "lastWeeding": "2026-03-17",
     "uses": "Leafy vegetable, eaten stir-fried or in soups.",
     "funFact": "Ancient grain family; leaves rich in iron and calcium",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam2.jpg",
@@ -129,6 +136,7 @@
     "lastWeeding": "2026-03-10",
     "uses": "Used in stir-fries, soups, and medicinal teas.",
     "funFact": "Known for blood sugar regulation; very bitter taste.",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd2.jpg",
@@ -146,6 +154,7 @@
     "lastWeeding": "2026-03-02",
     "uses": "Cooked in curries, grilled, or roasted",
     "funFact": "Botanically a berry; comes in many shapes and colors.",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/brinjal1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/brinjal2.jpg",
@@ -163,6 +172,7 @@
     "lastWeeding": "2026-03-17",
     "uses": "Traditional medicinal herb, used in teas.",
     "funFact": "Known in Chinese medicine; believed to detoxify body.",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blackfacegeneral1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blackfacegeneral2.jpg",
@@ -180,6 +190,7 @@
     "lastWeeding": "2026-03-04",
     "uses": "Stir-fried or steamed leafy vegetable.",
     "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
@@ -197,6 +208,7 @@
     "lastWeeding": "2026-03-11",
     "uses": "Cooked in soups, pies, and curries.",
     "funFact": "Seeds edible; symbol of Halloween.",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pumpkin1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pumpkin2.jpg",
@@ -214,6 +226,7 @@
     "lastWeeding": "2026-03-04",
     "uses": "Eaten raw in salads or wraps.",
     "funFact": "Ancient Roman delicacy; grows quickly.",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce2.jpg",
