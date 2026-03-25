@@ -192,6 +192,11 @@ display:none;
 <span id="botanical"></span>
 </div>
 
+   <div class="section">
+<span class="label">Empty Plot:</span>
+<span id="botanical"></span>
+</div>
+
 <div class="staff-data staff-panel" id="staffSection">
 
 <h3>👨‍🌾 Staff Information</h3>
@@ -272,7 +277,7 @@ return;
 
 document.getElementById("plant").innerText = data.plant;
    document.getElementById("botanical").innerText = data.botanical || "";
-   document.getElementById("empty").innerText = data.botanical || "";
+   document.getElementById("empty").innerText = data.empty || "";
 document.getElementById("staff").innerText = data.staff;
 document.getElementById("datePlanted").innerText = data.datePlanted;
 document.getElementById("estHarvest").innerText = data.estHarvest;
