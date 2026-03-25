@@ -11,7 +11,7 @@
     "uses": "Cooked in soups, stews, and desserts.",
     "funFact": "Large fruit; used in Chinese cuisine.",
     "botanical": "Benincasa hispida",
-    "empty": "Benincasa hispida",
+    "empty": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/wintermelon1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/wintermelon2.jpg",
@@ -30,7 +30,7 @@
     "uses": "Leafy vegetable, eaten stir-fried or in soups.",
     "funFact": "Ancient grain family; leaves rich in iron and calcium",
     "botanical": "Amaranthus",
-    "empty": "Amaranthus",
+    "empty": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam2.jpg",
@@ -49,7 +49,7 @@
     "uses": "Tubers eaten roasted, boiled, or fried.",
     "funFact": "Leaves edible too; highly nutritious root crop.",
     "botanical": "Ipomoea batatas",
-    "empty": "Ipomoea batatas",
+    "empty": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotatoleaf1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotatoleaf2.jpg",
@@ -68,7 +68,7 @@
     "uses": "Traditional medicinal plant. Use to speed  up healing  fractured bones, sprains  joint pain. Widely use for reducing joint inflammation (arthritis)",
     "funFact": "Veld grape and dragon fruit  look very similar, often causing confusion among gardeners.",
     "botanical": "Cissus quadrangularis",
-    "empty": "Cissus quadrangularis",
+    "empty": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
@@ -106,7 +106,7 @@
     "uses": "Stir-fried or steamed leafy vegetable.",
     "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
     "botanical": "Brassica rapa",
-    "empty": "Brassica rapa",
+    "empty": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
@@ -125,7 +125,7 @@
     "uses": "Cooked in curries and stir-fries.",
     "funFact": "Long, slender eggplant variety; popular in Asia.",
     "botanical": "Solanum melongena",
-    "empty": "Solanum melongena",
+    "empty": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal2.jpg",
@@ -144,7 +144,7 @@
     "uses": "Nutritious leafy vegetable, used in stir-fries and soups.",
     "funFact": "Red pigment indicates high antioxidants; popular in Asian cuisine.",
     "botanical": "Amaranthus tricolor",
-    "empty": "Amaranthus tricolor",
+    "empty": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
@@ -163,7 +163,7 @@
     "uses": "Stir-fried or steamed leafy vegetable.",
     "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
     "botanical": "Brassica rapa",
-    "empty": "Brassica rapa",
+    "empty": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
@@ -182,7 +182,7 @@
     "uses": "Stir-fried or steamed leafy vegetable.",
     "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
     "botanical": "Brassica rapa",
-    "empty": "Brassica rapa",
+    "empty": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
@@ -240,6 +240,25 @@
     "funFact": "",
     "botanical": "",
     "empty": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
+  },
+  "Plot5": {
+    "plot": "Plot5",
+    "staff": "Chin Hui",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
+    "empty": "Fallow",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
