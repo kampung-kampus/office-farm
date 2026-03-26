@@ -283,5 +283,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ceylonspinach2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ceylonspinach3.jpg"
     ]
+  },
+  "A04": {
+    "plot": "A04",
+    "staff": "Mrs Tang",
+    "plant": "Purslane",
+    "datePlanted": "2026-03-10",
+    "estHarvest": "",
+    "lastManure": "2026-03-10",
+    "nextManure": "",
+    "lastWeeding": "2026-03-10",
+    "uses": "",
+    "funFact": "Can be eaten raw or cooked or stems can be pickled  in vinegar or spices.",
+    "botanical": "In Chinese folklore and traditional medicine, it is known as Ma Chi Xian and nicknamed the \"vegetable for long life\" due to its dense nutrient profile.",
+    "empty": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane3.jpg"
+    ]
   }
 }
