@@ -339,13 +339,26 @@ function showStaff(){
 
 let pw = prompt("Password required");
 
-if(pw && pw.toLowerCase()==="g"){
-document.getElementById("staffSection").style.display="block";
-}else{
-alert("Incorrect password");
-}
+function showStaff(){
 
-  
+  let pw = prompt("Password required");
+
+  if(pw && pw.toLowerCase() === "gui"){
+
+    const section = document.getElementById("staffSection");
+
+    section.style.display = "block";
+
+    // ✅ AUTO SCROLL TO STAFF SECTION
+    section.scrollIntoView({
+      behavior: "smooth",
+      block: "start"
+    });
+
+  }else{
+    alert("Incorrect password");
+  }
+
 }
 
 load();
