@@ -473,5 +473,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce3.jpg"
     ]
+  },
+  "C07": {
+    "plot": "C07",
+    "staff": "Mrs Tang",
+    "plant": "Laksa leaf",
+    "datePlanted": "2026-01-05",
+    "estHarvest": "2026-03-16",
+    "lastManure": "2026-01-05",
+    "nextManure": "2026-07-16",
+    "lastWeeding": "2026-03-25",
+    "uses": "Flavoring herb for laksa and soups.",
+    "funFact": "Use in Vietnam by monks to lower libido",
+    "botanical": "Persicaria odorata",
+    "empty": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/laksaleaf1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/laksaleaf2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/laksaleaf3.jpg"
+    ]
   }
 }
