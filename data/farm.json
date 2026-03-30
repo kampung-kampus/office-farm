@@ -1,4 +1,23 @@
 {
+  "A01": {
+    "plot": "A01",
+    "staff": "Mrs Tang",
+    "plant": "Choy sum",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Stir-fried or steamed leafy vegetable.",
+    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
+    "botanical": "Brassica rapa",
+    "empty": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+    ]
+  },
   "A02": {
     "plot": "A02",
     "staff": "Mrs Tang",
@@ -303,25 +322,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
-  "Plot Number": {
-    "plot": "Plot Number",
-    "staff": "Staff Name",
-    "plant": "Plant Name",
-    "datePlanted": "1970-01-01",
-    "estHarvest": "1970-01-01",
-    "lastManure": "1970-01-01",
-    "nextManure": "1970-01-01",
-    "lastWeeding": "1970-01-01",
-    "uses": "Uses",
-    "funFact": "Fun Fact",
-    "botanical": "Botanical",
-    "empty": "Empty Plot",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/plantname1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/plantname2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/plantname3.jpg"
-    ]
-  },
   "Plot1": {
     "plot": "Plot1",
     "staff": "Mrs Tang",
@@ -377,25 +377,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
-    ]
-  },
-  "A01": {
-    "plot": "A01",
-    "staff": "Mrs Tang",
-    "plant": "Choy sum",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
   "B08": {
