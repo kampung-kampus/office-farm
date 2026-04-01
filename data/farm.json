@@ -853,5 +853,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
+  },
+  "Plot3": {
+    "plot": "Plot3",
+    "staff": "Kale",
+    "plant": "Cucumber",
+    "datePlanted": "2026-02-06",
+    "estHarvest": "2026-04-07",
+    "lastManure": "2026-02-06",
+    "nextManure": "2026-04-03",
+    "lastWeeding": "2026-04-15",
+    "uses": "Eaten raw, pickled, or juiced.",
+    "funFact": "95% water; ancient cultivation in India.",
+    "botanical": "Cucumis sativus",
+    "empty": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cucumber1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cucumber2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cucumber3.jpg"
+    ]
   }
 }
