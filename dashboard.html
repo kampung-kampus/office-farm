@@ -253,8 +253,6 @@ card.onclick = () => {
 window.location.href = "index.html?plot=" + item.plot;
 };
 
- 
-
   
 card.innerHTML = `
 <div class="plot">${item.plot}</div>
@@ -276,7 +274,6 @@ ${status.text}
 
 <div class="small">
   <span class="emoji"> 🌾</span>${item.estHarvest}
- 
  
 
 <img src="${item.images[0]}" onerror="this.style.display='none'">
@@ -324,7 +321,8 @@ function downloadCSV() {
   a.href = url;
   a.download = "farm_data.csv";
   a.click();
-}
+});
+
 
 
 
