@@ -304,6 +304,34 @@ if(status.class === "weeding") weeding++;
 
 });
 
+
+
+function downloadCSV() {
+
+  let rows = [["Plot","Plant","Date Planted"]];
+
+  Object.keys(farmData).forEach(key => {
+    let item = farmData[key];
+    rows.push([item.plot, item.plant, item.datePlanted]);
+  });
+
+  let csv = rows.map(r => r.join(",")).join("\n");
+
+  let blob = new Blob([csv], { type: "text/csv" });
+  let url = URL.createObjectURL(blob);
+
+  let a = document.createElement("a");
+  a.href = url;
+  a.download = "farm_data.csv";
+  a.click();
+}
+
+
+
+
+
+   
+
 // ✅ update UI (NO HTML HERE)
 document.getElementById("taskHarvest").innerText = "🔴 " + harvest + " Harvest Ready";
 document.getElementById("taskManure").innerText = "🟡 " + manure + " Manure Today";
