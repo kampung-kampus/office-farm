@@ -248,6 +248,10 @@ card.onclick = () => {
 window.location.href = "index.html?plot=" + item.plot;
 };
 
+<button onclick="downloadCSV()">⬇ Download CSV</button>
+
+
+  
 card.innerHTML = `
 <div class="plot">${item.plot}</div>
 <div>${item.plant}</div>
@@ -303,7 +307,7 @@ function downloadCSV() {
 }
 
 
-<button onclick="downloadCSV()">⬇ Download CSV</button>
+ 
 
 
 
