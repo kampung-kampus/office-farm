@@ -248,8 +248,7 @@ card.onclick = () => {
 window.location.href = "index.html?plot=" + item.plot;
 };
 
-<button onclick="downloadCSV()">⬇ Download CSV</button>
-
+ 
 
   
 card.innerHTML = `
@@ -284,34 +283,6 @@ grid.appendChild(card);
 
 }
 
-
-
-function downloadCSV() {
-
-  let rows = [["Plot","Plant","Date Planted"]];
-
-  Object.keys(farmData).forEach(key => {
-    let item = farmData[key];
-    rows.push([item.plot, item.plant, item.datePlanted]);
-  });
-
-  let csv = rows.map(r => r.join(",")).join("\n");
-
-  let blob = new Blob([csv], { type: "text/csv" });
-  let url = URL.createObjectURL(blob);
-
-  let a = document.createElement("a");
-  a.href = url;
-  a.download = "farm_data.csv";
-  a.click();
-}
-
-
- 
-
-
-
-  
  function updateTaskSummary(items){
 
 let harvest = 0;
