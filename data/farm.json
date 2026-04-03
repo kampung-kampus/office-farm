@@ -645,25 +645,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
-  "": {
-    "plot": "",
-    "staff": "",
-    "plant": "",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/3.jpg"
-    ]
-  },
   "C14": {
     "plot": "C14",
     "staff": "Mrs Tang",
@@ -871,6 +852,25 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery3.jpg"
+    ]
+  },
+  "Plot6": {
+    "plot": "Plot6",
+    "staff": "Chin Hui",
+    "plant": "Kai lan",
+    "datePlanted": "2026-04-03",
+    "estHarvest": "2026-06-02",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Stir-fried or steamed vegetable",
+    "funFact": "Thick stems and leaves; flowers edible too.",
+    "botanical": "Brassica oleracea",
+    "empty": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
     ]
   }
 }
