@@ -875,21 +875,21 @@
   },
   "Plot10": {
     "plot": "Plot10",
-    "staff": "Mrs Tang",
-    "plant": "Chiku",
+    "staff": "Pris",
+    "plant": "Coral vine",
     "datePlanted": "2026-04-03",
-    "estHarvest": "",
+    "estHarvest": "2026-04-13",
     "lastManure": "2026-04-03",
-    "nextManure": "2026-04-30",
+    "nextManure": "2026-04-17",
     "lastWeeding": "2026-04-03",
-    "uses": "Edible tropical fruit",
-    "funFact": "Rich in iron",
-    "botanical": "Manilkara zapota",
+    "uses": "Ornamental",
+    "funFact": "Flowers and leaves are edible",
+    "botanical": "Antigonon leptopus",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coralvine1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coralvine2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coralvine3.jpg"
     ]
   }
 }
