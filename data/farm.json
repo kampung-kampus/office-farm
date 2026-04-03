@@ -872,5 +872,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
     ]
+  },
+  "Plot10": {
+    "plot": "Plot10",
+    "staff": "Mrs Tang",
+    "plant": "Chiku",
+    "datePlanted": "2026-04-03",
+    "estHarvest": "",
+    "lastManure": "2026-04-03",
+    "nextManure": "2026-04-30",
+    "lastWeeding": "2026-04-03",
+    "uses": "Edible tropical fruit",
+    "funFact": "Rich in iron",
+    "botanical": "Manilkara zapota",
+    "empty": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku3.jpg"
+    ]
   }
 }
