@@ -891,5 +891,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/testingplant42.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/testingplant43.jpg"
     ]
+  },
+  "Plot5": {
+    "plot": "Plot5",
+    "staff": "Mrs Tang",
+    "plant": "testnig plant 5",
+    "datePlanted": "2026-04-03",
+    "estHarvest": "2026-04-13",
+    "lastManure": "2026-04-02",
+    "nextManure": "2026-04-30",
+    "lastWeeding": "2026-04-01",
+    "uses": "testuse",
+    "funFact": "TTEST FACT",
+    "botanical": "TEST NAME",
+    "empty": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/testnigplant51.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/testnigplant52.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/testnigplant53.jpg"
+    ]
   }
 }
