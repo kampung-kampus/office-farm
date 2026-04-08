@@ -572,20 +572,20 @@
   "C09": {
     "plot": "C09",
     "staff": "Mrs Tang",
-    "plant": "Choy sum",
-    "datePlanted": "2026-03-12",
-    "estHarvest": "2026-04-11",
-    "lastManure": "2026-03-12",
-    "nextManure": "2026-04-08",
-    "lastWeeding": "2026-03-12",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
+    "plant": "Kai lan",
+    "datePlanted": "2026-03-02",
+    "estHarvest": "2026-05-01",
+    "lastManure": "2026-03-02",
+    "nextManure": "2026-04-13",
+    "lastWeeding": "2026-03-02",
+    "uses": "Stir-fried or steamed vegetable",
+    "funFact": "Thick stems and leaves; flowers edible too.",
+    "botanical": "Brassica oleracea",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
     ]
   },
   "C11": {
