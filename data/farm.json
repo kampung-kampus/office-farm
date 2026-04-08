@@ -591,20 +591,20 @@
   "C11": {
     "plot": "C11",
     "staff": "Mrs Tang",
-    "plant": "Choy sum",
+    "plant": "Kai lan",
     "datePlanted": "2026-03-31",
-    "estHarvest": "2026-04-30",
-    "lastManure": "2026-04-01",
-    "nextManure": "2026-04-30",
-    "lastWeeding": "2026-03-31",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
+    "estHarvest": "2026-05-30",
+    "lastManure": "2026-03-31",
+    "nextManure": "2026-04-21",
+    "lastWeeding": "2026-04-15",
+    "uses": "Stir-fried or steamed vegetable",
+    "funFact": "Thick stems and leaves; flowers edible too.",
+    "botanical": "Brassica oleracea",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
     ]
   },
   "C12": {
@@ -738,25 +738,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
-    ]
-  },
-  "Plot1": {
-    "plot": "Plot1",
-    "staff": "Chin Hui",
-    "plant": "cabbage",
-    "datePlanted": "2026-03-11",
-    "estHarvest": "2026-07-09",
-    "lastManure": "2026-03-15",
-    "nextManure": "2026-03-30",
-    "lastWeeding": "2026-03-20",
-    "uses": "Used in salads, stir-fries, soups, and pickling.",
-    "funFact": "Can be stored for months; grows well in cool climates.",
-    "botanical": "Brassica oleracea var. capitata",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage3.jpg"
     ]
   },
   "B02": {
