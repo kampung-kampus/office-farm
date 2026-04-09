@@ -386,7 +386,7 @@ function downloadCSV() {
     .catch(err => {
       alert("Download failed: " + err);
     });
-} */
+} 
 
 
   function downloadCSVFromSheet() {
@@ -407,7 +407,48 @@ function downloadCSV() {
 
       URL.revokeObjectURL(blobUrl);
     });
+}*/
+
+
+function downloadCSVFromSheet() {
+
+  const url = "YOUR_WEB_APP_URL?type=csv";  // 🔴 MUST include this
+
+  fetch(url)
+    .then(response => response.text())
+    .then(csv => {
+
+      const blob = new Blob([csv], { type: "text/csv" });
+      const blobUrl = URL.createObjectURL(blob);
+
+      const a = document.createElement("a");
+      a.href = blobUrl;
+      a.download = "master_plot_log.csv";
+      document.body.appendChild(a);
+      a.click();
+
+      document.body.removeChild(a);
+      URL.revokeObjectURL(blobUrl);
+    })
+    .catch(err => {
+      alert("Download failed: " + err);
+    });
 }
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
 async function load(){
 
 const res = await fetch(DATA_URL);
