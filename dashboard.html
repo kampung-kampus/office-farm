@@ -350,7 +350,7 @@ function downloadCSV() {
     })
     .getMasterLogCSV();
 }
-*/
+
 
 
 
@@ -363,9 +363,30 @@ function downloadCSV() {
   a.download = "master_plot_log.csv";
   a.click();
 }
-  
+  */
 
+function downloadCSVFromSheet() {
 
+  const url = "YOUR_WEB_APP_URL?type=csv";
+
+  fetch(url)
+    .then(res => res.text())
+    .then(csv => {
+
+      const blob = new Blob([csv], { type: "text/csv" });
+      const blobUrl = URL.createObjectURL(blob);
+
+      const a = document.createElement("a");
+      a.href = blobUrl;
+      a.download = "master_plot_log.csv";
+      a.click();
+
+      URL.revokeObjectURL(blobUrl);
+    })
+    .catch(err => {
+      alert("Download failed: " + err);
+    });
+}
 
 
   
