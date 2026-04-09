@@ -799,21 +799,21 @@
   },
   "Plot2": {
     "plot": "Plot2",
-    "staff": "KK",
-    "plant": "Custard apple",
-    "datePlanted": "2026-01-05",
-    "estHarvest": "2028-10-01",
-    "lastManure": "2026-01-05",
-    "nextManure": "2026-12-21",
-    "lastWeeding": "2026-01-05",
-    "uses": "Use in cooking and traditional medicine. The most common way to enjoy it is raw; the fruit is typically sliced in half and the soft pulp scooped out with a spoon.",
-    "funFact": "A tropical fruit prized for its sweet, creamy, custard-like pulp",
-    "botanical": "Annona squamosa L",
+    "staff": "Pris",
+    "plant": "Coral vine",
+    "datePlanted": "2026-04-07",
+    "estHarvest": "2029-01-01",
+    "lastManure": "2026-04-07",
+    "nextManure": "2026-04-28",
+    "lastWeeding": "2026-04-07",
+    "uses": "Edible leaves, used in salads.",
+    "funFact": "",
+    "botanical": "",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/custardapple1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/custardapple2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/custardapple3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coralvine1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coralvine2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coralvine3.jpg"
     ]
   }
 }
