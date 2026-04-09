@@ -352,7 +352,22 @@ function downloadCSV() {
 }
 */
 
+
+
+  function downloadCSVFromSheet() {
+
+  const url = "YOUR_WEB_APP_URL?type=csv";
+
+  let a = document.createElement("a");
+  a.href = url;
+  a.download = "master_plot_log.csv";
+  a.click();
+}
   
+
+
+
+
   
 async function load(){
 
