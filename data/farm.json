@@ -815,5 +815,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coralvine2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coralvine3.jpg"
     ]
+  },
+  "Plot7": {
+    "plot": "Plot7",
+    "staff": "Mrs Tang",
+    "plant": "Bayam red",
+    "datePlanted": "2026-03-17",
+    "estHarvest": "2026-04-21",
+    "lastManure": "2026-03-17",
+    "nextManure": "2026-04-17",
+    "lastWeeding": "2026-03-17",
+    "uses": "Nutritious leafy vegetable, used in stir-fries and soups.",
+    "funFact": "Red pigment indicates high antioxidants; popular in Asian cuisine.",
+    "botanical": "Amaranthus tricolor",
+    "empty": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred3.jpg"
+    ]
   }
 }
