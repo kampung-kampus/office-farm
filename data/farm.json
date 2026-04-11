@@ -799,21 +799,21 @@
   },
   "Plot10": {
     "plot": "Plot10",
-    "staff": "Pris",
-    "plant": "Banana",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "2026-04-03",
-    "lastWeeding": "",
-    "uses": "Nutrient-rich fruit, eaten fresh, cooked, or dried.",
-    "funFact": "Known to be one of the first  cultivated fruits in human history; peel can polish leather or soothe bug bites.",
-    "botanical": "Musa paradisiaca",
+    "staff": "Mrs Tang",
+    "plant": "Wintermelon",
+    "datePlanted": "2026-04-04",
+    "estHarvest": "2026-07-13",
+    "lastManure": "2026-04-04",
+    "nextManure": "2026-04-25",
+    "lastWeeding": "2026-04-04",
+    "uses": "Cooked in soups, stews, and desserts.",
+    "funFact": "Large fruit; used in Chinese cuisine.",
+    "botanical": "Benincasa hispida",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/wintermelon1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/wintermelon2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/wintermelon3.jpg"
     ]
   }
 }
