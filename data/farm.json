@@ -1,21 +1,21 @@
 {
   "A01": {
     "plot": "A01",
-    "staff": "KK",
-    "plant": "Bayam red",
-    "datePlanted": "2026-04-16",
-    "estHarvest": "2026-05-21",
-    "lastManure": "2026-04-17",
+    "staff": "Mrs Tang",
+    "plant": "Wintermelon",
+    "datePlanted": "2026-01-02",
+    "estHarvest": "2026-04-12",
+    "lastManure": "2026-04-03",
     "nextManure": "2026-04-30",
-    "lastWeeding": "2026-04-15",
-    "uses": "Leafy vegetable, eaten stir-fried or in soups.",
-    "funFact": "Ancient grain family; leaves rich in iron and calcium",
-    "botanical": "Amaranthus",
+    "lastWeeding": "2026-01-02",
+    "uses": "Cooked in soups, stews, and desserts.",
+    "funFact": "Large fruit; used in Chinese cuisine.",
+    "botanical": "Benincasa hispida",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/wintermelon1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/wintermelon2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/wintermelon3.jpg"
     ]
   },
   "A03": {
