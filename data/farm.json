@@ -629,20 +629,20 @@
   "C13": {
     "plot": "C13",
     "staff": "Mrs Tang",
-    "plant": "Pigeon pea",
-    "datePlanted": "2026-03-18",
-    "estHarvest": "2026-09-14",
-    "lastManure": "2026-03-18",
-    "nextManure": "2026-04-28",
-    "lastWeeding": "2026-03-12",
-    "uses": "Used in curries, stews, and dal.",
-    "funFact": "Drought-resistant; staple in Indian cuisine.",
-    "botanical": "Cajanus cajan",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pigeonpea1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pigeonpea2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pigeonpea3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "C14": {
