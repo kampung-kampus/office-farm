@@ -819,20 +819,20 @@
   "Plot5": {
     "plot": "Plot5",
     "staff": "KK",
-    "plant": "Ginger",
-    "datePlanted": "2026-04-17",
-    "estHarvest": "2027-02-11",
-    "lastManure": "2026-04-17",
-    "nextManure": "2026-04-24",
-    "lastWeeding": "2026-04-17",
-    "uses": "Root used in cooking, teas, and medicine.",
-    "funFact": "Ancient spice; aids digestion and relieves nausea.",
-    "botanical": "Zingiber officinale",
+    "plant": "Chilli",
+    "datePlanted": "2026-02-06",
+    "estHarvest": "2026-05-17",
+    "lastManure": "2026-04-02",
+    "nextManure": "2026-04-29",
+    "lastWeeding": "2026-04-03",
+    "uses": "Adds spice to dishes, sauces, and pickles.",
+    "funFact": "Tiny but extremely hot; boosts metabolism.",
+    "botanical": "Capsicum frutescens",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli3.jpg"
     ]
   },
   "Plot6": {
