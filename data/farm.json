@@ -986,5 +986,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
     ]
+  },
+  "Plot 2": {
+    "plot": "Plot 2",
+    "staff": "Mrs Tang",
+    "plant": "Watermeloon",
+    "datePlanted": "2026-03-06",
+    "estHarvest": "2026-04-25",
+    "lastManure": "2026-03-05",
+    "nextManure": "2026-04-29",
+    "lastWeeding": "2026-03-03",
+    "uses": "Tropical fruit",
+    "funFact": "can be round or elongated in shape",
+    "botanical": "Citrullus lanatus",
+    "empty": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/watermeloon1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/watermeloon2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/watermeloon3.jpg"
+    ]
   }
 }
