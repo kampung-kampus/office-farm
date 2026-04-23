@@ -229,21 +229,21 @@
   },
   "B04": {
     "plot": "B04",
-    "staff": "Mrs Tang",
-    "plant": "Lettuce",
-    "datePlanted": "2026-03-31",
-    "estHarvest": "2026-05-20",
-    "lastManure": "2026-03-31",
-    "nextManure": "2026-04-30",
-    "lastWeeding": "2026-03-31",
-    "uses": "Eaten raw in salads or wraps.",
-    "funFact": "Ancient Roman delicacy; grows quickly.",
-    "botanical": "Lactuca sativa",
+    "staff": "KK",
+    "plant": "Chinese lantern plant",
+    "datePlanted": "2026-04-08",
+    "estHarvest": "2026-07-17",
+    "lastManure": "2026-04-23",
+    "nextManure": "2026-04-29",
+    "lastWeeding": "2026-04-23",
+    "uses": "Fruits are used as cakes' toppings. In Traditional Chinese Medicine and Unani systems, the fruit and calyx (husks) have been used to treat toxic heat, sore throats, and coughs. ",
+    "funFact": "Fossilized remains of these distinctive inflated pods have been found dating back to the Pleistocene era in Germany. It is a close relative of the  tomato, and eggplant, but unlike its cousins, almost all parts of this plant (except the ripe fruit) are poisonous due to solanine.",
+    "botanical": "Physalis alkekengi",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant3.jpg"
     ]
   },
   "B05": {
