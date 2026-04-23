@@ -248,21 +248,21 @@
   },
   "B05": {
     "plot": "B05",
-    "staff": "Kale",
-    "plant": "Ginger",
-    "datePlanted": "2026-02-12",
-    "estHarvest": "2026-12-09",
-    "lastManure": "2026-02-12",
-    "nextManure": "2026-04-15",
-    "lastWeeding": "2026-02-13",
-    "uses": "Root used in cooking, teas, and medicine.",
-    "funFact": "Ancient spice; aids digestion and relieves nausea.",
-    "botanical": "Zingiber officinale",
+    "staff": "Mrs Tang",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B06": {
