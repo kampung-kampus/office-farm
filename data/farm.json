@@ -21,20 +21,20 @@
   "A03": {
     "plot": "A03",
     "staff": "KK",
-    "plant": "Kang kong",
-    "datePlanted": "2026-02-12",
-    "estHarvest": "2026-03-24",
-    "lastManure": "2026-03-12",
+    "plant": "Rambutan",
+    "datePlanted": "2026-03-06",
+    "estHarvest": "2026-03-09",
+    "lastManure": "2026-04-16",
     "nextManure": "2026-04-29",
-    "lastWeeding": "2026-01-15",
-    "uses": "Stir-fried or boiled vegetable",
-    "funFact": "Grows in water; popular in Southeast Asia.",
-    "botanical": "Ipomoea aquatica",
+    "lastWeeding": "2026-03-12",
+    "uses": "sweet",
+    "funFact": "hairy",
+    "botanical": "fruitrambu",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kangkong1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kangkong2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kangkong3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan3.jpg"
     ]
   },
   "A04": {
