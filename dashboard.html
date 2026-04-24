@@ -288,23 +288,7 @@ function updateTaskSummary(items) {
 
 function downloadCSVFromSheet() {
   const url = "https://script.google.com/macros/s/AKfycbykfmOsg9vdLq0Ryt1DxUhxk4TrdjAlV5bufLtM5YZ8fQaf8kPvHSwom411S1dv87zN/exec?type=csv";
-
-  fetch(url)
-    .then(response => response.text())
-    .then(csv => {
-      const blob    = new Blob([csv], { type: "text/csv" });
-      const blobUrl = URL.createObjectURL(blob);
-      const a = document.createElement("a");
-      a.href = blobUrl;
-      a.download = "master_plot_log.csv";
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(blobUrl);
-    })
-    .catch(err => {
-      alert("Download failed: " + err);
-    });
+  window.open(url, "_blank");
 }
 
 async function load() {
