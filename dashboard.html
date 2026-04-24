@@ -286,9 +286,10 @@ function updateTaskSummary(items) {
   document.getElementById("taskWeeding").innerText = "🟣 " + weeding + " Weeding Needed";
 }
 
-function downloadCSVFromSheet() {
-  const url = "https://script.google.com/macros/s/AKfycbxyO1H5_fefWeiT_uQH5V3aJ_kXjIRoIl7wbJRhPGgs7FS9gciCmt8VD0MIXWFai4mdWw/exec";
-  
+
+
+  function downloadCSVFromSheet() {
+  const url = "https://script.google.com/macros/s/AKfycbxyO1H5_fefWeiT_uQH5V3aJ_kXjIRoIl7wbJRhPGgs7FS9gciCmt8VD0MIXWFai4mdWw/exec?type=csv";
   window.open(url, "_blank");
 }
 
