@@ -324,21 +324,21 @@
   },
   "C01": {
     "plot": "C01",
-    "staff": "Mrs Tang",
-    "plant": "Kale",
-    "datePlanted": "2026-01-21",
-    "estHarvest": "2026-03-22",
-    "lastManure": "2026-01-15",
-    "nextManure": "2026-04-21",
-    "lastWeeding": "2026-01-15",
-    "uses": "Leafy green, eaten raw, sautéed, or juiced.",
-    "funFact": "Ancient crop; extremely nutrient-dense “superfood.”",
-    "botanical": "Brassica oleracea var. acephala",
+    "staff": "KK",
+    "plant": "Mugwort",
+    "datePlanted": "2026-02-10",
+    "estHarvest": "2026-05-11",
+    "lastManure": "2026-02-27",
+    "nextManure": "2026-04-29",
+    "lastWeeding": "2026-04-01",
+    "uses": "Used in teas, soups, and traditional medicine.",
+    "funFact": "Associated with folklore; used in rituals.",
+    "botanical": "Artemisia vulgaris",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mugwort1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mugwort2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mugwort3.jpg"
     ]
   },
   "C04": {
