@@ -1,59 +1,21 @@
 {
-  "A01": {
-    "plot": "A01",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
-    ]
-  },
   "A03": {
     "plot": "A03",
     "staff": "KK",
-    "plant": "Blueberry",
-    "datePlanted": "2026-03-06",
-    "estHarvest": "2026-03-11",
-    "lastManure": "2026-03-07",
-    "nextManure": "2026-04-08",
-    "lastWeeding": "2026-04-29",
-    "uses": "fruit",
-    "funFact": "temperate fruit",
-    "botanical": "Berrygood",
+    "plant": "Curry leaf",
+    "datePlanted": "2026-02-16",
+    "estHarvest": "2026-07-16",
+    "lastManure": "2026-03-05",
+    "nextManure": "2026-04-29",
+    "lastWeeding": "2026-04-09",
+    "uses": "Leaves flavor curries, soups, and chutneys.",
+    "funFact": "Native to India; aromatic leaves used fresh or dried.",
+    "botanical": "Murraya koenigii",
     "empty": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueberry1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueberry2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueberry3.jpg"
-    ]
-  },
-  "A04": {
-    "plot": "A04",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/curryleaf1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/curryleaf2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/curryleaf3.jpg"
     ]
   },
   "A05": {
@@ -151,25 +113,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred3.jpg"
     ]
   },
-  "A10": {
-    "plot": "A10",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
-    ]
-  },
   "A11": {
     "plot": "A11",
     "staff": "Mrs Tang",
@@ -187,25 +130,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam3.jpg"
-    ]
-  },
-  "A12": {
-    "plot": "A12",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B01": {
@@ -244,25 +168,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant3.jpg"
-    ]
-  },
-  "B05": {
-    "plot": "B05",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B06": {
@@ -339,25 +244,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam3.jpg"
-    ]
-  },
-  "B10": {
-    "plot": "B10",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B11": {
@@ -453,25 +339,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce3.jpg"
-    ]
-  },
-  "B16": {
-    "plot": "B16",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "C01": {
@@ -626,25 +493,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
-  "C13": {
-    "plot": "C13",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
-    ]
-  },
   "C14": {
     "plot": "C14",
     "staff": "Kale",
@@ -797,25 +645,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery3.jpg"
     ]
   },
-  "Plot10": {
-    "plot": "Plot10",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
-    ]
-  },
   "Plot5": {
     "plot": "Plot5",
     "staff": "KK",
@@ -873,25 +702,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ceylonspinach3.jpg"
     ]
   },
-  "Plot8": {
-    "plot": "Plot8",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
-    ]
-  },
   "Plot4": {
     "plot": "Plot4",
     "staff": "Mrs Tang",
@@ -909,25 +719,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/tapioca1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/tapioca2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/tapioca3.jpg"
-    ]
-  },
-  "Plot9": {
-    "plot": "Plot9",
-    "staff": "KK",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "empty": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "Plot3": {
