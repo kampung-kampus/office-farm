@@ -299,7 +299,7 @@ function downloadCSVFromSheet() {
 
 function confirmDownload() {
   const entered = document.getElementById('pwInput').value;
-  const correct = 'test'; // 🔑 Change password here anytime
+  const correct = 'g'; // 🔑 Change password here anytime
   if (entered === correct) {
     document.getElementById('pwModal').style.display = 'none';
     const url = "https://script.google.com/macros/s/AKfycbzAjwlVpIiVdYrQeg261RXfe6p-enuInmlu3Wjo4B9uQEGIXgrIA0pAoFkCswRVBMdGoQ/exec?type=csv&v=" + new Date().getTime();
