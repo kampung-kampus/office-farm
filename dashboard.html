@@ -288,12 +288,39 @@ function updateTaskSummary(items) {
 
 
 
-  function downloadCSVFromSheet() {
-  const url ="https://script.google.com/macros/s/AKfycbzAjwlVpIiVdYrQeg261RXfe6p-enuInmlu3Wjo4B9uQEGIXgrIA0pAoFkCswRVBMdGoQ/exec?type=csv";
 
-   
-  window.open(url, "_blank");
+
+function downloadCSVFromSheet() {
+  document.getElementById('pwModal').style.display = 'flex';
+  document.getElementById('pwInput').value = '';
+  document.getElementById('pwError').style.display = 'none';
+  setTimeout(() => document.getElementById('pwInput').focus(), 100);
 }
+
+function confirmDownload() {
+  const entered = document.getElementById('pwInput').value;
+  const correct = 'test'; // 🔑 Change password here anytime
+  if (entered === correct) {
+    document.getElementById('pwModal').style.display = 'none';
+    const url = "https://script.google.com/macros/s/AKfycbzAjwlVpIiVdYrQeg261RXfe6p-enuInmlu3Wjo4B9uQEGIXgrIA0pAoFkCswRVBMdGoQ/exec?type=csv&v=" + new Date().getTime();
+    window.open(url, "_blank");
+  } else {
+    document.getElementById('pwError').style.display = 'block';
+    document.getElementById('pwInput').value = '';
+    document.getElementById('pwInput').focus();
+  }
+}
+
+function cancelDownload() {
+  document.getElementById('pwModal').style.display = 'none';
+}
+
+
+
+  
+
+
+ 
 
 async function load() {
   const res = await fetch(DATA_URL);
@@ -308,7 +335,34 @@ document.getElementById("sort").addEventListener("change", render);
 load();
 
 </script>
-
+<!-- Password Modal -->
+<div id="pwModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%;
+  background:rgba(0,0,0,0.5); z-index:1000; align-items:center; justify-content:center;">
+  <div style="background:white; border-radius:12px; padding:32px; width:90%; max-width:360px;
+    box-shadow:0 8px 32px rgba(0,0,0,0.2); text-align:center;">
+    <div style="font-size:36px; margin-bottom:12px;">🔒</div>
+    <h3 style="margin:0 0 8px; color:#2c7a3f;">Protected Download</h3>
+    <p style="color:#666; font-size:13px; margin-bottom:20px;">Enter password to download Full History</p>
+    <input type="password" id="pwInput" placeholder="Enter password"
+      onkeydown="if(event.key==='Enter') confirmDownload()"
+      style="width:100%; padding:10px 14px; border:1.5px solid #ccc; border-radius:8px;
+        font-size:14px; box-sizing:border-box; margin-bottom:10px; outline:none;">
+    <div id="pwError" style="display:none; color:#c0392b; font-size:13px;
+      margin-bottom:10px;">❌ Incorrect password. Try again.</div>
+    <div style="display:flex; gap:10px; justify-content:center;">
+      <button onclick="cancelDownload()"
+        style="padding:10px 20px; border:1.5px solid #ccc; background:white;
+          border-radius:8px; cursor:pointer; font-size:14px; color:#666;">
+        Cancel
+      </button>
+      <button onclick="confirmDownload()"
+        style="padding:10px 20px; background:#2c7a3f; color:white;
+          border:none; border-radius:8px; cursor:pointer; font-size:14px;">
+        Download
+      </button>
+    </div>
+  </div>
+</div>
 </body>
 </html>
 
