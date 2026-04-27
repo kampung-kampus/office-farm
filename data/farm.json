@@ -127,20 +127,20 @@
   },
   "B04": {
     "plot": "B04",
-    "staff": "KK",
-    "plant": "Chinese lantern plant",
-    "datePlanted": "2026-04-08",
-    "estHarvest": "2026-07-17",
-    "lastManure": "2026-04-23",
-    "nextManure": "2026-04-29",
-    "lastWeeding": "2026-04-23",
-    "uses": "Fruits are used as cakes' toppings. In Traditional Chinese Medicine and Unani systems, the fruit and calyx (husks) have been used to treat toxic heat, sore throats, and coughs. ",
-    "funFact": "Fossilized remains of these distinctive inflated pods have been found dating back to the Pleistocene era in Germany. It is a close relative of the  tomato, and eggplant, but unlike its cousins, almost all parts of this plant (except the ripe fruit) are poisonous due to solanine.",
-    "botanical": "Physalis alkekengi",
+    "staff": "Mrs Tang",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B06": {
@@ -753,6 +753,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+    ]
+  },
+  "B05": {
+    "plot": "B05",
+    "staff": "Mrs Tang",
+    "plant": "Kai lan",
+    "datePlanted": "2026-04-23",
+    "estHarvest": "2026-06-22",
+    "lastManure": "2026-04-23",
+    "nextManure": "2026-05-22",
+    "lastWeeding": "2026-04-23",
+    "uses": "Stir-fried or steamed vegetable",
+    "funFact": "Thick stems and leaves; flowers edible too.",
+    "botanical": "Brassica oleracea",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
     ]
   }
 }
