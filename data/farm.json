@@ -808,5 +808,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
+  },
+  "A10": {
+    "plot": "A10",
+    "staff": "Mrs Tang",
+    "plant": "Bittergourd",
+    "datePlanted": "2026-02-05",
+    "estHarvest": "2026-04-01",
+    "lastManure": "2026-02-05",
+    "nextManure": "2026-04-30",
+    "lastWeeding": "2026-02-06",
+    "uses": "Used in stir-fries, soups, and medicinal teas.",
+    "funFact": "Known to be able to lower blood sugar; very bitter taste.",
+    "botanical": "Momordica charantia",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd3.jpg"
+    ]
   }
 }
