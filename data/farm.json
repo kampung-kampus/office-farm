@@ -91,20 +91,20 @@
   },
   "A09": {
     "plot": "A09",
-    "staff": "Mrs Tang",
-    "plant": "Bayam red",
-    "datePlanted": "2026-04-04",
-    "estHarvest": "2026-05-09",
-    "lastManure": "2026-04-04",
-    "nextManure": "2026-05-08",
-    "lastWeeding": "2026-04-04",
-    "uses": "Nutritious leafy vegetable, used in stir-fries and soups.",
-    "funFact": "Red pigment indicates high antioxidants; popular in Asian cuisine.",
-    "botanical": "Amaranthus tricolor",
+    "staff": "Pris",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A11": {
