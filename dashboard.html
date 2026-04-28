@@ -132,6 +132,8 @@ input, select {
   font-size: 2em;
 }
 
+
+/* style for phone */
 @media only screen and (max-width: 600px) {
   .controls {
     flex-direction: column !important;
@@ -154,6 +156,38 @@ input, select {
     flex-wrap: wrap;
     margin-left: 0;
     width: 100%;
+  }
+
+  /* 👇 2 columns on mobile = 6 cards visible per screen */
+  .grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 8px !important;
+    padding: 8px !important;
+  }
+
+  .card {
+    padding: 8px !important;
+  }
+
+  .plot {
+    font-size: 13px !important;
+  }
+
+  .card img {
+    display: none !important;
+  }
+
+  .small {
+    font-size: 11px !important;
+  }
+
+  .status {
+    font-size: 10px !important;
+    padding: 3px 6px !important;
+  }
+
+  .emoji {
+    font-size: 1em !important;
   }
 }
 
