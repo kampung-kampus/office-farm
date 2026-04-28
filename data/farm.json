@@ -451,20 +451,20 @@
   },
   "C14": {
     "plot": "C14",
-    "staff": "Kale",
-    "plant": "Bayam red",
-    "datePlanted": "2026-04-16",
-    "estHarvest": "2026-05-21",
-    "lastManure": "2026-04-09",
+    "staff": "Mrs Tang",
+    "plant": "Snake brinjal",
+    "datePlanted": "2026-02-21",
+    "estHarvest": "2026-06-01",
+    "lastManure": "2026-02-21",
     "nextManure": "2026-04-30",
-    "lastWeeding": "2026-04-16",
-    "uses": "Leafy vegetable, eaten stir-fried or in soups.",
-    "funFact": "Ancient grain family; leaves rich in iron and calcium",
-    "botanical": "Amaranthus",
+    "lastWeeding": "2026-02-21",
+    "uses": "Cooked in curries, grilled, or roasted",
+    "funFact": "Botanically a berry; comes in many shapes and colors.",
+    "botanical": "Solanum melongena",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal3.jpg"
     ]
   },
   "C02": {
