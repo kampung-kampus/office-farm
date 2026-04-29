@@ -1,4 +1,22 @@
 {
+  "A02": {
+    "plot": "A02",
+    "staff": "Mrs Tang",
+    "plant": "Nursery",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Germinating  seeds and preparing a variety  of  saplings for planting.",
+    "funFact": "Nursery is like a  childcare centre protecting  and nurturing  the young plants. Saplings are kept in the nursery  until they are ready to be moved to the main plots for planting. ",
+    "botanical": "Houses miscellaneous plants",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery3.jpg"
+    ]
+  },
   "A03": {
     "plot": "A03",
     "staff": "Mrs Tang",
@@ -15,6 +33,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ceylonspinach1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ceylonspinach2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ceylonspinach3.jpg"
+    ]
+  },
+  "A04": {
+    "plot": "A04",
+    "staff": "Mrs Tang",
+    "plant": "Choy sum",
+    "datePlanted": "2026-04-11",
+    "estHarvest": "2026-05-11",
+    "lastManure": "2026-04-11",
+    "nextManure": "2026-05-16",
+    "lastWeeding": "2026-04-11",
+    "uses": "Stir-fried or steamed leafy vegetable.",
+    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
+    "botanical": "Brassica rapa",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
   "A05": {
@@ -107,6 +143,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
+  "A10": {
+    "plot": "A10",
+    "staff": "Mrs Tang",
+    "plant": "Bittergourd",
+    "datePlanted": "2026-02-05",
+    "estHarvest": "2026-04-01",
+    "lastManure": "2026-02-05",
+    "nextManure": "2026-04-30",
+    "lastWeeding": "2026-02-06",
+    "uses": "Used in stir-fries, soups, and medicinal teas.",
+    "funFact": "Known to be able to lower blood sugar; very bitter taste.",
+    "botanical": "Momordica charantia",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd3.jpg"
+    ]
+  },
   "A11": {
     "plot": "A11",
     "staff": "Mrs Tang",
@@ -125,6 +179,78 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam3.jpg"
     ]
   },
+  "A12": {
+    "plot": "A12",
+    "staff": "Mrs Tang",
+    "plant": "Sweet potato leaf",
+    "datePlanted": "2026-01-15",
+    "estHarvest": "2026-05-15",
+    "lastManure": "2026-01-20",
+    "nextManure": "2026-01-14",
+    "lastWeeding": "2026-04-30",
+    "uses": "Tubers eaten roasted, boiled, or fried.",
+    "funFact": "Leaves edible too; highly nutritious root crop.",
+    "botanical": "Ipomoea batatas",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotatoleaf1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotatoleaf2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotatoleaf3.jpg"
+    ]
+  },
+  "B01": {
+    "plot": "B01",
+    "staff": "Mrs Tang",
+    "plant": "Basil",
+    "datePlanted": "2026-02-12",
+    "estHarvest": "2026-04-03",
+    "lastManure": "2026-02-10",
+    "nextManure": "2026-04-29",
+    "lastWeeding": "2026-04-30",
+    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
+    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
+    "botanical": "Ocimum basilicum",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
+    ]
+  },
+  "B02": {
+    "plot": "B02",
+    "staff": "Pris",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
+  },
+  "B03": {
+    "plot": "B03",
+    "staff": "KK",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
+  },
   "B04": {
     "plot": "B04",
     "staff": "Mrs Tang",
@@ -141,6 +267,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
+  },
+  "B05": {
+    "plot": "B05",
+    "staff": "Mrs Tang",
+    "plant": "Kai lan",
+    "datePlanted": "2026-04-23",
+    "estHarvest": "2026-06-22",
+    "lastManure": "2026-04-23",
+    "nextManure": "2026-05-22",
+    "lastWeeding": "2026-04-23",
+    "uses": "Stir-fried or steamed vegetable",
+    "funFact": "Thick stems and leaves; flowers edible too.",
+    "botanical": "Brassica oleracea",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
     ]
   },
   "B06": {
@@ -213,6 +357,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
+  },
+  "B10": {
+    "plot": "B10",
+    "staff": "Mrs Tang",
+    "plant": "Basil",
+    "datePlanted": "2026-02-03",
+    "estHarvest": "2026-03-25",
+    "lastManure": "2026-02-10",
+    "nextManure": "2026-04-30",
+    "lastWeeding": "2026-02-03",
+    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
+    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
+    "botanical": "Ocimum basilicum",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
     ]
   },
   "B11": {
@@ -305,6 +467,42 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
+  "B16": {
+    "plot": "B16",
+    "staff": "Mrs Tang",
+    "plant": "Bayam red",
+    "datePlanted": "2026-03-05",
+    "estHarvest": "2026-04-09",
+    "lastManure": "2026-03-05",
+    "nextManure": "2026-05-14",
+    "lastWeeding": "2026-03-05",
+    "uses": "Leafy vegetable, eaten stir-fried or in soups.",
+    "funFact": "Ancient grain family; leaves rich in iron and calcium",
+    "botanical": "Amaranthus",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred3.jpg"
+    ]
+  },
+  "BB": {
+    "plot": "BB",
+    "staff": "Lye",
+    "plant": "Bandicoot berry",
+    "datePlanted": "2026-01-21",
+    "estHarvest": "2028-10-17",
+    "lastManure": "2026-04-27",
+    "nextManure": "",
+    "lastWeeding": "2026-04-27",
+    "uses": "Traditionally, various parts of the plant are used in Ayurvedic and other traditional systems of medicine to treat skin complaints, diarrhea, vertigo, fever, and body aches.  The ripe, dark purple or black berries are edible and have a tart, pleasant taste. They are sometimes used in jams and jellies.",
+    "funFact": "The fruit is a favorite snack of the bandicoot, a small marsupial, which gives the plant its common name, Bandicoot Berry.",
+    "botanical": "Leea Indica",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry3.jpg"
+    ]
+  },
   "C01": {
     "plot": "C01",
     "staff": "Mrs Tang",
@@ -321,6 +519,42 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale3.jpg"
+    ]
+  },
+  "C02": {
+    "plot": "C02",
+    "staff": "Mrs Tang",
+    "plant": "Choy sum",
+    "datePlanted": "2026-04-02",
+    "estHarvest": "2026-05-02",
+    "lastManure": "2026-04-02",
+    "nextManure": "2026-05-08",
+    "lastWeeding": "2026-04-02",
+    "uses": "Stir-fried or steamed leafy vegetable.",
+    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
+    "botanical": "Brassica rapa",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+    ]
+  },
+  "C03": {
+    "plot": "C03",
+    "staff": "Mrs Tang",
+    "plant": "Lettuce",
+    "datePlanted": "2026-04-11",
+    "estHarvest": "2026-05-31",
+    "lastManure": "2026-04-11",
+    "nextManure": "2026-05-23",
+    "lastWeeding": "2026-04-11",
+    "uses": "Eaten raw in salads or wraps.",
+    "funFact": "Ancient Roman delicacy; grows quickly.",
+    "botanical": "Lactuca sativa",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce3.jpg"
     ]
   },
   "C04": {
@@ -395,6 +629,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/laksaleaf3.jpg"
     ]
   },
+  "C08": {
+    "plot": "C08",
+    "staff": "Mrs Tang",
+    "plant": "Basil",
+    "datePlanted": "2026-02-17",
+    "estHarvest": "2026-04-08",
+    "lastManure": "2026-02-17",
+    "nextManure": "2026-04-15",
+    "lastWeeding": "2026-02-17",
+    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
+    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
+    "botanical": "Ocimum basilicum",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
+    ]
+  },
   "C09": {
     "plot": "C09",
     "staff": "Mrs Tang",
@@ -411,6 +663,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
+    ]
+  },
+  "C10": {
+    "plot": "C10",
+    "staff": "KK",
+    "plant": "Choy sum",
+    "datePlanted": "2026-04-22",
+    "estHarvest": "2026-05-22",
+    "lastManure": "2026-04-22",
+    "nextManure": "2026-05-21",
+    "lastWeeding": "2026-03-25",
+    "uses": "Stir-fried or steamed leafy vegetable.",
+    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
+    "botanical": "Brassica rapa",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
   "C11": {
@@ -449,240 +719,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
-  "C14": {
-    "plot": "C14",
-    "staff": "Mrs Tang",
-    "plant": "Snake brinjal",
-    "datePlanted": "2026-02-21",
-    "estHarvest": "2026-06-01",
-    "lastManure": "2026-02-21",
-    "nextManure": "2026-04-30",
-    "lastWeeding": "2026-02-21",
-    "uses": "Cooked in curries, grilled, or roasted",
-    "funFact": "Botanically a berry; comes in many shapes and colors.",
-    "botanical": "Solanum melongena",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal3.jpg"
-    ]
-  },
-  "C02": {
-    "plot": "C02",
-    "staff": "Mrs Tang",
-    "plant": "Choy sum",
-    "datePlanted": "2026-04-02",
-    "estHarvest": "2026-05-02",
-    "lastManure": "2026-04-02",
-    "nextManure": "2026-05-08",
-    "lastWeeding": "2026-04-02",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
-    ]
-  },
-  "C03": {
-    "plot": "C03",
-    "staff": "Mrs Tang",
-    "plant": "Lettuce",
-    "datePlanted": "2026-04-11",
-    "estHarvest": "2026-05-31",
-    "lastManure": "2026-04-11",
-    "nextManure": "2026-05-23",
-    "lastWeeding": "2026-04-11",
-    "uses": "Eaten raw in salads or wraps.",
-    "funFact": "Ancient Roman delicacy; grows quickly.",
-    "botanical": "Lactuca sativa",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce3.jpg"
-    ]
-  },
-  "C08": {
-    "plot": "C08",
-    "staff": "Mrs Tang",
-    "plant": "Basil",
-    "datePlanted": "2026-02-17",
-    "estHarvest": "2026-04-08",
-    "lastManure": "2026-02-17",
-    "nextManure": "2026-04-15",
-    "lastWeeding": "2026-02-17",
-    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
-    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
-    "botanical": "Ocimum basilicum",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
-    ]
-  },
-  "B03": {
-    "plot": "B03",
-    "staff": "KK",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
-    ]
-  },
-  "B02": {
-    "plot": "B02",
-    "staff": "Pris",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
-    ]
-  },
-  "A02": {
-    "plot": "A02",
-    "staff": "Mrs Tang",
-    "plant": "Nursery",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Germinating  seeds and preparing a variety  of  saplings for planting.",
-    "funFact": "Nursery is like a  childcare centre protecting  and nurturing  the young plants. Saplings are kept in the nursery  until they are ready to be moved to the main plots for planting. ",
-    "botanical": "Houses miscellaneous plants",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nursery3.jpg"
-    ]
-  },
-  "Plot5": {
-    "plot": "Plot5",
-    "staff": "KK",
-    "plant": "Chilli",
-    "datePlanted": "2026-02-06",
-    "estHarvest": "2026-05-17",
-    "lastManure": "2026-04-02",
-    "nextManure": "2026-04-29",
-    "lastWeeding": "2026-04-03",
-    "uses": "Adds spice to dishes, sauces, and pickles.",
-    "funFact": "Tiny but extremely hot; boosts metabolism.",
-    "botanical": "Capsicum frutescens",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli3.jpg"
-    ]
-  },
-  "Plot1": {
-    "plot": "Plot1",
-    "staff": "Mrs Tang",
-    "plant": "Veld grape",
-    "datePlanted": "2026-01-07",
-    "estHarvest": "2028-10-03",
-    "lastManure": "2026-02-05",
-    "nextManure": "2026-02-05",
-    "lastWeeding": "2026-02-11",
-    "uses": "Traditional medicinal plant. Use to speed  up healing  fractured bones, sprains  joint pain. Widely use for reducing joint inflammation (arthritis)",
-    "funFact": "Veld grape and dragon fruit  look very similar, often causing confusion among gardeners.",
-    "botanical": "Cissus quadrangularis",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
-    ]
-  },
-  "A01": {
-    "plot": "A01",
-    "staff": "Mrs Tang",
-    "plant": "Kai lan",
-    "datePlanted": "2026-04-21",
-    "estHarvest": "2026-06-20",
-    "lastManure": "2026-04-21",
-    "nextManure": "2026-05-27",
-    "lastWeeding": "2026-04-21",
-    "uses": "Stir-fried or steamed vegetable",
-    "funFact": "Thick stems and leaves; flowers edible too.",
-    "botanical": "Brassica oleracea",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
-    ]
-  },
-  "A04": {
-    "plot": "A04",
-    "staff": "Mrs Tang",
-    "plant": "Choy sum",
-    "datePlanted": "2026-04-11",
-    "estHarvest": "2026-05-11",
-    "lastManure": "2026-04-11",
-    "nextManure": "2026-05-16",
-    "lastWeeding": "2026-04-11",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
-    ]
-  },
-  "B05": {
-    "plot": "B05",
-    "staff": "Mrs Tang",
-    "plant": "Kai lan",
-    "datePlanted": "2026-04-23",
-    "estHarvest": "2026-06-22",
-    "lastManure": "2026-04-23",
-    "nextManure": "2026-05-22",
-    "lastWeeding": "2026-04-23",
-    "uses": "Stir-fried or steamed vegetable",
-    "funFact": "Thick stems and leaves; flowers edible too.",
-    "botanical": "Brassica oleracea",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
-    ]
-  },
-  "B16": {
-    "plot": "B16",
-    "staff": "Mrs Tang",
-    "plant": "Bayam red",
-    "datePlanted": "2026-03-05",
-    "estHarvest": "2026-04-09",
-    "lastManure": "2026-03-05",
-    "nextManure": "2026-05-14",
-    "lastWeeding": "2026-03-05",
-    "uses": "Leafy vegetable, eaten stir-fried or in soups.",
-    "funFact": "Ancient grain family; leaves rich in iron and calcium",
-    "botanical": "Amaranthus",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred3.jpg"
-    ]
-  },
   "C13": {
     "plot": "C13",
     "staff": "Mrs Tang",
@@ -701,94 +737,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
-  "A10": {
-    "plot": "A10",
+  "C14": {
+    "plot": "C14",
     "staff": "Mrs Tang",
-    "plant": "Bittergourd",
-    "datePlanted": "2026-02-05",
-    "estHarvest": "2026-04-01",
-    "lastManure": "2026-02-05",
+    "plant": "Snake brinjal",
+    "datePlanted": "2026-02-21",
+    "estHarvest": "2026-06-01",
+    "lastManure": "2026-02-21",
     "nextManure": "2026-04-30",
-    "lastWeeding": "2026-02-06",
-    "uses": "Used in stir-fries, soups, and medicinal teas.",
-    "funFact": "Known to be able to lower blood sugar; very bitter taste.",
-    "botanical": "Momordica charantia",
+    "lastWeeding": "2026-02-21",
+    "uses": "Cooked in curries, grilled, or roasted",
+    "funFact": "Botanically a berry; comes in many shapes and colors.",
+    "botanical": "Solanum melongena",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bittergourd3.jpg"
-    ]
-  },
-  "A12": {
-    "plot": "A12",
-    "staff": "Mrs Tang",
-    "plant": "Sweet potato leaf",
-    "datePlanted": "2026-01-15",
-    "estHarvest": "2026-05-15",
-    "lastManure": "2026-01-20",
-    "nextManure": "2026-01-14",
-    "lastWeeding": "2026-04-30",
-    "uses": "Tubers eaten roasted, boiled, or fried.",
-    "funFact": "Leaves edible too; highly nutritious root crop.",
-    "botanical": "Ipomoea batatas",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotatoleaf1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotatoleaf2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotatoleaf3.jpg"
-    ]
-  },
-  "B01": {
-    "plot": "B01",
-    "staff": "Mrs Tang",
-    "plant": "Basil",
-    "datePlanted": "2026-02-12",
-    "estHarvest": "2026-04-03",
-    "lastManure": "2026-02-10",
-    "nextManure": "2026-04-29",
-    "lastWeeding": "2026-04-30",
-    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
-    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
-    "botanical": "Ocimum basilicum",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
-    ]
-  },
-  "B10": {
-    "plot": "B10",
-    "staff": "Mrs Tang",
-    "plant": "Basil",
-    "datePlanted": "2026-02-03",
-    "estHarvest": "2026-03-25",
-    "lastManure": "2026-02-10",
-    "nextManure": "2026-04-30",
-    "lastWeeding": "2026-02-03",
-    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
-    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
-    "botanical": "Ocimum basilicum",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
-    ]
-  },
-  "C10": {
-    "plot": "C10",
-    "staff": "KK",
-    "plant": "Choy sum",
-    "datePlanted": "2026-04-22",
-    "estHarvest": "2026-05-22",
-    "lastManure": "2026-04-22",
-    "nextManure": "2026-05-21",
-    "lastWeeding": "2026-03-25",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal3.jpg"
     ]
   },
   "JB": {
@@ -809,22 +773,40 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
     ]
   },
-  "BB": {
-    "plot": "BB",
-    "staff": "Lye",
-    "plant": "Bandicoot berry",
-    "datePlanted": "2026-01-21",
-    "estHarvest": "2028-10-17",
-    "lastManure": "2026-04-27",
-    "nextManure": "",
-    "lastWeeding": "2026-04-27",
-    "uses": "Traditionally, various parts of the plant are used in Ayurvedic and other traditional systems of medicine to treat skin complaints, diarrhea, vertigo, fever, and body aches.  The ripe, dark purple or black berries are edible and have a tart, pleasant taste. They are sometimes used in jams and jellies.",
-    "funFact": "The fruit is a favorite snack of the bandicoot, a small marsupial, which gives the plant its common name, Bandicoot Berry.",
-    "botanical": "Leea Indica",
+  "Plot Number": {
+    "plot": "Plot Number",
+    "staff": "Staff Name",
+    "plant": "Plant Name",
+    "datePlanted": "1970-01-01",
+    "estHarvest": "1970-01-01",
+    "lastManure": "1970-01-01",
+    "nextManure": "1970-01-01",
+    "lastWeeding": "1970-01-01",
+    "uses": "Uses",
+    "funFact": "Fun Fact",
+    "botanical": "Botanical Name",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/plantname1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/plantname2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/plantname3.jpg"
+    ]
+  },
+  "Plot1": {
+    "plot": "Plot1",
+    "staff": "Mrs Tang",
+    "plant": "Veld grape",
+    "datePlanted": "2026-01-07",
+    "estHarvest": "2028-10-03",
+    "lastManure": "2026-02-05",
+    "nextManure": "2026-02-05",
+    "lastWeeding": "2026-02-11",
+    "uses": "Traditional medicinal plant. Use to speed  up healing  fractured bones, sprains  joint pain. Widely use for reducing joint inflammation (arthritis)",
+    "funFact": "Veld grape and dragon fruit  look very similar, often causing confusion among gardeners.",
+    "botanical": "Cissus quadrangularis",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
     ]
   }
 }
