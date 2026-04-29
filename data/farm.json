@@ -1,4 +1,22 @@
 {
+  "A01": {
+    "plot": "A01",
+    "staff": "Mrs Tang",
+    "plant": "Kai lan",
+    "datePlanted": "2026-04-21",
+    "estHarvest": "2026-06-20",
+    "lastManure": "2026-04-21",
+    "nextManure": "2026-05-27",
+    "lastWeeding": "2026-04-21",
+    "uses": "Stir-fried or steamed vegetable",
+    "funFact": "Thick stems and leaves; flowers edible too.",
+    "botanical": "Brassica oleracea",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
+    ]
+  },
   "A02": {
     "plot": "A02",
     "staff": "Mrs Tang",
@@ -771,24 +789,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
-    ]
-  },
-  "Plot Number": {
-    "plot": "Plot Number",
-    "staff": "Staff Name",
-    "plant": "Plant Name",
-    "datePlanted": "1970-01-01",
-    "estHarvest": "1970-01-01",
-    "lastManure": "1970-01-01",
-    "nextManure": "1970-01-01",
-    "lastWeeding": "1970-01-01",
-    "uses": "Uses",
-    "funFact": "Fun Fact",
-    "botanical": "Botanical Name",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/plantname1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/plantname2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/plantname3.jpg"
     ]
   },
   "Plot1": {
