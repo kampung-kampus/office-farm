@@ -772,5 +772,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslanechilliroselle2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslanechilliroselle3.jpg"
     ]
+  },
+  "Plot1": {
+    "plot": "Plot1",
+    "staff": "Mrs Tang",
+    "plant": "Veld grape",
+    "datePlanted": "2026-01-06",
+    "estHarvest": "2028-10-02",
+    "lastManure": "2026-01-13",
+    "nextManure": "2026-08-04",
+    "lastWeeding": "2026-01-15",
+    "uses": "Traditional medicinal plant. Use to speed  up healing  fractured bones, sprains  joint pain. Widely use for reducing joint inflammation (arthritis)",
+    "funFact": "Veld grape and dragon fruit  look very similar, often causing confusion among gardeners.",
+    "botanical": "Cissus quadrangularis",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
+    ]
   }
 }
