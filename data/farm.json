@@ -844,5 +844,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pomelo2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pomelo3.jpg"
     ]
+  },
+  "Open area1c": {
+    "plot": "Open area1c",
+    "staff": "Lye",
+    "plant": "Coral vine",
+    "datePlanted": "2026-02-06",
+    "estHarvest": "2028-11-02",
+    "lastManure": "2026-02-13",
+    "nextManure": "",
+    "lastWeeding": "2026-03-13",
+    "uses": "Edible leaves, used in salads.",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coralvine1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coralvine2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coralvine3.jpg"
+    ]
   }
 }
