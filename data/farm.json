@@ -811,20 +811,20 @@
   },
   "Open area1a": {
     "plot": "Open area1a",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
+    "staff": "Lye",
+    "plant": "Bandicoot berry",
+    "datePlanted": "2026-01-21",
+    "estHarvest": "2028-10-17",
+    "lastManure": "2026-04-28",
     "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
+    "lastWeeding": "2026-04-03",
+    "uses": "Traditionally, various parts of the plant are used in Ayurvedic and other traditional systems of medicine to treat skin complaints, diarrhea, vertigo, fever, and body aches.  The ripe, dark purple or black berries are edible and have a tart, pleasant taste. They are sometimes used in jams and jellies.",
+    "funFact": "The fruit is a favorite snack of the bandicoot, a small marsupial, which gives the plant its common name, Bandicoot Berry.",
+    "botanical": "Leea Indica",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry3.jpg"
     ]
   }
 }
