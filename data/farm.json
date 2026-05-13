@@ -916,5 +916,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass3.jpg"
     ]
+  },
+  "Open area1g": {
+    "plot": "Open area1g",
+    "staff": "Lye",
+    "plant": "Melinjo",
+    "datePlanted": "2026-01-20",
+    "estHarvest": "2026-01-20",
+    "lastManure": "2026-01-21",
+    "nextManure": "2026-08-14",
+    "lastWeeding": "2026-05-07",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo3.jpg"
+    ]
   }
 }
