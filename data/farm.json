@@ -952,5 +952,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
     ]
+  },
+  "Open areai": {
+    "plot": "Open areai",
+    "staff": "Lye",
+    "plant": "Prickly leea",
+    "datePlanted": "2026-02-26",
+    "estHarvest": "2034-05-15",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Traditional Medicine: The plant has a long history in Southeast Asian and Javanese traditional medicine. Leaves, twigs, and sap are often used in poultices to soothe fevers, heal wounds, treat headaches, and address bodily pain.",
+    "funFact": "Thorny All the Way: Unlike many other Leea species, L. angulata is fiercely protected by sharp, triangular prickles that cover not just its trunk and main branches, but its ultimate, tender branches as well.Grape Family Ties: It belongs to the Vitaceae family (the grape family). However, unlike its trailing or climbing grapevine cousins, it grows as a strong, upright, multi-stemmed shrub or tree.Critically Endangered in Singapore: If you are based in Punggol or elsewhere in Singapore, it might be very hard to spot. In local botany records, the plant is listed as Critically Endangered in the wild, with only a few pockets of adult individuals documented (such as around the Lower Seletar Reservoir).",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea3.jpg"
+    ]
   }
 }
