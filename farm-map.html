@@ -190,6 +190,53 @@ map.on(L.Draw.Event.CREATED, function (e) {
   drawnItems.addLayer(layer);
 });
 
+// Layer to store drawn items
+const drawnItems = new L.FeatureGroup();
+map.addLayer(drawnItems);
+
+// Add drawing controls
+const drawControl = new L.Control.Draw({
+  position: 'topright',
+
+  draw: {
+    polygon: true,
+    rectangle: true,
+    circle: true,
+    polyline: false,
+    marker: false,
+    circlemarker: false
+  },
+
+  edit: {
+    featureGroup: drawnItems,
+    remove: true
+  }
+});
+
+map.addControl(drawControl);
+
+// When user finishes drawing
+map.on(L.Draw.Event.CREATED, function (e) {
+
+  const layer = e.layer;
+
+  // Add to map
+  drawnItems.addLayer(layer);
+
+  // Optional styling
+  layer.setStyle?.({
+    color: '#7ab648',
+    fillColor: '#7ab648',
+    fillOpacity: 0.5
+  });
+
+  // Show coordinates in console
+  console.log(layer.toGeoJSON());
+});
+
+
+
+  
   
 </script>
 </body>
