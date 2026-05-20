@@ -6,6 +6,12 @@
   <title>Map of the Farm — Office Farm</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js"></script>
+
+  
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
   <style>
@@ -165,6 +171,26 @@ const legend = document.getElementById('legend');
 Object.entries(PLANT_COLORS).forEach(([name, color]) => { const item = document.createElement('div'); item.className = 'legend-item'; item.innerHTML = `<div class="legend-dot" style="background:${color}"></div>${name}`; legend.appendChild(item); });
 function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); }
 renderPlots(plots);
+
+
+  
+const drawnItems = new L.FeatureGroup();
+map.addLayer(drawnItems);
+
+const drawControl = new L.Control.Draw({
+  edit: {
+    featureGroup: drawnItems
+  }
+});
+
+map.addControl(drawControl);
+
+map.on(L.Draw.Event.CREATED, function (e) {
+  const layer = e.layer;
+  drawnItems.addLayer(layer);
+});
+
+  
 </script>
 </body>
 </html>
