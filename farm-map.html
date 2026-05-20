@@ -62,6 +62,51 @@
     .map-stat-val { font-size: 1.3rem; font-weight: 500; color: var(--green-light); line-height: 1; }
     .map-stat-label { font-size: 0.68rem; color: rgba(245,240,232,0.4); letter-spacing: 0.06em; text-transform: uppercase; }
     .sidebar-toggle { display: none; position: fixed; bottom: 20px; left: 20px; z-index: 600; width: 44px; height: 44px; border-radius: 50%; background: var(--green-accent); border: none; cursor: pointer; color: white; font-size: 1.2rem; box-shadow: 0 4px 16px rgba(0,0,0,0.4); }
+   
+    
+    /* =========================
+   Minimal Landmark Labels
+========================= */
+
+.landmark-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(15,31,15,0.82);
+  color: #f5f0e8;
+  padding: 4px 10px;
+  border-radius: 14px;
+  border: 1px solid rgba(122,182,72,0.25);
+  backdrop-filter: blur(6px);
+  font-size: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.25);
+}
+
+.landmark-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.landmark-popup img {
+  width: 220px;
+  border-radius: 10px;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.landmark-popup-title {
+  font-family: 'Playfair Display', serif;
+  color: #7ab648;
+  font-size: 1rem;
+  margin-bottom: 6px;
+}
+    
+    
+    
     @media (max-width: 700px) { .sidebar { position: fixed; top: 56px; left: 0; bottom: 0; z-index: 400; transform: translateX(-100%); transition: transform 0.3s ease; } .sidebar.open { transform: translateX(0); } .sidebar-toggle { display: flex; align-items: center; justify-content: center; } .nav-pill { font-size: 0.7rem; padding: 5px 10px; } }
   </style>
 </head>
@@ -102,43 +147,121 @@
   </div>
 </div>
 <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button>
+
+  
 <script>
 const FARM_CENTER = [1.416083, 103.829000];
 const FARM_ZOOM = 18;
 const PLANT_COLORS = { 'Leafy Greens':'#7ab648','Herbs':'#c8a84b','Fruiting':'#e07b3a','Root Crops':'#8b6b3d','Legumes':'#5ba3c9','Flowers':'#c96b9a' };
 const plots = [
-  { id:1,  plot:'A-01', plant:'Kai Lan',      type:'Leafy Greens', area:25, status:'Growing',   planted:'Jan 2025', harvest:'Mar 2025', notes:'Batch 3',        lat:1.41620, lng:103.82905 },
-  { id:2,  plot:'A-02', plant:'Spinach',       type:'Leafy Greens', area:20, status:'Ready',     planted:'Dec 2024', harvest:'Feb 2025', notes:'Ready to pick',  lat:1.41615, lng:103.82915 },
-  { id:3,  plot:'A-03', plant:'Lettuce',       type:'Leafy Greens', area:18, status:'Seedling',  planted:'Feb 2025', harvest:'Apr 2025', notes:'New batch',      lat:1.41610, lng:103.82925 },
-  { id:4,  plot:'B-01', plant:'Basil',         type:'Herbs',        area:12, status:'Growing',   planted:'Jan 2025', harvest:'Mar 2025', notes:'Thai & Sweet',   lat:1.41605, lng:103.82900 },
-  { id:5,  plot:'B-02', plant:'Lemongrass',    type:'Herbs',        area:30, status:'Growing',   planted:'Oct 2024', harvest:'Ongoing',  notes:'Perennial',      lat:1.41600, lng:103.82910 },
-  { id:6,  plot:'B-03', plant:'Pandan',        type:'Herbs',        area:15, status:'Growing',   planted:'Sep 2024', harvest:'Ongoing',  notes:'Perennial',      lat:1.41595, lng:103.82920 },
-  { id:7,  plot:'C-01', plant:'Tomato',        type:'Fruiting',     area:35, status:'Flowering', planted:'Dec 2024', harvest:'Mar 2025', notes:'Cherry variety', lat:1.41590, lng:103.82905 },
-  { id:8,  plot:'C-02', plant:'Chilli',        type:'Fruiting',     area:20, status:'Growing',   planted:'Jan 2025', harvest:'Apr 2025', notes:'Bird eye',       lat:1.41585, lng:103.82915 },
-  { id:9,  plot:'C-03', plant:'Cucumber',      type:'Fruiting',     area:40, status:'Growing',   planted:'Jan 2025', harvest:'Mar 2025', notes:'Trellis grown',  lat:1.41580, lng:103.82925 },
-  { id:10, plot:'D-01', plant:'Sweet Potato',  type:'Root Crops',   area:50, status:'Growing',   planted:'Nov 2024', harvest:'May 2025', notes:'Purple variety', lat:1.41575, lng:103.82900 },
-  { id:11, plot:'D-02', plant:'Yam Bean',      type:'Root Crops',   area:45, status:'Growing',   planted:'Oct 2024', harvest:'Apr 2025', notes:'Row 1-3',        lat:1.41570, lng:103.82910 },
-  { id:12, plot:'E-01', plant:'Long Bean',     type:'Legumes',      area:28, status:'Ready',     planted:'Dec 2024', harvest:'Feb 2025', notes:'Trellis',        lat:1.41565, lng:103.82905 },
-  { id:13, plot:'E-02', plant:'Winged Bean',   type:'Legumes',      area:22, status:'Growing',   planted:'Jan 2025', harvest:'Apr 2025', notes:'Experimental',   lat:1.41560, lng:103.82915 },
-  { id:14, plot:'F-01', plant:'Marigold',      type:'Flowers',      area:15, status:'Blooming',  planted:'Nov 2024', harvest:'Ongoing',  notes:'Pest control',   lat:1.41555, lng:103.82905 },
-  { id:15, plot:'F-02', plant:'Butterfly Pea', type:'Flowers',      area:10, status:'Blooming',  planted:'Dec 2024', harvest:'Ongoing',  notes:'Border plant',   lat:1.41550, lng:103.82915 },
+ {
+  id:1,
+  plot:'A-01',
+  plant:'Kai Lan',
+  type:'Leafy Greens',
+  area:25,
+  status:'Growing',
+  planted:'Jan 2025',
+  harvest:'Mar 2025',
+  notes:'Batch 3',
+  lat:1.41620,
+  lng:103.82905,
+  image:'images/kai-lan.jpg'
+},
 ];
+
+  
 const map = L.map('map', { zoomControl: true }).setView(FARM_CENTER, FARM_ZOOM);
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '© <a href="https://openstreetmap.org">OpenStreetMap</a>', maxZoom: 22 }).addTo(map);
+L.tileLayer(
+  'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+  {
+    attribution: 'Tiles © Esri',
+    maxZoom: 22
+  }
+).addTo(map);, { attribution: '© <a href="https://openstreetmap.org">OpenStreetMap</a>', maxZoom: 22 }).addTo(map);
 const markers = {};
-function makeIcon(color) {
-  return L.divIcon({ className: '', html: `<div style="width:32px;height:32px;border-radius:50% 50% 50% 0;background:${color};border:3px solid rgba(255,255,255,0.9);transform:rotate(-45deg);box-shadow:0 3px 10px rgba(0,0,0,0.4);"></div>`, iconSize:[32,32], iconAnchor:[16,32], popupAnchor:[0,-32] });
-}
+
+
 plots.forEach(p => {
+
   const color = PLANT_COLORS[p.type] || '#7ab648';
-  const marker = L.marker([p.lat, p.lng], { icon: makeIcon(color) }).addTo(map).bindPopup(`<div class="popup-title">Plot ${p.plot} — ${p.plant}</div><div class="popup-row"><span>Type</span><span>${p.type}</span></div><div class="popup-row"><span>Status</span><span>${p.status}</span></div><div class="popup-row"><span>Area</span><span>${p.area} m²</span></div><div class="popup-row"><span>Planted</span><span>${p.planted}</span></div><div class="popup-row"><span>Harvest</span><span>${p.harvest}</span></div><div class="popup-row"><span>Notes</span><span>${p.notes}</span></div>`);
+
+  // Clean minimal label
+  const labelIcon = L.divIcon({
+    className: '',
+    html: `
+      <div class="landmark-label">
+        <div class="landmark-dot"
+             style="background:${color}">
+        </div>
+        ${p.plant}
+      </div>
+    `,
+    iconSize: [120, 24],
+    iconAnchor: [10, 12]
+  });
+
+  const marker = L.marker([p.lat, p.lng], {
+    icon: labelIcon
+  }).addTo(map);
+
+  // Popup with image
+  marker.bindPopup(`
+    <div class="landmark-popup">
+
+      <img src="${p.image}" alt="${p.plant}">
+
+      <div class="landmark-popup-title">
+        ${p.plant}
+      </div>
+
+      <div class="popup-row">
+        <span>Plot</span>
+        <span>${p.plot}</span>
+      </div>
+
+      <div class="popup-row">
+        <span>Status</span>
+        <span>${p.status}</span>
+      </div>
+
+      <div class="popup-row">
+        <span>Area</span>
+        <span>${p.area} m²</span>
+      </div>
+
+      <div class="popup-row">
+        <span>Harvest</span>
+        <span>${p.harvest}</span>
+      </div>
+
+    </div>
+  `);
+
+  // Hover popup
+  marker.on('mouseover', function () {
+    this.openPopup();
+  });
+
+  marker.on('mouseout', function () {
+    this.closePopup();
+  });
+
   markers[p.id] = marker;
+
 });
+  
+
+
+
+  
+
 const types = [...new Set(plots.map(p => p.type))];
 const totalArea = plots.reduce((s, p) => s + p.area, 0);
 document.getElementById('statPlots').textContent = plots.length;
 document.getElementById('statTypes').textContent = types.length;
 document.getElementById('statArea').textContent = totalArea;
+  
 function renderPlots(data) {
   const list = document.getElementById('plotList');
   const groups = {};
@@ -164,9 +287,33 @@ function filterPlots() {
   const q = document.getElementById('plotSearch').value.toLowerCase();
   renderPlots(plots.filter(p => p.plant.toLowerCase().includes(q) || p.plot.toLowerCase().includes(q) || p.type.toLowerCase().includes(q) || p.status.toLowerCase().includes(q)));
 }
+
+  
 const legend = document.getElementById('legend');
 Object.entries(PLANT_COLORS).forEach(([name, color]) => { const item = document.createElement('div'); item.className = 'legend-item'; item.innerHTML = `<div class="legend-dot" style="background:${color}"></div>${name}`; legend.appendChild(item); });
 function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); }
+
+// Hide labels when zoomed out
+map.on('zoomend', function () {
+
+  const zoom = map.getZoom();
+
+  Object.values(markers).forEach(marker => {
+
+    const el = marker.getElement();
+
+    if (!el) return;
+
+    if (zoom < 18) {
+      el.style.display = 'none';
+    } else {
+      el.style.display = 'block';
+    }
+
+  });
+
+});
+  
 renderPlots(plots);
 
 
