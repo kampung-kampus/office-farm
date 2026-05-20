@@ -172,13 +172,15 @@ const plots = [
 
   
 const map = L.map('map', { zoomControl: true }).setView(FARM_CENTER, FARM_ZOOM);
+  
 L.tileLayer(
   'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
   {
     attribution: 'Tiles © Esri',
     maxZoom: 22
   }
-).addTo(map);, { attribution: '© <a href="https://openstreetmap.org">OpenStreetMap</a>', maxZoom: 22 }).addTo(map);
+).addTo(map);
+  
 const markers = {};
 
 
