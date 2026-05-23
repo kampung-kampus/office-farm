@@ -162,7 +162,7 @@
     <div class="hover-card-body">
       <div class="hover-card-title" id="hoverTitle"></div>
       <div class="hover-card-desc" id="hoverDesc"></div>
- <div class="hover-card-zone" id="hoverZone"></div>  
+ <!--<div class="hover-card-zone" id="hoverZone"></div> --> 
     </div>
   </div>
 </div>
@@ -330,7 +330,7 @@ function showHover(lm, x, y) {
   clearTimeout(hoverTimeout);
   hoverTitle.textContent = lm.name;
   hoverDesc.textContent  = lm.desc;
-  hoverZone.textContent  = lm.zone + ' · ' + lm.type;
+ /* hoverZone.textContent  = lm.zone + ' · ' + lm.type;*/
 
   // Image or emoji placeholder
   if (lm.photo) {
