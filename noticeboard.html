@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Notice Board — Office Farm</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --green-deep:   #0f1f0f;
+      --green-dark:   #1a2e1a;
+      --green-mid:    #2d5016;
+      --green-accent: #4a7c2f;
+      --green-light:  #7ab648;
+      --gold:         #c8a84b;
+      --gold-light:   #e8c96d;
+      --cream:        #f5f0e8;
+      --red:          #e74c3c;
+      --orange:       #e07b3a;
+      --blue:         #3a7fe0;
+      --purple:       #9b59b6;
+    }
+
+    html, body { min-height: 100%; font-family: 'DM Sans', sans-serif; background: var(--green-deep); color: var(--cream); }
+
+    /* ── Topbar ── */
+    .topbar { position: fixed; top: 0; left: 0; right: 0; z-index: 1000; height: 56px; background: linear-gradient(90deg, var(--green-deep), var(--green-dark)); border-bottom: 1px solid rgba(122,182,72,0.2); display: flex; align-items: center; gap: 16px; padding: 0 20px; box-shadow: 0 2px 20px rgba(0,0,0,0.4); }
+    .topbar-logo { font-family: 'Playfair Display', serif; font-size: 1.1rem; color: var(--cream); white-space: nowrap; }
+    .topbar-logo span { color: var(--green-light); }
+    .nav-menu { display: flex; gap: 6px; align-items: center; overflow-x: auto; flex: 1; scrollbar-width: none; }
+    .nav-menu::-webkit-scrollbar { display: none; }
+    .nav-pill { padding: 6px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 500; white-space: nowrap; cursor: pointer; border: 1px solid rgba(122,182,72,0.25); background: rgba(255,255,255,0.04); color: rgba(245,240,232,0.6); transition: all 0.2s; text-decoration: none; }
+    .nav-pill:hover { background: rgba(122,182,72,0.12); color: var(--cream); }
+    .nav-pill.active { background: var(--green-accent); border-color: var(--green-accent); color: #fff; }
+
+    /* ── Page layout ── */
+    .page { padding: 80px 20px 40px; max-width: 900px; margin: 0 auto; }
+
+    /* ── Page header ── */
+    .page-header { margin-bottom: 32px; display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+    .page-title { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 900; color: var(--cream); line-height: 1; }
+    .page-title span { color: var(--green-light); }
+    .page-sub { font-size: 0.8rem; color: rgba(245,240,232,0.4); margin-top: 6px; letter-spacing: 0.06em; text-transform: uppercase; }
+
+    /* ── Post button ── */
+    .btn-post { display: flex; align-items: center; gap: 8px; padding: 10px 20px; background: linear-gradient(135deg, var(--green-accent), var(--green-light)); border: none; border-radius: 12px; color: white; font-family: 'DM Sans', sans-serif; font-size: 0.85rem; font-weight: 500; cursor: pointer; box-shadow: 0 4px 16px rgba(74,124,47,0.4); transition: all 0.2s; }
+    .btn-post:hover { transform: translateY(-1px); box-shadow: 0 6px 20px rgba(74,124,47,0.5); }
+
+    /* ── Filter tabs ── */
+    .filters { display: flex; gap: 8px; margin-bottom: 24px; flex-wrap: wrap; }
+    .filter-btn { padding: 6px 16px; border-radius: 20px; font-size: 0.78rem; border: 1px solid rgba(255,255,255,0.1); background: rgba(255,255,255,0.04); color: rgba(245,240,232,0.5); cursor: pointer; transition: all 0.2s; }
+    .filter-btn:hover { background: rgba(255,255,255,0.08); color: var(--cream); }
+    .filter-btn.active { background: var(--green-accent); border-color: var(--green-accent); color: #fff; }
+
+    /* ── Pinned banner ── */
+    .pinned-section { margin-bottom: 28px; }
+    .section-label { font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(245,240,232,0.3); margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+    .section-label::after { content: ''; flex: 1; height: 1px; background: rgba(255,255,255,0.06); }
+
+    /* ── Notice card ── */
+    .notice-card {
+      background: linear-gradient(145deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02));
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 16px;
+      padding: 20px 22px;
+      margin-bottom: 14px;
+      position: relative;
+      overflow: hidden;
+      transition: transform 0.2s, box-shadow 0.2s;
+      animation: slideIn 0.4s cubic-bezier(0.22,1,0.36,1) both;
+    }
+    .notice-card:hover { transform: translateY(-2px); box-shadow: 0 8px 32px rgba(0,0,0,0.3); }
+    @keyframes slideIn { from { opacity:0; transform: translateY(16px); } to { opacity:1; transform: translateY(0); } }
+
+    /* Left accent bar */
+    .notice-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; border-radius: 16px 0 0 16px; }
+    .notice-card.urgent::before   { background: var(--red); }
+    .notice-card.important::before { background: var(--orange); }
+    .notice-card.info::before     { background: var(--blue); }
+    .notice-card.general::before  { background: var(--green-accent); }
+    .notice-card.pinned { border-color: rgba(200,168,75,0.3); background: linear-gradient(145deg, rgba(200,168,75,0.07), rgba(255,255,255,0.02)); }
+    .notice-card.pinned::before   { background: var(--gold); }
+
+    /* Pin icon */
+    .pin-icon { position: absolute; top: 14px; right: 14px; font-size: 0.9rem; opacity: 0.6; }
+
+    /* Card top row */
+    .card-top { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+    .notice-badge { font-size: 0.65rem; padding: 3px 10px; border-radius: 10px; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; }
+    .badge-urgent    { background: rgba(231,76,60,0.2);   color: #ff8a7a; border: 1px solid rgba(231,76,60,0.3); }
+    .badge-important { background: rgba(224,123,58,0.2);  color: #ffaa70; border: 1px solid rgba(224,123,58,0.3); }
+    .badge-info      { background: rgba(58,127,224,0.2);  color: #7ab8ff; border: 1px solid rgba(58,127,224,0.3); }
+    .badge-general   { background: rgba(74,124,47,0.2);   color: #9de06a; border: 1px solid rgba(74,124,47,0.3); }
+    .badge-pinned    { background: rgba(200,168,75,0.2);  color: var(--gold-light); border: 1px solid rgba(200,168,75,0.3); }
+
+    .notice-author { font-size: 0.78rem; color: rgba(245,240,232,0.45); }
+    .notice-date   { font-size: 0.72rem; color: rgba(245,240,232,0.3); margin-left: auto; }
+
+    /* Card content */
+    .notice-title { font-family: 'Playfair Display', serif; font-size: 1.05rem; color: var(--cream); margin-bottom: 6px; line-height: 1.3; }
+    .notice-body  { font-size: 0.85rem; color: rgba(245,240,232,0.65); line-height: 1.65; }
+
+    /* Card footer */
+    .card-footer { display: flex; align-items: center; gap: 12px; margin-top: 14px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.06); }
+    .footer-tag { font-size: 0.68rem; padding: 2px 8px; border-radius: 8px; background: rgba(255,255,255,0.05); color: rgba(245,240,232,0.4); border: 1px solid rgba(255,255,255,0.07); }
+    .btn-dismiss { margin-left: auto; font-size: 0.72rem; color: rgba(245,240,232,0.3); background: none; border: none; cursor: pointer; padding: 2px 8px; border-radius: 6px; transition: all 0.2s; }
+    .btn-dismiss:hover { background: rgba(255,255,255,0.07); color: rgba(245,240,232,0.6); }
+
+    /* ── Post modal ── */
+    .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.65); z-index: 2000; align-items: center; justify-content: center; padding: 20px; backdrop-filter: blur(4px); }
+    .modal-overlay.open { display: flex; }
+    .modal { background: var(--green-dark); border: 1px solid rgba(122,182,72,0.2); border-radius: 20px; padding: 28px; width: 100%; max-width: 520px; box-shadow: 0 24px 64px rgba(0,0,0,0.6); animation: modalIn 0.3s cubic-bezier(0.22,1,0.36,1); }
+    @keyframes modalIn { from { opacity:0; transform: scale(0.95) translateY(20px); } to { opacity:1; transform: scale(1) translateY(0); } }
+    .modal-title { font-family: 'Playfair Display', serif; font-size: 1.2rem; color: var(--cream); margin-bottom: 20px; }
+
+    .form-group { margin-bottom: 16px; }
+    .form-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: rgba(245,240,232,0.45); margin-bottom: 6px; display: block; }
+    .form-input, .form-select, .form-textarea {
+      width: 100%; padding: 10px 14px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(122,182,72,0.2);
+      border-radius: 10px; color: var(--cream);
+      font-family: 'DM Sans', sans-serif; font-size: 0.88rem;
+      outline: none; transition: border-color 0.2s;
+    }
+    .form-input:focus, .form-select:focus, .form-textarea:focus { border-color: var(--green-accent); }
+    .form-textarea { resize: vertical; min-height: 100px; }
+    .form-select option { background: var(--green-dark); }
+    .form-row { display: flex; gap: 12px; }
+    .form-row .form-group { flex: 1; }
+
+    .modal-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+    .btn-cancel { padding: 9px 20px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 10px; color: rgba(245,240,232,0.5); font-family: 'DM Sans', sans-serif; font-size: 0.85rem; cursor: pointer; transition: all 0.2s; }
+    .btn-cancel:hover { background: rgba(255,255,255,0.09); }
+    .btn-submit { padding: 9px 24px; background: linear-gradient(135deg, var(--green-accent), var(--green-light)); border: none; border-radius: 10px; color: white; font-family: 'DM Sans', sans-serif; font-size: 0.85rem; font-weight: 500; cursor: pointer; transition: all 0.2s; }
+    .btn-submit:hover { opacity: 0.9; }
+
+    /* ── Empty state ── */
+    .empty-state { text-align: center; padding: 60px 20px; color: rgba(245,240,232,0.25); }
+    .empty-state div { font-size: 3rem; margin-bottom: 12px; }
+    .empty-state p { font-size: 0.85rem; }
+
+    /* ── Password modal ── */
+    .pw-modal { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.7); z-index: 3000; align-items: center; justify-content: center; padding: 20px; }
+    .pw-modal.open { display: flex; }
+    .pw-box { background: var(--green-dark); border: 1px solid rgba(122,182,72,0.25); border-radius: 18px; padding: 28px; width: 100%; max-width: 340px; text-align: center; box-shadow: 0 20px 60px rgba(0,0,0,0.6); }
+    .pw-icon { font-size: 2.5rem; margin-bottom: 12px; }
+    .pw-title { font-family: 'Playfair Display', serif; font-size: 1.1rem; color: var(--cream); margin-bottom: 6px; }
+    .pw-sub { font-size: 0.78rem; color: rgba(245,240,232,0.4); margin-bottom: 18px; }
+    .pw-input { width: 100%; padding: 10px 14px; background: rgba(255,255,255,0.05); border: 1px solid rgba(122,182,72,0.2); border-radius: 10px; color: var(--cream); font-family: 'DM Sans', sans-serif; font-size: 0.9rem; outline: none; text-align: center; letter-spacing: 0.1em; margin-bottom: 10px; }
+    .pw-error { font-size: 0.75rem; color: #ff8a7a; margin-bottom: 10px; display: none; }
+    .pw-actions { display: flex; gap: 10px; }
+
+    @media (max-width: 600px) {
+      .page-title { font-size: 1.5rem; }
+      .form-row { flex-direction: column; }
+      .nav-pill { font-size: 0.7rem; padding: 5px 10px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Topbar -->
+<div class="topbar">
+  <div class="topbar-logo">Office<span>Farm</span></div>
+  <nav class="nav-menu">
+    <a href="dashboard.html" class="nav-pill">🏠 Dashboard</a>
+    <a href="#" class="nav-pill">🔍 Search</a>
+    <a href="#" class="nav-pill">📥 Download Full History</a>
+    <a href="farm-map.html" class="nav-pill">🗺️ Map of the Farm</a>
+    <a href="noticeboard.html" class="nav-pill active">📋 Notice Board</a>
+    <a href="#" class="nav-pill">⚙️ Settings</a>
+  </nav>
+</div>
+
+<!-- Main page -->
+<div class="page">
+
+  <div class="page-header">
+    <div>
+      <h1 class="page-title">Notice <span>Board</span></h1>
+      <p class="page-sub">Farm announcements &amp; updates</p>
+    </div>
+    <button class="btn-post" onclick="openPostModal()">
+      <span>✏️</span> Post Notice
+    </button>
+  </div>
+
+  <!-- Filter tabs -->
+  <div class="filters">
+    <button class="filter-btn active" onclick="filterNotices('all', this)">All</button>
+    <button class="filter-btn" onclick="filterNotices('urgent', this)">🔴 Urgent</button>
+    <button class="filter-btn" onclick="filterNotices('important', this)">🟠 Important</button>
+    <button class="filter-btn" onclick="filterNotices('info', this)">🔵 Info</button>
+    <button class="filter-btn" onclick="filterNotices('general', this)">🟢 General</button>
+  </div>
+
+  <!-- Pinned notices -->
+  <div class="pinned-section" id="pinnedSection">
+    <div class="section-label">📌 Pinned</div>
+    <div id="pinnedList"></div>
+  </div>
+
+  <!-- All notices -->
+  <div class="section-label">📋 Latest Notices</div>
+  <div id="noticeList"></div>
+
+  <div class="empty-state" id="emptyState" style="display:none;">
+    <div>📭</div>
+    <p>No notices found.</p>
+  </div>
+
+</div>
+
+<!-- Post Notice Modal -->
+<div class="modal-overlay" id="postModal">
+  <div class="modal">
+    <div class="modal-title">📋 Post a New Notice</div>
+
+    <div class="form-group">
+      <label class="form-label">Title</label>
+      <input class="form-input" id="fTitle" placeholder="e.g. Water shutdown this Saturday" />
+    </div>
+
+    <div class="form-group">
+      <label class="form-label">Message</label>
+      <textarea class="form-textarea" id="fBody" placeholder="Write your announcement here..."></textarea>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group">
+        <label class="form-label">Category</label>
+        <select class="form-select" id="fCategory">
+          <option value="general">🟢 General</option>
+          <option value="info">🔵 Info</option>
+          <option value="important">🟠 Important</option>
+          <option value="urgent">🔴 Urgent</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label class="form-label">Tag (optional)</label>
+        <input class="form-input" id="fTag" placeholder="e.g. Watering, Harvest" />
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group">
+        <label class="form-label">Posted by</label>
+        <input class="form-input" id="fAuthor" placeholder="Your name" />
+      </div>
+      <div class="form-group">
+        <label class="form-label">Pin this notice?</label>
+        <select class="form-select" id="fPin">
+          <option value="no">No</option>
+          <option value="yes">Yes — pin to top</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="modal-actions">
+      <button class="btn-cancel" onclick="closePostModal()">Cancel</button>
+      <button class="btn-submit" onclick="submitNotice()">Post Notice</button>
+    </div>
+  </div>
+</div>
+
+<!-- Password Modal (for posting) -->
+<div class="pw-modal" id="pwModal">
+  <div class="pw-box">
+    <div class="pw-icon">🔒</div>
+    <div class="pw-title">Manager Access</div>
+    <div class="pw-sub">Enter password to post a notice</div>
+    <input class="pw-input" type="password" id="pwInput" placeholder="Password"
+      onkeydown="if(event.key==='Enter') checkPassword()" />
+    <div class="pw-error" id="pwError">❌ Incorrect password</div>
+    <div class="pw-actions">
+      <button class="btn-cancel" style="flex:1" onclick="closePwModal()">Cancel</button>
+      <button class="btn-submit" style="flex:1" onclick="checkPassword()">Enter</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ══════════════════════════════════════════════
+//  SETTINGS
+//  Change this password to whatever you like
+// ══════════════════════════════════════════════
+const MANAGER_PASSWORD = 'farm123';
+
+// ══════════════════════════════════════════════
+//  SAMPLE NOTICES — edit or delete these
+// ══════════════════════════════════════════════
+let notices = [
+  {
+    id: 1,
+    title: 'Welcome to the Office Farm Notice Board!',
+    body: 'This is your central hub for all farm announcements. Farm managers can post notices here. All staff are encouraged to check this board daily.',
+    category: 'general',
+    tag: 'General',
+    author: 'Farm Manager',
+    date: '23 May 2026',
+    pinned: true,
+  },
+  {
+    id: 2,
+    title: 'Water Pump Maintenance — Saturday 25 May',
+    body: 'The main water pump will be serviced on Saturday morning from 8am to 11am. Please ensure all plots are watered on Friday evening. No irrigation water will be available during this time.',
+    category: 'important',
+    tag: 'Maintenance',
+    author: 'Ahmad',
+    date: '22 May 2026',
+    pinned: false,
+  },
+  {
+    id: 3,
+    title: 'Harvest Ready — Plot A-02 Spinach',
+    body: 'Plot A-02 spinach is ready for harvest. Please harvest by this weekend to avoid overripening. Coordinate with the kitchen team for collection timing.',
+    category: 'urgent',
+    tag: 'Harvest',
+    author: 'Farm Manager',
+    date: '21 May 2026',
+    pinned: false,
+  },
+  {
+    id: 4,
+    title: 'New Composting Guidelines',
+    body: 'Please refer to the updated composting guidelines effective immediately. Only organic waste from the farm is allowed in the compost area. No plastic or non-biodegradable materials.',
+    category: 'info',
+    tag: 'Composting',
+    author: 'Siti',
+    date: '20 May 2026',
+    pinned: false,
+  },
+  {
+    id: 5,
+    title: 'Staff Reminder — Gate Closing Time',
+    body: 'The farm gate will now close at 6:00pm daily instead of 6:30pm. All staff must ensure they have left the premises by 5:50pm. Please inform your families accordingly.',
+    category: 'general',
+    tag: 'Admin',
+    author: 'Farm Manager',
+    date: '18 May 2026',
+    pinned: false,
+  },
+];
+
+let currentFilter = 'all';
+
+// ── Render ──
+function render() {
+  const filtered = notices.filter(n => {
+    if (currentFilter === 'all') return true;
+    return n.category === currentFilter;
+  });
+
+  const pinned  = filtered.filter(n => n.pinned);
+  const regular = filtered.filter(n => !n.pinned);
+
+  const pinnedSection = document.getElementById('pinnedSection');
+  const pinnedList    = document.getElementById('pinnedList');
+  const noticeList    = document.getElementById('noticeList');
+  const emptyState    = document.getElementById('emptyState');
+
+  pinnedSection.style.display = pinned.length ? 'block' : 'none';
+  pinnedList.innerHTML  = pinned.map(n => cardHTML(n)).join('');
+  noticeList.innerHTML  = regular.map(n => cardHTML(n)).join('');
+  emptyState.style.display = filtered.length === 0 ? 'block' : 'none';
+}
+
+function cardHTML(n) {
+  const badgeClass = `badge-${n.pinned ? 'pinned' : n.category}`;
+  const badgeText  = n.pinned ? '📌 Pinned' : n.category.charAt(0).toUpperCase() + n.category.slice(1);
+  return `
+    <div class="notice-card ${n.category} ${n.pinned ? 'pinned' : ''}" id="card-${n.id}">
+      ${n.pinned ? '<div class="pin-icon">📌</div>' : ''}
+      <div class="card-top">
+        <span class="notice-badge ${badgeClass}">${badgeText}</span>
+        <span class="notice-author">👤 ${n.author}</span>
+        <span class="notice-date">📅 ${n.date}</span>
+      </div>
+      <div class="notice-title">${n.title}</div>
+      <div class="notice-body">${n.body}</div>
+      <div class="card-footer">
+        ${n.tag ? `<span class="footer-tag">🏷️ ${n.tag}</span>` : ''}
+        <button class="btn-dismiss" onclick="dismissNotice(${n.id})">✕ Dismiss</button>
+      </div>
+    </div>`;
+}
+
+function dismissNotice(id) {
+  const card = document.getElementById('card-' + id);
+  if (card) {
+    card.style.transition = 'opacity 0.3s, transform 0.3s';
+    card.style.opacity = '0';
+    card.style.transform = 'translateX(30px)';
+    setTimeout(() => {
+      notices = notices.filter(n => n.id !== id);
+      render();
+    }, 300);
+  }
+}
+
+function filterNotices(cat, btn) {
+  currentFilter = cat;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+
+// ── Post modal ──
+function openPostModal() {
+  document.getElementById('pwModal').classList.add('open');
+  setTimeout(() => document.getElementById('pwInput').focus(), 100);
+}
+
+function closePwModal() {
+  document.getElementById('pwModal').classList.remove('open');
+  document.getElementById('pwInput').value = '';
+  document.getElementById('pwError').style.display = 'none';
+}
+
+function checkPassword() {
+  const val = document.getElementById('pwInput').value;
+  if (val === MANAGER_PASSWORD) {
+    closePwModal();
+    document.getElementById('postModal').classList.add('open');
+  } else {
+    document.getElementById('pwError').style.display = 'block';
+    document.getElementById('pwInput').value = '';
+    document.getElementById('pwInput').focus();
+  }
+}
+
+function closePostModal() {
+  document.getElementById('postModal').classList.remove('open');
+  document.getElementById('fTitle').value = '';
+  document.getElementById('fBody').value = '';
+  document.getElementById('fTag').value = '';
+  document.getElementById('fAuthor').value = '';
+  document.getElementById('fCategory').value = 'general';
+  document.getElementById('fPin').value = 'no';
+}
+
+function submitNotice() {
+  const title  = document.getElementById('fTitle').value.trim();
+  const body   = document.getElementById('fBody').value.trim();
+  const author = document.getElementById('fAuthor').value.trim() || 'Farm Manager';
+  if (!title || !body) { alert('Please fill in the title and message.'); return; }
+
+  const today = new Date();
+  const dateStr = today.getDate() + ' ' +
+    ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][today.getMonth()] +
+    ' ' + today.getFullYear();
+
+  const newNotice = {
+    id:       Date.now(),
+    title,
+    body,
+    category: document.getElementById('fCategory').value,
+    tag:      document.getElementById('fTag').value.trim(),
+    author,
+    date:     dateStr,
+    pinned:   document.getElementById('fPin').value === 'yes',
+  };
+
+  notices.unshift(newNotice);
+  closePostModal();
+  render();
+}
+
+// Initial render
+render();
+</script>
+</body>
+</html>
