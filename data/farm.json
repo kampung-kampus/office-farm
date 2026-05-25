@@ -433,20 +433,20 @@
   },
   "B13": {
     "plot": "B13",
-    "staff": "Pris",
-    "plant": "Blue pea flower",
+    "staff": "Kale",
+    "plant": "Black eyed bean",
     "datePlanted": "",
     "estHarvest": "",
     "lastManure": "0100-01-03",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "Flowers used for teas, natural dye, and desserts.",
-    "funFact": "Petals change color with pH; symbol of positivity in Southeast Asia.",
-    "botanical": "Clitoria ternatea",
+    "uses": "Protein-rich legume, eaten boiled, stewed, or sprouted.",
+    "funFact": "Staple in Southern U.S. cuisine; symbol of luck on New Year’s Day.",
+    "botanical": "Vigna unguiculata",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bluepeaflower1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bluepeaflower2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bluepeaflower3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blackeyedbean1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blackeyedbean2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blackeyedbean3.jpg"
     ]
   },
   "B14": {
