@@ -433,20 +433,20 @@
   },
   "B13": {
     "plot": "B13",
-    "staff": "KK",
-    "plant": "Curry leaf",
+    "staff": "Pris",
+    "plant": "Blue pea flower",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "2001-10-01",
+    "lastManure": "0100-01-03",
     "nextManure": "",
-    "lastWeeding": "1970-01-01",
-    "uses": "Leaves flavor curries, soups, and chutneys.",
-    "funFact": "Native to India; aromatic leaves used fresh or dried.",
-    "botanical": "Murraya koenigii",
+    "lastWeeding": "",
+    "uses": "Flowers used for teas, natural dye, and desserts.",
+    "funFact": "Petals change color with pH; symbol of positivity in Southeast Asia.",
+    "botanical": "Clitoria ternatea",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/curryleaf1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/curryleaf2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/curryleaf3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bluepeaflower1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bluepeaflower2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bluepeaflower3.jpg"
     ]
   },
   "B14": {
