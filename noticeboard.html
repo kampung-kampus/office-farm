@@ -266,6 +266,28 @@
   </div>
 </div>
 
+
+
+<!-- Entry Password Modal -->
+<div class="pw-modal open" id="entryModal">
+  <div class="pw-box">
+    <div class="pw-icon">🌿</div>
+    <div class="pw-title">Notice Board</div>
+    <div class="pw-sub">Enter password to access the notice board</div>
+    <input class="pw-input" type="password" id="entryPwInput" placeholder="Password"
+      onkeydown="if(event.key==='Enter') checkEntryPassword()" />
+    <div class="pw-error" id="entryPwError" style="display:none;">❌ Incorrect password</div>
+    <div class="pw-actions">
+      <button class="btn-cancel" style="flex:1" onclick="goBack()">← Back</button>
+      <button class="btn-submit" style="flex:1" onclick="checkEntryPassword()">Enter</button>
+    </div>
+  </div>
+</div>
+
+
+
+  
+
 <!-- Password Modal (for posting) -->
 <div class="pw-modal" id="pwModal">
   <div class="pw-box">
@@ -347,6 +369,31 @@ let notices = [
 
 let currentFilter = 'all';
 
+  // ── Entry password ──
+function checkEntry() {
+  const granted = sessionStorage.getItem('noticeboard_access');
+  if (!granted) {
+    document.getElementById('entryModal').classList.add('open');
+    setTimeout(() => document.getElementById('entryPwInput').focus(), 100);
+  }
+}
+
+function checkEntryPassword() {
+  const val = document.getElementById('entryPwInput').value;
+  if (val === MANAGER_PASSWORD) {
+    sessionStorage.setItem('noticeboard_access', 'yes');
+    document.getElementById('entryModal').classList.remove('open');
+  } else {
+    document.getElementById('entryPwError').style.display = 'block';
+    document.getElementById('entryPwInput').value = '';
+    document.getElementById('entryPwInput').focus();
+  }
+}
+
+function goBack() {
+  window.location.href = 'dashboard.html';
+}
+
 // ── localStorage save & load ──
 function saveNotices() {
   localStorage.setItem('officefarm_notices', JSON.stringify(notices));
@@ -421,8 +468,7 @@ function filterNotices(cat, btn) {
 
 // ── Post modal ──
 function openPostModal() {
-  document.getElementById('pwModal').classList.add('open');
-  setTimeout(() => document.getElementById('pwInput').focus(), 100);
+  document.getElementById('postModal').classList.add('open');
 }
 
 function closePwModal() {
@@ -484,6 +530,7 @@ function submitNotice() {
 // Initial render — load saved notices first
 loadNotices();
 render();
+checkEntry();
 </script>
 </body>
 </html>
