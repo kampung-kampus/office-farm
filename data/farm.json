@@ -433,20 +433,20 @@
   },
   "B13": {
     "plot": "B13",
-    "staff": "",
-    "plant": "Empty",
+    "staff": "KK",
+    "plant": "Chilli",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "",
+    "lastManure": "0221-01-01",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "uses": "Adds spice to dishes, sauces, and pickles.",
+    "funFact": "Tiny but extremely hot; boosts metabolism.",
+    "botanical": "Capsicum frutescens",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli3.jpg"
     ]
   },
   "B14": {
