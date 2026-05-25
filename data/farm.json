@@ -433,20 +433,20 @@
   },
   "B13": {
     "plot": "B13",
-    "staff": "Kale",
-    "plant": "Black eyed bean",
+    "staff": "",
+    "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "0100-01-03",
+    "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "Protein-rich legume, eaten boiled, stewed, or sprouted.",
-    "funFact": "Staple in Southern U.S. cuisine; symbol of luck on New Year’s Day.",
-    "botanical": "Vigna unguiculata",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blackeyedbean1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blackeyedbean2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blackeyedbean3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B14": {
