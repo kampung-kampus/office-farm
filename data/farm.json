@@ -433,20 +433,20 @@
   },
   "B13": {
     "plot": "B13",
-    "staff": "KK",
-    "plant": "Choy sum",
+    "staff": "Pris",
+    "plant": "Ceylon spinach",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "0321-12-31",
+    "lastManure": "0122-01-02",
     "nextManure": "",
-    "lastWeeding": "1970-01-01",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
+    "lastWeeding": "",
+    "uses": "Cooking: The leaves and tender stems are  sauteed, steamed, or boiled. Thickening Agent: Because of its mucilaginous  often added to soups and stews to naturally thicken the liquid.",
+    "funFact": "Not a True Spinach. It contains over three times more Vitamin C than regular spinach and more Vitamin A than kale.",
+    "botanical": "Talinum fruticosum. Note that Basella alba (Malabar spinach) is sometimes also referred to as Ceylon spinach.",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ceylonspinach1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ceylonspinach2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ceylonspinach3.jpg"
     ]
   },
   "B14": {
