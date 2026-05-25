@@ -433,20 +433,20 @@
   },
   "B13": {
     "plot": "B13",
-    "staff": "Mrs Tang",
-    "plant": "Ginger",
+    "staff": "KK",
+    "plant": "Curry leaf",
     "datePlanted": "",
     "estHarvest": "",
     "lastManure": "2001-10-01",
     "nextManure": "",
     "lastWeeding": "1970-01-01",
-    "uses": "Spice for curries, soups, and herbal remedies.",
-    "funFact": "Related to ginger; prized in Thai cuisine for citrus-like aroma.",
-    "botanical": "Dichorisandra thyrsiflora",
+    "uses": "Leaves flavor curries, soups, and chutneys.",
+    "funFact": "Native to India; aromatic leaves used fresh or dried.",
+    "botanical": "Murraya koenigii",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/curryleaf1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/curryleaf2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/curryleaf3.jpg"
     ]
   },
   "B14": {
