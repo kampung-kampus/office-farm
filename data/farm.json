@@ -470,19 +470,19 @@
   "B15": {
     "plot": "B15",
     "staff": "KK",
-    "plant": "Choy sum",
-    "datePlanted": "2026-05-13",
-    "estHarvest": "2026-06-12",
-    "lastManure": "2026-05-21",
-    "nextManure": "2026-05-28",
-    "lastWeeding": "2026-05-24",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
+    "plant": "Fameflower",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "11122-01-01",
+    "nextManure": "",
+    "lastWeeding": "1970-01-01",
+    "uses": "Edible leaves, used in salads.",
+    "funFact": "Succulent plant; thrives in poor soil.",
+    "botanical": "Talinum paniculatum",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fameflower1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fameflower2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fameflower3.jpg"
     ]
   },
   "B16": {
