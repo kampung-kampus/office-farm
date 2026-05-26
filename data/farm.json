@@ -469,20 +469,20 @@
   },
   "B15": {
     "plot": "B15",
-    "staff": "",
-    "plant": "Empty",
+    "staff": "Mrs Tang",
+    "plant": "Bayam red",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "",
+    "lastManure": "0300-01-01",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "uses": "Leafy vegetable, eaten stir-fried or in soups.",
+    "funFact": "Ancient grain family; leaves rich in iron and calcium",
+    "botanical": "Amaranthus",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred3.jpg"
     ]
   },
   "B16": {
