@@ -469,20 +469,20 @@
   },
   "B15": {
     "plot": "B15",
-    "staff": "",
-    "plant": "Empty",
+    "staff": "Pris",
+    "plant": "Tomato",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "",
+    "lastManure": "0230-01-01",
     "nextManure": "",
-    "lastWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "lastWeeding": "1970-01-01",
+    "uses": "Used in sauces, salads, and soups.",
+    "funFact": "Botanically a fruit; rich in lycopene.",
+    "botanical": "Solanum lycopersicum",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/tomato1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/tomato2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/tomato3.jpg"
     ]
   },
   "B16": {
