@@ -469,20 +469,20 @@
   },
   "B15": {
     "plot": "B15",
-    "staff": "KK",
-    "plant": "Fameflower",
+    "staff": "",
+    "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "11122-01-01",
+    "lastManure": "",
     "nextManure": "",
-    "lastWeeding": "1970-01-01",
-    "uses": "Edible leaves, used in salads.",
-    "funFact": "Succulent plant; thrives in poor soil.",
-    "botanical": "Talinum paniculatum",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fameflower1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fameflower2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fameflower3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B16": {
