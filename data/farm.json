@@ -433,20 +433,20 @@
   },
   "B13": {
     "plot": "B13",
-    "staff": "",
-    "plant": "Empty",
+    "staff": "Mrs Tang",
+    "plant": "Nai bai",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "",
+    "lastManure": "0300-01-01",
     "nextManure": "",
-    "lastWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "lastWeeding": "1970-01-01",
+    "uses": "Stir-fried or steamed vegetable.",
+    "funFact": "Tender stems; popular in Chinese cuisine.",
+    "botanical": "Brassica rapa",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/naibai1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/naibai2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/naibai3.jpg"
     ]
   },
   "B14": {
