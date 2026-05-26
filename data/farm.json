@@ -433,20 +433,20 @@
   },
   "B13": {
     "plot": "B13",
-    "staff": "Pris",
-    "plant": "Papaya",
-    "datePlanted": "2026-05-13",
-    "estHarvest": "2027-02-07",
-    "lastManure": "2026-05-22",
-    "nextManure": "2026-05-29",
-    "lastWeeding": "2026-05-25",
-    "uses": "Eaten fresh, juiced, or cooked green.",
-    "funFact": "Contains papain enzyme; aids digestion.",
-    "botanical": "Carica papaya",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/papaya1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/papaya2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/papaya3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B14": {
