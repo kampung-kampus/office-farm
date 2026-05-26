@@ -433,20 +433,20 @@
   },
   "B13": {
     "plot": "B13",
-    "staff": "KK",
-    "plant": "Ginger",
+    "staff": "",
+    "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "0100-01-03",
+    "lastManure": "",
     "nextManure": "",
-    "lastWeeding": "1970-01-01",
-    "uses": "Spice for curries, soups, and herbal remedies.",
-    "funFact": "Related to ginger; prized in Thai cuisine for citrus-like aroma.",
-    "botanical": "Dichorisandra thyrsiflora",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B14": {
@@ -469,20 +469,20 @@
   },
   "B15": {
     "plot": "B15",
-    "staff": "Pris",
-    "plant": "Tomato",
+    "staff": "",
+    "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "0230-01-01",
+    "lastManure": "",
     "nextManure": "",
-    "lastWeeding": "1970-01-01",
-    "uses": "Used in sauces, salads, and soups.",
-    "funFact": "Botanically a fruit; rich in lycopene.",
-    "botanical": "Solanum lycopersicum",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/tomato1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/tomato2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/tomato3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B16": {
