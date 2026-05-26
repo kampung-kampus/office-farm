@@ -145,20 +145,20 @@
   },
   "A09": {
     "plot": "A09",
-    "staff": "",
-    "plant": "Empty",
+    "staff": "Kale",
+    "plant": "Lemongrass",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "",
+    "lastManure": "0100-01-03",
     "nextManure": "",
-    "lastWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "lastWeeding": "1970-01-01",
+    "uses": "Used in teas, curries, and soups.",
+    "funFact": "Repels mosquitoes; citrus-like aroma.",
+    "botanical": "Cymbopogon citratus",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemongrass1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemongrass2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemongrass3.jpg"
     ]
   },
   "A10": {
