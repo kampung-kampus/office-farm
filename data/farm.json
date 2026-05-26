@@ -433,20 +433,20 @@
   },
   "B13": {
     "plot": "B13",
-    "staff": "Mrs Tang",
-    "plant": "Nai bai",
+    "staff": "KK",
+    "plant": "Ginger",
     "datePlanted": "",
     "estHarvest": "",
-    "lastManure": "0300-01-01",
+    "lastManure": "0100-01-03",
     "nextManure": "",
     "lastWeeding": "1970-01-01",
-    "uses": "Stir-fried or steamed vegetable.",
-    "funFact": "Tender stems; popular in Chinese cuisine.",
-    "botanical": "Brassica rapa",
+    "uses": "Spice for curries, soups, and herbal remedies.",
+    "funFact": "Related to ginger; prized in Thai cuisine for citrus-like aroma.",
+    "botanical": "Dichorisandra thyrsiflora",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/naibai1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/naibai2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/naibai3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/ginger3.jpg"
     ]
   },
   "B14": {
