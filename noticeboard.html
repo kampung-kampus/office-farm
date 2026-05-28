@@ -482,13 +482,11 @@ function closePostModal() {
 }
 
 
-  async function submitNotice() {
+ async function submitNotice() {
   const title  = document.getElementById('fTitle').value.trim();
   const body   = document.getElementById('fBody').value.trim();
   const author = document.getElementById('fAuthor').value.trim() || 'Farm Manager';
   if (!title || !body) { alert('Please fill in the title and message.'); return; }
-
-  
 
   const today = new Date();
   const dateStr = today.getDate() + ' ' +
@@ -506,7 +504,7 @@ function closePostModal() {
     pinned:   document.getElementById('fPin').value === 'yes',
   };
 
-closePostModal();
+  closePostModal();
   showLoading(true);
   await saveNotice({
     title:    newNotice.title,
