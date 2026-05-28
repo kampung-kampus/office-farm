@@ -197,6 +197,15 @@
     <button class="filter-btn" onclick="filterNotices('general', this)">🟢 General</button>
   </div>
 
+<div id="loadingBar" style="display:none; text-align:center; padding:20px; color:rgba(245,240,232,0.4); font-size:0.85rem;">
+  🌿 Loading notices...
+</div>
+
+
+
+
+
+  
   <!-- Pinned notices -->
   <div class="pinned-section" id="pinnedSection">
     <div class="section-label">📌 Pinned</div>
@@ -312,32 +321,8 @@
 const MANAGER_PASSWORD = 'g';
 
 
- 
- 
-let notices = [
-  {
-    id: 1,
-    title: 'Welcome to the Office Farm Notice Board!',
-    body: 'This is your central hub for all farm announcements. Staff can post notices here and are encouraged to check this board daily.',
-    category: 'general',
-    tag: 'General',
-    author: 'Management',
-    date: '23 May 2026',
-    pinned: true,
-  },
-  {
-    id: 2,
-    title: 'Water pump',
-    body: 'Please ensure that the water pump is operational at all time so that the water in the pond is continuously aerated.',
-    category: 'important',
-    tag: 'Maintenance',
-    author: 'Staff',
-    date: '22 May 2026',
-    pinned: false,
-  }
-];
-
-
+ const SCRIPT_URL = 'YOUR_WEB_APP_URL_HERE'; // paste your URL from Step 3
+let notices = [];
 
 
   
@@ -370,14 +355,35 @@ function goBack() {
   window.location.href = 'dashboard.html';
 }
 
-// ── localStorage save & load ──
-function saveNotices() {
-  localStorage.setItem('officefarm_notices', JSON.stringify(notices));
+async function loadNotices() {
+  try {
+    showLoading(true);
+    const res = await fetch(SCRIPT_URL + '?action=getNotices');
+    notices = await res.json();
+    render();
+  } catch (err) {
+    console.error('Failed to load notices:', err);
+    notices = [];
+    render();
+  } finally {
+    showLoading(false);
+  }
 }
 
-function loadNotices() {
-  const saved = localStorage.getItem('officefarm_notices');
-  if (saved) { notices = JSON.parse(saved); }
+async function saveNotice(data) {
+  const res = await fetch(SCRIPT_URL, {
+    method: 'POST',
+    body: JSON.stringify({ action: 'postNotice', ...data })
+  });
+  return res.json();
+}
+
+async function dismissNoticeRemote(id) {
+  await fetch(SCRIPT_URL + '?action=dismissNotice&id=' + id);
+}
+
+function showLoading(show) {
+  document.getElementById('loadingBar').style.display = show ? 'block' : 'none';
 }
 
 // ── Render ──
@@ -427,10 +433,10 @@ function dismissNotice(id) {
     card.style.transition = 'opacity 0.3s, transform 0.3s';
     card.style.opacity = '0';
     card.style.transform = 'translateX(30px)';
-    setTimeout(() => {
+    setTimeout(async () => {
       notices = notices.filter(n => n.id !== id);
-      saveNotices();
       render();
+      await dismissNoticeRemote(id);
     }, 300);
   }
 }
@@ -476,10 +482,13 @@ function closePostModal() {
 }
 
 function submitNotice() {
+  async function submitNotice() {
   const title  = document.getElementById('fTitle').value.trim();
   const body   = document.getElementById('fBody').value.trim();
   const author = document.getElementById('fAuthor').value.trim() || 'Farm Manager';
   if (!title || !body) { alert('Please fill in the title and message.'); return; }
+
+  
 
   const today = new Date();
   const dateStr = today.getDate() + ' ' +
@@ -497,15 +506,22 @@ function submitNotice() {
     pinned:   document.getElementById('fPin').value === 'yes',
   };
 
-  notices.unshift(newNotice);
-  saveNotices();
-  closePostModal();
-  render();
+ closePostModal();
+  showLoading(true);
+  await saveNotice({
+    title:    newNotice.title,
+    body:     newNotice.body,
+    category: newNotice.category,
+    tag:      newNotice.tag,
+    author:   newNotice.author,
+    pinned:   document.getElementById('fPin').value,
+  });
+  await loadNotices();
 }
 
 // Initial render — load saved notices first
+// Load notices from Google Sheets
 loadNotices();
-render();
 checkEntry();
 </script>
 </body>
