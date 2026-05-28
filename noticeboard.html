@@ -481,7 +481,7 @@ function closePostModal() {
   document.getElementById('fPin').value = 'no';
 }
 
-function submitNotice() {
+
   async function submitNotice() {
   const title  = document.getElementById('fTitle').value.trim();
   const body   = document.getElementById('fBody').value.trim();
@@ -506,7 +506,7 @@ function submitNotice() {
     pinned:   document.getElementById('fPin').value === 'yes',
   };
 
- closePostModal();
+closePostModal();
   showLoading(true);
   await saveNotice({
     title:    newNotice.title,
@@ -519,7 +519,6 @@ function submitNotice() {
   await loadNotices();
 }
 
-// Initial render — load saved notices first
 // Load notices from Google Sheets
 loadNotices();
 checkEntry();
