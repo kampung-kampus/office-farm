@@ -826,5 +826,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea3.jpg"
     ]
+  },
+  "openarea2C": {
+    "plot": "openarea2C",
+    "staff": "Lye",
+    "plant": "Chinese violet",
+    "datePlanted": "2026-01-22",
+    "estHarvest": "2026-01-22",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet3.jpg"
+    ]
   }
 }
