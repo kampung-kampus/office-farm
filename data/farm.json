@@ -1042,5 +1042,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop3.jpg"
     ]
+  },
+  "openarea2O": {
+    "plot": "openarea2O",
+    "staff": "Lye",
+    "plant": "Pricky leea",
+    "datePlanted": "2026-01-08",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/prickyleea1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/prickyleea2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/prickyleea3.jpg"
+    ]
   }
 }
