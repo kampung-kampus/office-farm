@@ -1150,5 +1150,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit3.jpg"
     ]
+  },
+  "openarea2V": {
+    "plot": "openarea2V",
+    "staff": "GUI",
+    "plant": "Star fruit",
+    "datePlanted": "2026-02-25",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Fresh Eating: Sliced raw and eaten fresh, often used as a garnish in salads, fruit platters, and cocktails.",
+    "funFact": "Dietary Precaution: People with kidney problems or chronic kidney disease should avoid star fruit National Kidney Foundation. The fruit contains a neurotoxin (carambotoxin) and high levels of oxalates that healthy kidneys easily filter out, but can be dangerous or cause severe hiccups, vomiting, and confusion in individuals with kidney dysfunction.",
+    "botanical": "Averrhoa carambola",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit3.jpg"
+    ]
   }
 }
