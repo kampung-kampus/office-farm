@@ -934,5 +934,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus3.jpg"
     ]
+  },
+  "openarea2I": {
+    "plot": "openarea2I",
+    "staff": "Lye",
+    "plant": "Bitter leaf",
+    "datePlanted": "2026-03-05",
+    "estHarvest": "2026-03-05",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf3.jpg"
+    ]
   }
 }
