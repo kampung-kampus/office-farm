@@ -952,5 +952,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf3.jpg"
     ]
+  },
+  "openarea2J": {
+    "plot": "openarea2J",
+    "staff": "Lye",
+    "plant": "Candle bush",
+    "datePlanted": "2026-02-26",
+    "estHarvest": "2026-02-26",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush3.jpg"
+    ]
   }
 }
