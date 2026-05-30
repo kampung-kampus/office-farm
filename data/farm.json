@@ -791,24 +791,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
     ]
   },
-  "openarea1A": {
-    "plot": "openarea1A",
-    "staff": "Lye",
-    "plant": "Mulberry",
-    "datePlanted": "2026-02-13",
-    "estHarvest": "2026-02-13",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
-    ]
-  },
   "openarea2B": {
     "plot": "openarea2B",
     "staff": "Lye",
@@ -971,22 +953,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush3.jpg"
     ]
   },
-  "openarea2": {
-    "plot": "openarea2",
+  "openarea2A": {
+    "plot": "openarea2A",
     "staff": "Lye",
-    "plant": "Location of openarea2",
-    "datePlanted": "",
-    "estHarvest": "",
+    "plant": "Mulberry",
+    "datePlanted": "2026-02-18",
+    "estHarvest": "2034-05-07",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "uses": "Sericulture (Silk Production): White mulberry leaves serve as the primary, indispensable food source for silkworms.Culinary Arts: The sweet, tart fruits are eaten fresh or processed into jams, juices, wines, pies, and tarts.Traditional Medicine: Practitioners of Traditional Chinese Medicine use the root bark, leaves, and fruit to address coughs, fever, and blood sugar regulation.",
+    "funFact": "Not a True Berry: Botanically speaking, a mulberry is not a berry at all but a \"multiple fruit\" formed from a cluster of independent flowers.Super-Sonic Pollen: The flowers of the white mulberry tree can fire pollen at over half the speed of sound, making it one of the fastest movements in the plant kingdom.",
+    "botanical": "Morus",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/locationofopenarea21.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/locationofopenarea22.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/locationofopenarea23.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
     ]
   }
 }
