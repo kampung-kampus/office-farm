@@ -804,7 +804,7 @@
     "funFact": "Not a True Berry: Botanically speaking, a mulberry is not a berry at all but a \"multiple fruit\" formed from a cluster of independent flowers.Super-Sonic Pollen: The flowers of the white mulberry tree can fire pollen at over half the speed of sound, making it one of the fastest movements in the plant kingdom.",
     "botanical": "Morus",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/openarea2A.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
     ]
@@ -812,19 +812,19 @@
   "openarea2B": {
     "plot": "openarea2B",
     "staff": "Lye",
-    "plant": "Fukien tea",
-    "datePlanted": "2026-01-19",
-    "estHarvest": "2034-04-07",
+    "plant": "openarea2B",
+    "datePlanted": "2026-01-27",
+    "estHarvest": "",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "Medicinal Infusions: In the Philippines, the leaves are widely boiled to create a medicinal tea used to treat coughs, diarrhea, colic, and dysentery",
-    "funFact": "Namesake Origins: It gets its name from the Fujian Province in southeastern China (often spelled Fukien in the past), where it has been grown for centuries and is mentioned in literature dating back to the Tang Dynasty.",
-    "botanical": "Carmona microphylla",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/openarea2b1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/openarea2b2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/openarea2b3.jpg"
     ]
   },
   "openarea2C": {
@@ -1205,24 +1205,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong3.jpg"
     ]
   },
-  "openareaZ": {
-    "plot": "openareaZ",
-    "staff": "Lye",
-    "plant": "Melinjo",
-    "datePlanted": "2026-01-30",
-    "estHarvest": "2034-04-18",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Culinary Snack (Emping): The mature seeds are ground into flour and deep-fried to create emping, a popular, slightly bitter Indonesian cracker.",
-    "funFact": "An Imposter \"Fruit\": Melinjo does not produce true fruits or flowers. It is a gymnosperm (related to pine trees), meaning its \"fruits\" are actually colorful, fleshy seed cones.",
-    "botanical": "Gnetum gnemon",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo3.jpg"
-    ]
-  },
   "openarea2Y": {
     "plot": "openarea2Y",
     "staff": "Lye",
@@ -1241,42 +1223,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo3.jpg"
     ]
   },
-  "openarea2ZZ": {
-    "plot": "openarea2ZZ",
-    "staff": "Lye",
-    "plant": "Coffee",
-    "datePlanted": "2026-01-28",
-    "estHarvest": "2034-04-16",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Beverage production: Roasted and ground seeds are brewed into global beverage variants.Caffeine extraction: Isolates are utilized in pharmaceuticals, energy drinks, and supplements.",
-    "funFact": "Fruit origins: Coffee beans are actually seeds found inside bright red fruits called \"coffee cherries\".Goat discovery: Legend says 9th-century Ethiopian herders discovered coffee after seeing goats \"dance\" from eating the berries.",
-    "botanical": "Coffea arabica",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
-    ]
-  },
-  "openarea2ZZZ": {
-    "plot": "openarea2ZZZ",
-    "staff": "Lye",
-    "plant": "Coffee",
-    "datePlanted": "2026-02-03",
-    "estHarvest": "2034-04-22",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Beverage production: Roasted and ground seeds are brewed into global beverage variants.Caffeine extraction: Isolates are utilized in pharmaceuticals, energy drinks, and supplements.",
-    "funFact": "Fruit origins: Coffee beans are actually seeds found inside bright red fruits called \"coffee cherries\".Goat discovery: Legend says 9th-century Ethiopian herders discovered coffee after seeing goats \"dance\" from eating the berries.",
-    "botanical": "Coffea arabica",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
-    ]
-  },
   "openarea2Z": {
     "plot": "openarea2Z",
     "staff": "GUI",
@@ -1293,6 +1239,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing3.jpg"
+    ]
+  },
+  "openarea2ZZ": {
+    "plot": "openarea2ZZ",
+    "staff": "Lye",
+    "plant": "Coffee",
+    "datePlanted": "2026-01-28",
+    "estHarvest": "2034-04-16",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Beverage production: Roasted and ground seeds are brewed into global beverage variants.Caffeine extraction: Isolates are utilized in pharmaceuticals, energy drinks, and supplements.",
+    "funFact": "Fruit origins: Coffee beans are actually seeds found inside bright red fruits called \"coffee cherries\".Goat discovery: Legend says 9th-century Ethiopian herders discovered coffee after seeing goats \"dance\" from eating the berries.",
+    "botanical": "Coffea arabica",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
     ]
   }
 }
