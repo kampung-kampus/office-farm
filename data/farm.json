@@ -20,19 +20,19 @@
   "A01": {
     "plot": "A01",
     "staff": "Mrs Tang",
-    "plant": "Choy sum",
-    "datePlanted": "2026-05-19",
-    "estHarvest": "2026-06-18",
-    "lastManure": "2026-05-21",
-    "nextManure": "2026-07-02",
-    "lastWeeding": "2026-05-26",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
+    "plant": "Mustard greens",
+    "datePlanted": "2026-05-23",
+    "estHarvest": "2026-06-27",
+    "lastManure": "2026-05-23",
+    "nextManure": "2026-06-20",
+    "lastWeeding": "2026-05-29",
+    "uses": "Stir-fried or pickled leafy vegetable.",
+    "funFact": "Pungent flavor; seeds used for mustard condiment.",
+    "botanical": "Brassica juncea",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens3.jpg"
     ]
   },
   "A03": {
