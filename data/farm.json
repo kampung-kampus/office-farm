@@ -988,5 +988,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices3.jpg"
     ]
+  },
+  "openarea2L": {
+    "plot": "openarea2L",
+    "staff": "Lye",
+    "plant": "Citronella",
+    "datePlanted": "2026-01-23",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Insect Repellent: The oil contains natural compounds (like citronellal, geraniol, and limonene) that mask human odors, effectively deterring mosquitoes and other biting bugs [1].Aromatherapy: Used in diffusers to create a calming, refreshing atmosphere and to help relieve mental fatigue.Skincare & Cosmetics: Diluted into soaps, lotions, and massage oils [2]. It has natural antifungal and antibacterial properties that help cleanse the skin.",
+    "funFact": "Not a single plant: People often assume citronella is a specific plant, but it is actually a tall, clumping grass similar to lemongrass",
+    "botanical": "Cymbopogon",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella3.jpg"
+    ]
   }
 }
