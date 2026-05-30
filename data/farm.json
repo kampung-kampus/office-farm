@@ -1243,20 +1243,20 @@
   },
   "openarea2ZZ": {
     "plot": "openarea2ZZ",
-    "staff": "GUI",
-    "plant": "Belimbing",
-    "datePlanted": "2026-02-05",
-    "estHarvest": "",
+    "staff": "Lye",
+    "plant": "Coffee",
+    "datePlanted": "2026-01-28",
+    "estHarvest": "2034-04-16",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "Culinary: Highly sour, it is used as a natural souring agent (like tamarind) in Asian curries, fish stews, and sambals. In Southeast Asia and the Philippines, the raw fruit is often dipped in rock salt or made into sweet jams and pickles.Traditional Medicine: The leaves, fruit, and flowers are used in folk medicine to treat coughs, high blood pressure, and skin conditions (like itchy rashes or mumps).",
-    "funFact": "Grows from the trunk: Unlike most fruits that hang from branches, belimbing fruits grow in heavy, clustered groups directly on the tree trunk and main branches.High productivity: A single tree can produce an astonishing 45 to 50 kg of fruit in a year.",
-    "botanical": "Averrhoa bilimbi ",
+    "uses": "Beverage production: Roasted and ground seeds are brewed into global beverage variants.Caffeine extraction: Isolates are utilized in pharmaceuticals, energy drinks, and supplements.",
+    "funFact": "Fruit origins: Coffee beans are actually seeds found inside bright red fruits called \"coffee cherries\".Goat discovery: Legend says 9th-century Ethiopian herders discovered coffee after seeing goats \"dance\" from eating the berries.",
+    "botanical": "Coffea arabica",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
     ]
   },
   "openarea2ZZZ": {
