@@ -1258,5 +1258,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing3.jpg"
     ]
+  },
+  "openarea2ZZZ": {
+    "plot": "openarea2ZZZ",
+    "staff": "Lye",
+    "plant": "Coffee",
+    "datePlanted": "2026-02-03",
+    "estHarvest": "2034-04-22",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Beverage production: Roasted and ground seeds are brewed into global beverage variants.Caffeine extraction: Isolates are utilized in pharmaceuticals, energy drinks, and supplements.",
+    "funFact": "Fruit origins: Coffee beans are actually seeds found inside bright red fruits called \"coffee cherries\".Goat discovery: Legend says 9th-century Ethiopian herders discovered coffee after seeing goats \"dance\" from eating the berries.",
+    "botanical": "Coffea arabica",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
+    ]
   }
 }
