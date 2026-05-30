@@ -970,5 +970,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
     ]
+  },
+  "openarea2K": {
+    "plot": "openarea2K",
+    "staff": "Lye",
+    "plant": "Spices",
+    "datePlanted": "2026-02-12",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices3.jpg"
+    ]
   }
 }
