@@ -1135,20 +1135,20 @@
   },
   "openarea2U": {
     "plot": "openarea2U",
-    "staff": "GUI",
-    "plant": "Star apple",
-    "datePlanted": "2026-01-29",
+    "staff": "Lye",
+    "plant": "Cashew",
+    "datePlanted": "2026-01-15",
     "estHarvest": "",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "Fresh Eating: The fruit is typically eaten fresh; it is scooped out and best served chilled.",
-    "funFact": "The \"Star\" Pattern: When the fruit is sliced in half horizontally, the core and seeds create a beautiful, distinct star-like pattern.",
-    "botanical": "Chrysophyllum cainito",
+    "uses": "Culinary & Snacks: Eaten roasted or salted, and blended into pastes as the creamy base for Indian curries (like Korma)",
+    "funFact": "They Are Not True Nuts: Botanically, the cashew is actually a drupe (a seed that grows on the outside of a false fruit), rather than a traditional nut.A Poison Ivy Relative: The cashew tree is in the Anacardiaceae family, meaning it shares a botanical lineage with pistachios, mangoes, and toxic plants like poison ivy and poison oak",
+    "botanical": "Anacardium occidentale",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew3.jpg"
     ]
   },
   "openarea2V": {
