@@ -970,5 +970,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush3.jpg"
     ]
+  },
+  "openarea2": {
+    "plot": "openarea2",
+    "staff": "Lye",
+    "plant": "Location of openarea2",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/locationofopenarea21.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/locationofopenarea22.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/locationofopenarea23.jpg"
+    ]
   }
 }
