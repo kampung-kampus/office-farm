@@ -55,20 +55,20 @@
   },
   "A04": {
     "plot": "A04",
-    "staff": "KK",
-    "plant": "Nursery a place where baby seeds and sprouts grow big",
-    "datePlanted": "2026-05-28",
-    "estHarvest": "2029-02-21",
+    "staff": "Mrs Tang",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "Germinating  seeds and preparing a variety  of  saplings for planting.",
-    "funFact": "Nursery is like a  childcare centre protecting  and nurturing  the young plants. Saplings are kept in the nursery  until they are ready to be moved to the main plots for planting. ",
-    "botanical": "Houses miscellaneous plants",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A05": {
