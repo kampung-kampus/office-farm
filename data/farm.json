@@ -1006,5 +1006,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella3.jpg"
     ]
+  },
+  "openareaM": {
+    "plot": "openareaM",
+    "staff": "Lye",
+    "plant": "Blue porterweed",
+    "datePlanted": "2026-02-19",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Culinary: The mushroom-flavored flowers are a popular, quirky addition to fresh salads. The tough flower spikes can also be used as a seasoning in soups and stews much like a bay leaf.Traditional Medicine: Historically used by indigenous and folk healers as a \"cooling tonic\". Leaves are frequently steeped into teas or decoctions to help soothe gastrointestinal discomfort, clear respiratory issues, and promote relaxation",
+    "funFact": "It tastes like mushrooms: The tiny, delicate flowers can be eaten raw and have a surprisingly distinct, earthy, mushroom-like flavor.It has a beer connection: The common name \"porterweed\" comes from the dark, foamy, beer-like infusion that can be made from brewing its leaves.",
+    "botanical": "Stachytarpheta jamaicensis",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed3.jpg"
+    ]
   }
 }
