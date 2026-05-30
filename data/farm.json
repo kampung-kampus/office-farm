@@ -1186,5 +1186,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon3.jpg"
     ]
+  },
+  "openarea2X": {
+    "plot": "openarea2X",
+    "staff": "GUI",
+    "plant": "Buah long long",
+    "datePlanted": "2026-02-05",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong3.jpg"
+    ]
   }
 }
