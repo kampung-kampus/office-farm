@@ -1114,5 +1114,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed3.jpg"
     ]
+  },
+  "openarea2T": {
+    "plot": "openarea2T",
+    "staff": "Lye",
+    "plant": "Asian broom grass",
+    "datePlanted": "2026-02-27",
+    "estHarvest": "2034-05-16",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Broom Production: Its long, feathery flower panicles are harvested and dried to create durable \"light dust\" brooms (often called phool jhadu) that are staples in households across South and Southeast Asia.",
+    "funFact": "Disney Famous: This grass is planted extensively at Disneyland, particularly around the Jungle Cruise ride, to create an authentic tropical jungle atmosphere.",
+    "botanical": "Thysanolaena latifolia",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass3.jpg"
+    ]
   }
 }
