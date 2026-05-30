@@ -880,5 +880,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry3.jpg"
     ]
+  },
+  "openarea2F": {
+    "plot": "openarea2F",
+    "staff": "Lye",
+    "plant": "Lipstick tree",
+    "datePlanted": "2026-02-17",
+    "estHarvest": "2034-05-06",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "The tree is primarily valued for its bright red-orange seeds, which provide a versatile natural pigment called annatto.Natural Food Coloring: It is one of the world's most common natural dyes, used to give cheese (like Cheddar), butter, margarine, ice cream, and rice their yellow or orange hues.",
+    "funFact": "The Name Origin: The \"lipstick tree\" nickname comes from indigenous people in Central and South America using the seed pulp as a natural cosmetic and body paint for ceremonies.Ancient Sunscreen: The Mayans and Aztecs used the pigment not just for color, but as a natural sunscreen and insect repellent.",
+    "botanical": "Bixa orellana",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree3.jpg"
+    ]
   }
 }
