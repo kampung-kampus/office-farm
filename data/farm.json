@@ -898,5 +898,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree3.jpg"
     ]
+  },
+  "openarea2G": {
+    "plot": "openarea2G",
+    "staff": "Lye",
+    "plant": "Kaffir lime",
+    "datePlanted": "2026-01-15",
+    "estHarvest": "2026-10-12",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Used in drinks, marinades, and desserts",
+    "funFact": "Prevented scurvy in sailors; highly acidic fruit.",
+    "botanical": "Citrus × aurantiifolia",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime3.jpg"
+    ]
   }
 }
