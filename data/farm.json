@@ -1222,5 +1222,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo3.jpg"
     ]
+  },
+  "openarea2Y": {
+    "plot": "openarea2Y",
+    "staff": "Lye",
+    "plant": "Melinjo",
+    "datePlanted": "2026-01-28",
+    "estHarvest": "2034-04-16",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Culinary Snack (Emping): The mature seeds are ground into flour and deep-fried to create emping, a popular, slightly bitter Indonesian cracker.",
+    "funFact": "An Imposter \"Fruit\": Melinjo does not produce true fruits or flowers. It is a gymnosperm (related to pine trees), meaning its \"fruits\" are actually colorful, fleshy seed cones.",
+    "botanical": "Gnetum gnemon",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo3.jpg"
+    ]
   }
 }
