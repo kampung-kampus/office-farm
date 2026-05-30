@@ -1240,5 +1240,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo3.jpg"
     ]
+  },
+  "openarea2ZZ": {
+    "plot": "openarea2ZZ",
+    "staff": "GUI",
+    "plant": "Belimbing",
+    "datePlanted": "2026-02-05",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Culinary: Highly sour, it is used as a natural souring agent (like tamarind) in Asian curries, fish stews, and sambals. In Southeast Asia and the Philippines, the raw fruit is often dipped in rock salt or made into sweet jams and pickles.Traditional Medicine: The leaves, fruit, and flowers are used in folk medicine to treat coughs, high blood pressure, and skin conditions (like itchy rashes or mumps).",
+    "funFact": "Grows from the trunk: Unlike most fruits that hang from branches, belimbing fruits grow in heavy, clustered groups directly on the tree trunk and main branches.High productivity: A single tree can produce an astonishing 45 to 50 kg of fruit in a year.",
+    "botanical": "Averrhoa bilimbi ",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing3.jpg"
+    ]
   }
 }
