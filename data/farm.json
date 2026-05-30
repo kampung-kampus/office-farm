@@ -1168,5 +1168,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit3.jpg"
     ]
+  },
+  "openarea2W": {
+    "plot": "openarea2W",
+    "staff": "GUI",
+    "plant": "Lemon",
+    "datePlanted": "2026-02-03",
+    "estHarvest": "2026-07-03",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Used in teas, curries, and soups.",
+    "funFact": "Repels mosquitoes; citrus-like aroma.",
+    "botanical": "Cymbopogon citratus",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon3.jpg"
+    ]
   }
 }
