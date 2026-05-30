@@ -844,5 +844,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet3.jpg"
     ]
+  },
+  "openarea2D": {
+    "plot": "openarea2D",
+    "staff": "Lye",
+    "plant": "Dayak onion",
+    "datePlanted": "2026-02-11",
+    "estHarvest": "2026-02-11",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion3.jpg"
+    ]
   }
 }
