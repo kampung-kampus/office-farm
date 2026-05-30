@@ -808,5 +808,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
     ]
+  },
+  "openarea2B": {
+    "plot": "openarea2B",
+    "staff": "Lye",
+    "plant": "Fukien tea",
+    "datePlanted": "2026-02-24",
+    "estHarvest": "2026-02-24",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea3.jpg"
+    ]
   }
 }
