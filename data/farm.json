@@ -862,5 +862,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion3.jpg"
     ]
+  },
+  "openarea2E": {
+    "plot": "openarea2E",
+    "staff": "Lye",
+    "plant": "Surinam cherry",
+    "datePlanted": "2026-01-15",
+    "estHarvest": "2026-01-15",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry3.jpg"
+    ]
   }
 }
