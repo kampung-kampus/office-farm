@@ -916,5 +916,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime3.jpg"
     ]
+  },
+  "openarea2H": {
+    "plot": "openarea2H",
+    "staff": "Lye",
+    "plant": "Rose cactus",
+    "datePlanted": "2026-01-26",
+    "estHarvest": "2026-01-26",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus3.jpg"
+    ]
   }
 }
