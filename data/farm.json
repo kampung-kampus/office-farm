@@ -55,20 +55,20 @@
   },
   "A04": {
     "plot": "A04",
-    "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
+    "staff": "KK",
+    "plant": "Nursery the place where baby seeds and sprouts grow big.",
+    "datePlanted": "2026-05-23",
     "estHarvest": "",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "Empty plots",
+    "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurserytheplacewherebabyseedsandsproutsgrowbig.1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurserytheplacewherebabyseedsandsproutsgrowbig.2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurserytheplacewherebabyseedsandsproutsgrowbig.3.jpg"
     ]
   },
   "A05": {
