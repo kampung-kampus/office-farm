@@ -1118,19 +1118,19 @@
   "openarea2T": {
     "plot": "openarea2T",
     "staff": "Lye",
-    "plant": "Asian broom grass",
-    "datePlanted": "2026-02-27",
-    "estHarvest": "2034-05-16",
+    "plant": "Cashew",
+    "datePlanted": "2026-02-06",
+    "estHarvest": "",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "Broom Production: Its long, feathery flower panicles are harvested and dried to create durable \"light dust\" brooms (often called phool jhadu) that are staples in households across South and Southeast Asia.",
-    "funFact": "Disney Famous: This grass is planted extensively at Disneyland, particularly around the Jungle Cruise ride, to create an authentic tropical jungle atmosphere.",
-    "botanical": "Thysanolaena latifolia",
+    "uses": "Culinary & Snacks: Eaten roasted or salted, and blended into pastes as the creamy base for Indian curries (like Korma)",
+    "funFact": "They Are Not True Nuts: Botanically, the cashew is actually a drupe (a seed that grows on the outside of a false fruit), rather than a traditional nut.A Poison Ivy Relative: The cashew tree is in the Anacardiaceae family, meaning it shares a botanical lineage with pistachios, mangoes, and toxic plants like poison ivy and poison oak",
+    "botanical": "Anacardium occidentale",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew3.jpg"
     ]
   },
   "openarea2U": {
