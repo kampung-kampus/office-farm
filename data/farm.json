@@ -1276,5 +1276,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
     ]
+  },
+  "openarea2 T": {
+    "plot": "openarea2 T",
+    "staff": "Lye",
+    "plant": "Cashew",
+    "datePlanted": "2026-01-09",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Culinary & Snacks: Eaten roasted or salted, and blended into pastes as the creamy base for Indian curries (like Korma)",
+    "funFact": "They Are Not True Nuts: Botanically, the cashew is actually a drupe (a seed that grows on the outside of a false fruit), rather than a traditional nut.A Poison Ivy Relative: The cashew tree is in the Anacardiaceae family, meaning it shares a botanical lineage with pistachios, mangoes, and toxic plants like poison ivy and poison oak",
+    "botanical": "Anacardium occidentale",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew3.jpg"
+    ]
   }
 }
