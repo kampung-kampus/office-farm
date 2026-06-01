@@ -1082,19 +1082,19 @@
   "openarea2R": {
     "plot": "openarea2R",
     "staff": "Lye",
-    "plant": "Bandicoot berry",
-    "datePlanted": "2026-01-26",
-    "estHarvest": "2028-10-22",
+    "plant": "Indian camphorweed",
+    "datePlanted": "2026-01-14",
+    "estHarvest": "2034-04-02",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "Traditionally, various parts of the plant are used in Ayurvedic and other traditional systems of medicine to treat skin complaints, diarrhea, vertigo, fever, and body aches.  The ripe, dark purple or black berries are edible and have a tart, pleasant taste. They are sometimes used in jams and jellies.",
-    "funFact": "The fruit is a favorite snack of the bandicoot, a small marsupial, which gives the plant its common name, Bandicoot Berry.",
-    "botanical": "Leea Indica",
+    "uses": "This plant is a powerhouse in traditional medicine and regional cuisines across South and Southeast Asia:Medicinal Tea: The leaves are frequently brewed into a health-promoting tea, particularly in Thailand, to manage conditions like diabetes and rheumatism.",
+    "funFact": "VapoRub Scent: When its leaves are crushed, they release a powerful, medicinal odor similar to camphor or Vicks VapoRub, which gives the plant its name.Antioxidant Powerhouse: Research suggests that tea made from Pluchea indica leaves can have stronger antioxidant properties than even green tea (Camellia sinensis). Coastal Guardian: This plant thrives in harsh, salty environments like mangroves and salt marshes, playing a vital role in maintaining the ecological balance of coastal areas.Natural Insect Repellent: Because of its pungent chemical glands, the plant is naturally resistant to deer and is often used as a biological insect repellent.",
+    "botanical": "Pluchea indica",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed3.jpg"
     ]
   },
   "openarea2S": {
