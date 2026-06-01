@@ -488,19 +488,19 @@
   "B16": {
     "plot": "B16",
     "staff": "Mrs Tang",
-    "plant": "Bayam red",
-    "datePlanted": "2026-03-05",
-    "estHarvest": "2026-04-09",
-    "lastManure": "2026-03-05",
-    "nextManure": "2026-05-14",
-    "lastWeeding": "2026-03-05",
-    "uses": "Leafy vegetable, eaten stir-fried or in soups.",
-    "funFact": "Ancient grain family; leaves rich in iron and calcium",
-    "botanical": "Amaranthus",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "C01": {
