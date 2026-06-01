@@ -1046,19 +1046,19 @@
   "openarea2O": {
     "plot": "openarea2O",
     "staff": "Lye",
-    "plant": "Pricky leea",
-    "datePlanted": "2026-01-08",
-    "estHarvest": "",
+    "plant": "Prickly leea",
+    "datePlanted": "2026-03-12",
+    "estHarvest": "2034-05-29",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "uses": "Traditional Medicine: The plant has a long history in Southeast Asian and Javanese traditional medicine. Leaves, twigs, and sap are often used in poultices to soothe fevers, heal wounds, treat headaches, and address bodily pain.",
+    "funFact": "Thorny All the Way: Unlike many other Leea species, L. angulata is fiercely protected by sharp, triangular prickles that cover not just its trunk and main branches, but its ultimate, tender branches as well.Grape Family Ties: It belongs to the Vitaceae family (the grape family). However, unlike its trailing or climbing grapevine cousins, it grows as a strong, upright, multi-stemmed shrub or tree.Critically Endangered in Singapore: If you are based in Punggol or elsewhere in Singapore, it might be very hard to spot. In local botany records, the plant is listed as Critically Endangered in the wild, with only a few pockets of adult individuals documented (such as around the Lower Seletar Reservoir).",
+    "botanical": "Leea angulata",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/prickyleea1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/prickyleea2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/prickyleea3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea3.jpg"
     ]
   },
   "openarea2Q": {
