@@ -1063,20 +1063,20 @@
   },
   "openarea2Q": {
     "plot": "openarea2Q",
-    "staff": "GUI",
-    "plant": "Jujube",
-    "datePlanted": "2026-03-04",
-    "estHarvest": "2028-11-28",
+    "staff": "Lye",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "When ripe, they are dark red or purple, crunchy, and refreshing, similar to an apple. Used in soups, stews, porridges, and as a filling for Chinese desserts like mooncakes and mochi.",
-    "funFact": "Jujube fruit , also known as red dates  is a highly nutritious, versatile fruit cultivated for over 4,000 years, primarily in Asia",
-    "botanical": "Ziziphus jujuba",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "openarea2R": {
