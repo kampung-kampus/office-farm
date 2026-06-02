@@ -1,22 +1,4 @@
 {
-  "A02": {
-    "plot": "A02",
-    "staff": "KK",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
-    ]
-  },
   "A01": {
     "plot": "A01",
     "staff": "Mrs Tang",
@@ -35,6 +17,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens3.jpg"
     ]
   },
+  "A02": {
+    "plot": "A02",
+    "staff": "KK",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
+  },
   "A03": {
     "plot": "A03",
     "staff": "Mrs Tang",
@@ -51,6 +51,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
+    ]
+  },
+  "A04": {
+    "plot": "A04",
+    "staff": "KK",
+    "plant": "Nursery a place where baby seeds and sprouts grow big",
+    "datePlanted": "2026-05-30",
+    "estHarvest": "2029-02-23",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Germinating  seeds and preparing a variety  of  saplings for planting.",
+    "funFact": "Nursery is like a  childcare centre protecting  and nurturing  the young plants. Saplings are kept in the nursery  until they are ready to be moved to the main plots for planting. ",
+    "botanical": "Houses miscellaneous plants",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig3.jpg"
     ]
   },
   "A05": {
@@ -957,14 +975,14 @@
     "plot": "openarea2K",
     "staff": "Lye",
     "plant": "Spices",
-    "datePlanted": "2026-02-12",
+    "datePlanted": "2026-05-30",
     "estHarvest": "",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "uses": "Turmeric, Black Turmeric, Shell Ginger, Shampoo Ginger, Mango Ginger, Torch Ginger, Blue Ginger",
+    "funFact": "Turmeric: Standard culinary spice used for vibrant yellow coloring in curries, anti-inflammatory supplements, and natural textiles dyes.Black Turmeric: Rare medicinal root applied as a topical paste for sprains, snakebites, and cosmetic face masks.Shell Ginger: Ornamental plant utilized for wrapping foods, brewing traditional herbal teas, and antioxidant skin care.Shampoo Ginger: Sap from the flower cones serves as a natural, fragrant hair cleanser and scalp moisturizer.Mango Ginger: Distinct raw-mango flavored rhizome ideal for fresh pickles, chutneys, and soothing digestive issues. Torch Ginger: Edible pink flower buds highly prized as an aromatic ingredient in Southeast Asian salads, laksa, and curries.Blue Ginger: Native Galangal variety primarily used to add a sharp, citrusy-earthy bite to Thai pastes and Indonesian dishes.",
+    "botanical": "Turmeric: Curcuma longaBlack Turmeric: Curcuma caesiaShell Ginger: Alpinia zerumbetShampoo Ginger: Zingiber zerumbetMango Ginger: Curcuma amadaTorch Ginger: Etlingera elatiorBlue Ginger: Alpinia galanga",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices2.jpg",
@@ -1257,24 +1275,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
-    ]
-  },
-  "A04": {
-    "plot": "A04",
-    "staff": "KK",
-    "plant": "Nursery a place where baby seeds and sprouts grow big",
-    "datePlanted": "2026-05-30",
-    "estHarvest": "2029-02-23",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Germinating  seeds and preparing a variety  of  saplings for planting.",
-    "funFact": "Nursery is like a  childcare centre protecting  and nurturing  the young plants. Saplings are kept in the nursery  until they are ready to be moved to the main plots for planting. ",
-    "botanical": "Houses miscellaneous plants",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig3.jpg"
     ]
   }
 }
