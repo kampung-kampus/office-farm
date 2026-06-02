@@ -1061,6 +1061,24 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea3.jpg"
     ]
   },
+  "openarea2P": {
+    "plot": "openarea2P",
+    "staff": "GUI",
+    "plant": "Jujube",
+    "datePlanted": "2026-02-28",
+    "estHarvest": "2028-11-24",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "When ripe, they are dark red or purple, crunchy, and refreshing, similar to an apple. Used in soups, stews, porridges, and as a filling for Chinese desserts like mooncakes and mochi.",
+    "funFact": "Jujube fruit , also known as red dates  is a highly nutritious, versatile fruit cultivated for over 4,000 years, primarily in Asia",
+    "botanical": "Ziziphus jujuba",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
+    ]
+  },
   "openarea2Q": {
     "plot": "openarea2Q",
     "staff": "Lye",
@@ -1257,42 +1275,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
-    ]
-  },
-  "openarea2P": {
-    "plot": "openarea2P",
-    "staff": "GUI",
-    "plant": "Jujube",
-    "datePlanted": "2026-02-28",
-    "estHarvest": "2028-11-24",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "When ripe, they are dark red or purple, crunchy, and refreshing, similar to an apple. Used in soups, stews, porridges, and as a filling for Chinese desserts like mooncakes and mochi.",
-    "funFact": "Jujube fruit , also known as red dates  is a highly nutritious, versatile fruit cultivated for over 4,000 years, primarily in Asia",
-    "botanical": "Ziziphus jujuba",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
-    ]
-  },
-  "openarea2 T": {
-    "plot": "openarea2 T",
-    "staff": "Lye",
-    "plant": "Cashew",
-    "datePlanted": "2026-01-09",
-    "estHarvest": "",
-    "lastManure": "",
-    "nextManure": "",
-    "lastWeeding": "",
-    "uses": "Culinary & Snacks: Eaten roasted or salted, and blended into pastes as the creamy base for Indian curries (like Korma)",
-    "funFact": "They Are Not True Nuts: Botanically, the cashew is actually a drupe (a seed that grows on the outside of a false fruit), rather than a traditional nut.A Poison Ivy Relative: The cashew tree is in the Anacardiaceae family, meaning it shares a botanical lineage with pistachios, mangoes, and toxic plants like poison ivy and poison oak",
-    "botanical": "Anacardium occidentale",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew3.jpg"
     ]
   }
 }
