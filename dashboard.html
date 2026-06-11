@@ -335,7 +335,15 @@ function updateTaskSummary(items) {
 }
 
 
+function openHarvesting() {
+  const entered = prompt("Enter password to access Harvesting Data:");
 
+  if (entered === "g") {
+    window.location.href = "harvesting.html";
+  } else if (entered !== null) {
+    alert("Incorrect password.");
+  }
+}
 
 
 function downloadCSVFromSheet() {
