@@ -19,20 +19,20 @@
   },
   "A02": {
     "plot": "A02",
-    "staff": "Mrs Tang",
-    "plant": "Basil thai (九层塔泰）",
-    "datePlanted": "2026-06-10",
-    "estHarvest": "2026-07-30",
-    "lastManure": "2026-06-10",
-    "nextManure": "2026-06-30",
-    "lastWeeding": "2026-06-10",
-    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
-    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
-    "botanical": "Ocimum basilicum",
+    "staff": "KK",
+    "plant": "Basil(九层塔）",
+    "datePlanted": "2026-06-06",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basilthai(九层塔泰）1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basilthai(九层塔泰）2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basilthai(九层塔泰）3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil(九层塔）1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil(九层塔）2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil(九层塔）3.jpg"
     ]
   },
   "A03": {
