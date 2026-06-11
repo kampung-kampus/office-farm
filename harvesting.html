@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Harvesting Data</title>
+
+<style>
+
+body{
+    font-family:Arial;
+    margin:20px;
+    background:#f4f6f8;
+}
+
+h2{
+    color:#2c7a3f;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+}
+
+th{
+    background:#2c7a3f;
+    color:white;
+    padding:10px;
+}
+
+td{
+    border:1px solid #ddd;
+    padding:8px;
+}
+
+tr:nth-child(even){
+    background:#f9f9f9;
+}
+
+.backBtn{
+    display:inline-block;
+    margin-bottom:15px;
+    padding:8px 15px;
+    background:#2c7a3f;
+    color:white;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+@media only screen and (max-width:600px){
+
+table{
+    font-size:12px;
+}
+
+th,td{
+    padding:6px;
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<a href="dashboard.html" class="backBtn">
+← Back to Dashboard
+</a>
+
+<h2>🌾 Harvesting Data</h2>
+
+<div id="tableContainer">
+Loading...
+</div>
+
+<script>
+
+const URL =
+"https://script.google.com/macros/s/AKfycbzAjwlVpIiVdYrQeg261RXfe6p-enuInmlu3Wjo4B9uQEGIXgrIA0pAoFkCswRVBMdGoQ/exec?type=harvesting";
+
+async function loadData(){
+
+    const response = await fetch(URL);
+
+    const data = await response.json();
+
+    let html = "<table>";
+
+    data.forEach((row,index)=>{
+
+        html += "<tr>";
+
+        row.slice(0,6).forEach(cell=>{
+
+            if(index===0){
+                html += "<th>"+cell+"</th>";
+            }else{
+                html += "<td>"+cell+"</td>";
+            }
+
+        });
+
+        html += "</tr>";
+
+    });
+
+    html += "</table>";
+
+    document.getElementById("tableContainer").innerHTML = html;
+}
+
+loadData();
+
+</script>
+
+</body>
+</html>
