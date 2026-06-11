@@ -20,19 +20,19 @@
   "A02": {
     "plot": "A02",
     "staff": "KK",
-    "plant": "Basil (九层塔）",
-    "datePlanted": "",
-    "estHarvest": "",
-    "lastManure": "2026-06-10",
-    "nextManure": "2026-06-23",
+    "plant": "Choy sum (菜心)",
+    "datePlanted": "2026-06-09",
+    "estHarvest": "2026-07-09",
+    "lastManure": "2026-06-09",
+    "nextManure": "2026-06-30",
     "lastWeeding": "2026-06-08",
-    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
-    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
-    "botanical": "Ocimum basilicum",
+    "uses": "Stir-fried or steamed leafy vegetable.",
+    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
+    "botanical": "Brassica rapa",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil(九层塔）1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil(九层塔）2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil(九层塔）3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum(菜心)1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum(菜心)2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum(菜心)3.jpg"
     ]
   },
   "A03": {
