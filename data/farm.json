@@ -218,19 +218,19 @@
   "B01": {
     "plot": "B01",
     "staff": "Mrs Tang",
-    "plant": "Basil",
-    "datePlanted": "2026-02-12",
-    "estHarvest": "2026-04-03",
-    "lastManure": "2026-02-10",
-    "nextManure": "2026-04-29",
-    "lastWeeding": "2026-04-30",
+    "plant": "Basil (罗勒)",
+    "datePlanted": "2026-02-07",
+    "estHarvest": "2026-03-29",
+    "lastManure": "2026-02-05",
+    "nextManure": "2026-06-30",
+    "lastWeeding": "2026-02-11",
     "uses": "Culinary herb for flavoring dishes, teas, and oils.",
     "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
     "botanical": "Ocimum basilicum",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil(罗勒)1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil(罗勒)2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil(罗勒)3.jpg"
     ]
   },
   "B02": {
