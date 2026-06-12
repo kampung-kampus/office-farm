@@ -110,19 +110,19 @@
   "A07": {
     "plot": "A07",
     "staff": "Mrs Tang",
-    "plant": "Mustard greens (芥菜)",
-    "datePlanted": "2026-05-12",
-    "estHarvest": "2026-06-16",
-    "lastManure": "2026-05-12",
-    "nextManure": "2026-06-24",
-    "lastWeeding": "2026-05-12",
-    "uses": "Stir-fried or pickled leafy vegetable.",
-    "funFact": "Pungent flavor; seeds used for mustard condiment.",
-    "botanical": "Brassica juncea",
+    "plant": "Empty (空)",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens(芥菜)1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens(芥菜)2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens(芥菜)3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty(空)1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty(空)2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty(空)3.jpg"
     ]
   },
   "A08": {
