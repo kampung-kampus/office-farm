@@ -2,19 +2,19 @@
   "A01": {
     "plot": "A01",
     "staff": "Mrs Tang",
-    "plant": "Empty (空)",
-    "datePlanted": "",
-    "estHarvest": "",
+    "plant": "Black face general (黑面将军)",
+    "datePlanted": "2026-06-09",
+    "estHarvest": "2026-08-28",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
+    "uses": "Traditional medicinal herb, used in teas.",
+    "funFact": "Known in Chinese medicine; believed to detoxify body.",
+    "botanical": "Strobilanthes crispa",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty(空)1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty(空)2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty(空)3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blackfacegeneral(黑面将军)1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blackfacegeneral(黑面将军)2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blackfacegeneral(黑面将军)3.jpg"
     ]
   },
   "A02": {
