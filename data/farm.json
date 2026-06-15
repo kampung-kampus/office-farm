@@ -205,6 +205,23 @@
   },
   "B01": {
     "plot": "B01",
+    "staff": "Mrs Tang",
+    "plant": "Empty (空)",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "nextWeeding": "",
+    "uses": "Empty plots",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
+  },
+  "B02": {
+    "plot": "B02",
     "staff": "",
     "plant": "Empty",
     "datePlanted": "",
@@ -218,23 +235,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
-    ]
-  },
-  "B02": {
-    "plot": "B02",
-    "staff": "Mrs Tang",
-    "plant": "Kai lan (芥蓝)",
-    "datePlanted": "2026-05-02",
-    "estHarvest": "2026-07-01",
-    "lastManure": "2026-06-30",
-    "nextManure": "2026-05-11",
-    "lastWeeding": "1970-01-01",
-    "nextWeeding": "1970-01-01",
-    "uses": "Brassica oleracea",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
     ]
   },
   "B03": {
