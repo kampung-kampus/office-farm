@@ -1,15 +1,15 @@
 {
   "A01": {
     "plot": "A01",
-    "staff": "",
-    "plant": "Empty",
+    "staff": "Mrs Tang",
+    "plant": "Empty (空)",
     "datePlanted": "",
     "estHarvest": "",
     "lastManure": "",
     "nextManure": "",
     "lastWeeding": "",
     "nextWeeding": "",
-    "uses": "",
+    "uses": "Empty plots",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
