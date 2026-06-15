@@ -1,20 +1,21 @@
 {
   "A01": {
     "plot": "A01",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
+    "staff": "KK",
+    "plant": "Choy sum (菜心)",
+    "datePlanted": "2026-06-01",
+    "estHarvest": "2026-07-01",
     "lastManure": "",
-    "nextManure": "",
+    "nextManure": "2026-07-02",
     "lastWeeding": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
+    "nextWeeding": "2026-06-16",
+    "uses": "Stir-fried or steamed leafy vegetable.",
+    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
+    "botanical": "Brassica rapa",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
   "A02": {
@@ -29,6 +30,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -47,6 +49,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Thick stems and leaves; flowers edible too.",
     "funFact": "Brassica oleracea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
@@ -65,6 +68,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Nursery is like a  childcare centre protecting  and nurturing  the young plants. Saplings are kept in the nursery  until they are ready to be moved to the main plots for planting. ",
     "funFact": "Houses miscellaneous plants",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig2.jpg",
@@ -83,6 +87,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -101,6 +106,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
     "funFact": "Ocimum basilicum",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
@@ -119,6 +125,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -137,6 +144,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -155,6 +163,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Not a True Spinach. It contains over three times more Vitamin C than regular spinach and more Vitamin A than kale.",
     "funFact": "Talinum fruticosum. Note that Basella alba (Malabar spinach) is sometimes also referred to as Ceylon spinach.",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/malabarspinach1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/malabarspinach2.jpg",
@@ -173,6 +182,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -191,6 +201,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Ancient grain family; leaves rich in iron and calcium",
     "funFact": "Amaranthus",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam2.jpg",
@@ -209,6 +220,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -227,6 +239,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
     "funFact": "Ocimum basilicum",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
@@ -245,6 +258,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Thick stems and leaves; flowers edible too.",
     "funFact": "Brassica oleracea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
@@ -263,6 +277,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -281,6 +296,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Pungent flavor; seeds used for mustard condiment.",
     "funFact": "Brassica juncea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -299,6 +315,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -317,6 +334,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Red pigment indicates high antioxidants; popular in Asian cuisine.",
     "funFact": "Amaranthus tricolor",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
@@ -335,6 +353,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -353,6 +372,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Pungent flavor; seeds used for mustard condiment.",
     "funFact": "Brassica juncea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -371,6 +391,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Pungent flavor; seeds used for mustard condiment.",
     "funFact": "Brassica juncea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -389,6 +410,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
     "funFact": "Ocimum basilicum",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
@@ -407,6 +429,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Pungent flavor; seeds used for mustard condiment.",
     "funFact": "Brassica juncea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -425,6 +448,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Pungent flavor; seeds used for mustard condiment.",
     "funFact": "Brassica juncea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -443,6 +467,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Pungent flavor; seeds used for mustard condiment.",
     "funFact": "Brassica juncea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -461,6 +486,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Pungent flavor; seeds used for mustard condiment.",
     "funFact": "Brassica juncea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -479,6 +505,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Pungent flavor; seeds used for mustard condiment.",
     "funFact": "Brassica juncea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -497,6 +524,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -515,6 +543,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Fossilized remains of these distinctive inflated pods have been found dating back to the Pleistocene era in Germany. It is a close relative of the  tomato, and eggplant, but unlike its cousins, almost all parts of this plant (except the ripe fruit) are poisonous due to solanine.",
     "funFact": "Physalis alkekengi",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant2.jpg",
@@ -533,6 +562,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Pungent flavor; seeds used for mustard condiment.",
     "funFact": "Brassica juncea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -551,6 +581,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Popular in Cantonese cuisine; flowers are edible too.",
     "funFact": "Brassica rapa",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
@@ -569,6 +600,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Popular in Cantonese cuisine; flowers are edible too.",
     "funFact": "Brassica rapa",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
@@ -587,6 +619,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -605,6 +638,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -623,6 +657,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Use in Vietnam by monks to lower libido",
     "funFact": "Persicaria odorata",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/laksaleaf1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/laksaleaf2.jpg",
@@ -641,6 +676,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
     "funFact": "Ocimum basilicum",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
@@ -659,6 +695,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Tender leaves; popular in Chinese cooking.",
     "funFact": "Brassica rapa subsp. chinensis",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai2.jpg",
@@ -677,6 +714,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Tender leaves; popular in Chinese cooking.",
     "funFact": "Brassica rapa subsp. chinensis",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai2.jpg",
@@ -695,6 +733,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Thick stems and leaves; flowers edible too.",
     "funFact": "Brassica oleracea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
@@ -713,6 +752,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Thick stems and leaves; flowers edible too.",
     "funFact": "Brassica oleracea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
@@ -731,6 +771,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Thick stems and leaves; flowers edible too.",
     "funFact": "Brassica oleracea",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
@@ -749,6 +790,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Botanically a berry; comes in many shapes and colors.",
     "funFact": "Solanum melongena",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal2.jpg",
@@ -767,6 +809,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Tiny but extremely hot; boosts metabolism.",
     "funFact": "Capsicum frutescens",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslanechilliroselle1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslanechilliroselle2.jpg",
@@ -785,6 +828,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Veld grape and dragon fruit  look very similar, often causing confusion among gardeners.",
     "funFact": "Cissus quadrangularis",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
@@ -803,6 +847,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Not a True Berry: Botanically speaking, a mulberry is not a berry at all but a \"multiple fruit\" formed from a cluster of independent flowers.Super-Sonic Pollen: The flowers of the white mulberry tree can fire pollen at over half the speed of sound, making it one of the fastest movements in the plant kingdom.",
     "funFact": "Morus",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
@@ -821,6 +866,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Namesake Origins: It gets its name from the Fujian Province in southeastern China (often spelled Fukien in the past), where it has been grown for centuries and is mentioned in literature dating back to the Tang Dynasty.",
     "funFact": "Carmona microphylla",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea2.jpg",
@@ -839,6 +885,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Explosive Seed Pods: The plant produces seed pods that, when ripe and dry, split in half explosively to fling their seeds out into the surrounding area.It’s Not Actually Chinese: Despite its common name, the Chinese Violet is native to sub-Saharan Africa and India",
     "funFact": "Asystasia gangetica ",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet2.jpg",
@@ -857,6 +904,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "It’s Not Actually an Onion: Despite resembling shallots with its red skin and white rings, the Dayak onion belongs to the iris family (the same family as saffron) rather than the allium family.Evening Bloomers: The plant produces small, delicate five-petaled white or yellow flowers that bloom in the late afternoon and stay open for only a few hours.",
     "funFact": "Eleutherine palmifolia",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion2.jpg",
@@ -875,6 +923,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Folk Remedies: Teas made from the leaves are used as a folk treatment for stomachaches, colic, bronchitis, and heartburn.Blood Pressure: Traditional extracts have been studied for their natural antihypertensive properties.",
     "funFact": "Eugenia uniflora L.",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry2.jpg",
@@ -893,6 +942,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "The Name Origin: The \"lipstick tree\" nickname comes from indigenous people in Central and South America using the seed pulp as a natural cosmetic and body paint for ceremonies.Ancient Sunscreen: The Mayans and Aztecs used the pigment not just for color, but as a natural sunscreen and insect repellent.",
     "funFact": "Bixa orellana",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree2.jpg",
@@ -911,6 +961,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Prevented scurvy in sailors; highly acidic fruit.",
     "funFact": "Citrus × aurantiifolia",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime2.jpg",
@@ -929,6 +980,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "A Cactus with Leaves: Unlike nearly all other cacti, the Rose Cactus does not drop its leaves; it retains large, glossy green leaves year-round.Ancient Ancestry: Because it retains true leaves, it is considered a \"primitive\" or non-succulent cactus. It is basically an evolutionary stepping stone between normal leafy shrubs and desert cacti!",
     "funFact": "Leuenbergeria bleo",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus2.jpg",
@@ -947,6 +999,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Domestic Applications: The strong, bitter woody stems are frequently broken down and used as natural \"chewing sticks\" to maintain dental hygiene and ward off mouth infections.",
     "funFact": "Vernonia amygdalina ",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf2.jpg",
@@ -965,6 +1018,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "The candle bush gets its name because its unopened bright-yellow flower spikes resemble giant, glowing, waxy candles!",
     "funFact": "Senna alata",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush2.jpg",
@@ -983,6 +1037,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "1 Turmeric: Standard culinary spice used for vibrant yellow coloring in curries, anti-inflammatory supplements, and natural textiles dyes.  2 Black Turmeric: Rare medicinal root applied as a topical paste for sprains, snakebites, and cosmetic face masks.  3 Shell Ginger: Ornamental plant utilized for wrapping foods, brewing traditional herbal teas, and antioxidant skin care.  4 Shampoo Ginger: Sap from the flower cones serves as a natural, fragrant hair cleanser and scalp moisturizer.  5 Mango Ginger: Distinct raw-mango flavored rhizome ideal for fresh pickles, chutneys, and soothing digestive issues.   6 Torch Ginger: Edible pink flower buds highly prized as an aromatic ingredient in Southeast Asian salads, laksa, and curries.  7 Blue Ginger: Native Galangal variety primarily used to add a sharp, citrusy-earthy bite to Thai pastes and Indonesian dishes.",
     "funFact": "Turmeric: Curcuma longa,  Black Turmeric: Curcuma caesia,  Shell Ginger: Alpinia zerumbet,  Shampoo Ginger: Zingiber zerumbet,  Mango Ginger: Curcuma amada,  Torch Ginger: Etlingera elatior,  Blue Ginger: Alpinia galanga",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices2.jpg",
@@ -1001,6 +1056,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Not a single plant: People often assume citronella is a specific plant, but it is actually a tall, clumping grass similar to lemongrass",
     "funFact": "Cymbopogon",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella2.jpg",
@@ -1019,6 +1075,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "It tastes like mushrooms: The tiny, delicate flowers can be eaten raw and have a surprisingly distinct, earthy, mushroom-like flavor.It has a beer connection: The common name \"porterweed\" comes from the dark, foamy, beer-like infusion that can be made from brewing its leaves.",
     "funFact": "Stachytarpheta jamaicensis",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed2.jpg",
@@ -1037,6 +1094,7 @@
     "nextWeeding": "",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop2.jpg",
@@ -1055,6 +1113,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Thorny All the Way: Unlike many other Leea species, L. angulata is fiercely protected by sharp, triangular prickles that cover not just its trunk and main branches, but its ultimate, tender branches as well.Grape Family Ties: It belongs to the Vitaceae family (the grape family). However, unlike its trailing or climbing grapevine cousins, it grows as a strong, upright, multi-stemmed shrub or tree.Critically Endangered in Singapore: If you are based in Punggol or elsewhere in Singapore, it might be very hard to spot. In local botany records, the plant is listed as Critically Endangered in the wild, with only a few pockets of adult individuals documented (such as around the Lower Seletar Reservoir).",
     "funFact": "Leea angulata",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea2.jpg",
@@ -1073,6 +1132,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Jujube fruit , also known as red dates  is a highly nutritious, versatile fruit cultivated for over 4,000 years, primarily in Asia",
     "funFact": "Ziziphus jujuba",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
@@ -1091,6 +1151,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "The fruit is a favorite snack of the bandicoot, a small marsupial, which gives the plant its common name, Bandicoot Berry.",
     "funFact": "Leea Indica",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry2.jpg",
@@ -1109,6 +1170,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "VapoRub Scent: When its leaves are crushed, they release a powerful, medicinal odor similar to camphor or Vicks VapoRub, which gives the plant its name.Antioxidant Powerhouse: Research suggests that tea made from Pluchea indica leaves can have stronger antioxidant properties than even green tea (Camellia sinensis). Coastal Guardian: This plant thrives in harsh, salty environments like mangroves and salt marshes, playing a vital role in maintaining the ecological balance of coastal areas.Natural Insect Repellent: Because of its pungent chemical glands, the plant is naturally resistant to deer and is often used as a biological insect repellent.",
     "funFact": "Pluchea indica",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed2.jpg",
@@ -1127,6 +1189,7 @@
     "nextWeeding": "",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass2.jpg",
@@ -1145,6 +1208,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "They Are Not True Nuts: Botanically, the cashew is actually a drupe (a seed that grows on the outside of a false fruit), rather than a traditional nut.A Poison Ivy Relative: The cashew tree is in the Anacardiaceae family, meaning it shares a botanical lineage with pistachios, mangoes, and toxic plants like poison ivy and poison oak",
     "funFact": "Anacardium occidentale",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew2.jpg",
@@ -1163,6 +1227,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "The \"Star\" Pattern: When the fruit is sliced in half horizontally, the core and seeds create a beautiful, distinct star-like pattern.",
     "funFact": "Chrysophyllum cainito",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple2.jpg",
@@ -1181,6 +1246,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Dietary Precaution: People with kidney problems or chronic kidney disease should avoid star fruit National Kidney Foundation. The fruit contains a neurotoxin (carambotoxin) and high levels of oxalates that healthy kidneys easily filter out, but can be dangerous or cause severe hiccups, vomiting, and confusion in individuals with kidney dysfunction.",
     "funFact": "Averrhoa carambola",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit2.jpg",
@@ -1199,6 +1265,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Glowing Spark: When the oils from a lemon peel are squeezed near an open flame, the compounds (specifically limonene) ignite to create a tiny spark, essentially functioning as a natural firework.",
     "funFact": "Citrus limon",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon2.jpg",
@@ -1217,6 +1284,7 @@
     "nextWeeding": "",
     "uses": "",
     "funFact": "",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong2.jpg",
@@ -1235,6 +1303,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "An Imposter \"Fruit\": Melinjo does not produce true fruits or flowers. It is a gymnosperm (related to pine trees), meaning its \"fruits\" are actually colorful, fleshy seed cones.",
     "funFact": "Gnetum gnemon",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo2.jpg",
@@ -1253,6 +1322,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Grows from the trunk: Unlike most fruits that hang from branches, belimbing fruits grow in heavy, clustered groups directly on the tree trunk and main branches.High productivity: A single tree can produce an astonishing 45 to 50 kg of fruit in a year.",
     "funFact": "Averrhoa bilimbi ",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing2.jpg",
@@ -1271,6 +1341,7 @@
     "nextWeeding": "1970-01-01",
     "uses": "Fruit origins: Coffee beans are actually seeds found inside bright red fruits called \"coffee cherries\".Goat discovery: Legend says 9th-century Ethiopian herders discovered coffee after seeing goats \"dance\" from eating the berries.",
     "funFact": "Coffea arabica",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
