@@ -205,19 +205,19 @@
   },
   "B01": {
     "plot": "B01",
-    "staff": "Mrs Tang",
-    "plant": "Basil (罗勒)",
-    "datePlanted": "2026-02-07",
-    "estHarvest": "2026-03-29",
-    "lastManure": "2026-06-30",
-    "nextManure": "2026-02-11",
-    "lastWeeding": "1970-01-01",
-    "nextWeeding": "1970-01-01",
-    "uses": "Ocimum basilicum",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "lastManure": "",
+    "nextManure": "",
+    "lastWeeding": "",
+    "nextWeeding": "",
+    "uses": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B02": {
