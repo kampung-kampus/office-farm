@@ -239,13 +239,13 @@
   },
   "B03": {
     "plot": "B03",
-    "staff": "Mrs Tang",
+    "staff": "",
     "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
     "lastManure": "",
     "nextManure": "",
-    "lastWeeding": "1970-01-01",
+    "lastWeeding": "",
     "nextWeeding": "",
     "uses": "",
     "images": [
