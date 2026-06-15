@@ -1,21 +1,19 @@
 {
   "A01": {
     "plot": "A01",
-    "staff": "KK",
-    "plant": "Choy sum (菜心)",
-    "datePlanted": "2026-06-08",
-    "estHarvest": "2026-07-08",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
     "lastManure": "",
-    "nextManure": "2026-07-09",
+    "nextManure": "",
     "lastWeeding": "",
-    "nextWeeding": "2026-06-23",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
+    "nextWeeding": "",
+    "uses": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A02": {
@@ -29,8 +27,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -48,8 +44,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica oleracea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
@@ -67,8 +61,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Houses miscellaneous plants",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/nurseryaplacewherebabyseedsandsproutsgrowbig2.jpg",
@@ -86,8 +78,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -105,8 +95,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Ocimum basilicum",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
@@ -124,8 +112,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -143,8 +129,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -162,8 +146,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Talinum fruticosum. Note that Basella alba (Malabar spinach) is sometimes also referred to as Ceylon spinach.",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/malabarspinach1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/malabarspinach2.jpg",
@@ -181,8 +163,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -200,8 +180,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Amaranthus",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam2.jpg",
@@ -219,8 +197,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -238,8 +214,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Ocimum basilicum",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
@@ -257,8 +231,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica oleracea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
@@ -276,8 +248,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -295,8 +265,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica juncea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -314,8 +282,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -333,8 +299,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Amaranthus tricolor",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
@@ -352,8 +316,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -371,8 +333,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica juncea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -390,8 +350,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica juncea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -409,8 +367,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Ocimum basilicum",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
@@ -428,8 +384,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica juncea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -447,8 +401,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica juncea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -466,8 +418,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica juncea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -485,8 +435,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica juncea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -504,8 +452,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica juncea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -523,8 +469,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -542,8 +486,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Physalis alkekengi",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant2.jpg",
@@ -561,8 +503,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica juncea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
@@ -580,8 +520,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica rapa",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
@@ -599,8 +537,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica rapa",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
@@ -618,8 +554,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -637,8 +571,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -656,8 +588,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Persicaria odorata",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/laksaleaf1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/laksaleaf2.jpg",
@@ -675,8 +605,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Ocimum basilicum",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
@@ -694,8 +622,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica rapa subsp. chinensis",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai2.jpg",
@@ -713,8 +639,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica rapa subsp. chinensis",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai2.jpg",
@@ -732,8 +656,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica oleracea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
@@ -751,8 +673,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica oleracea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
@@ -770,8 +690,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Brassica oleracea",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
@@ -789,8 +707,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Solanum melongena",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/snakebrinjal2.jpg",
@@ -808,8 +724,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Capsicum frutescens",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslanechilliroselle1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslanechilliroselle2.jpg",
@@ -827,8 +741,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Cissus quadrangularis",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
@@ -846,8 +758,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Morus",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
@@ -865,8 +775,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Carmona microphylla",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea2.jpg",
@@ -884,8 +792,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Asystasia gangetica ",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet2.jpg",
@@ -903,8 +809,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Eleutherine palmifolia",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion2.jpg",
@@ -922,8 +826,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Eugenia uniflora L.",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry2.jpg",
@@ -941,8 +843,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Bixa orellana",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree2.jpg",
@@ -960,8 +860,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Citrus × aurantiifolia",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime2.jpg",
@@ -979,8 +877,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Leuenbergeria bleo",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus2.jpg",
@@ -998,8 +894,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Vernonia amygdalina ",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf2.jpg",
@@ -1017,8 +911,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Senna alata",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush2.jpg",
@@ -1036,8 +928,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Turmeric: Curcuma longa,  Black Turmeric: Curcuma caesia,  Shell Ginger: Alpinia zerumbet,  Shampoo Ginger: Zingiber zerumbet,  Mango Ginger: Curcuma amada,  Torch Ginger: Etlingera elatior,  Blue Ginger: Alpinia galanga",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices2.jpg",
@@ -1055,8 +945,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Cymbopogon",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella2.jpg",
@@ -1074,8 +962,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Stachytarpheta jamaicensis",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed2.jpg",
@@ -1093,8 +979,6 @@
     "lastWeeding": "",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop2.jpg",
@@ -1112,8 +996,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Leea angulata",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea2.jpg",
@@ -1131,8 +1013,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Ziziphus jujuba",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
@@ -1150,8 +1030,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Leea Indica",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry2.jpg",
@@ -1169,8 +1047,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Pluchea indica",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed2.jpg",
@@ -1188,8 +1064,6 @@
     "lastWeeding": "",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass2.jpg",
@@ -1207,8 +1081,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Anacardium occidentale",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew2.jpg",
@@ -1226,8 +1098,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Chrysophyllum cainito",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple2.jpg",
@@ -1245,8 +1115,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Averrhoa carambola",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit2.jpg",
@@ -1264,8 +1132,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Citrus limon",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon2.jpg",
@@ -1283,8 +1149,6 @@
     "lastWeeding": "",
     "nextWeeding": "",
     "uses": "",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong2.jpg",
@@ -1302,8 +1166,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Gnetum gnemon",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo2.jpg",
@@ -1321,8 +1183,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Averrhoa bilimbi ",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing2.jpg",
@@ -1340,8 +1200,6 @@
     "lastWeeding": "1970-01-01",
     "nextWeeding": "1970-01-01",
     "uses": "Coffea arabica",
-    "funFact": "",
-    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
