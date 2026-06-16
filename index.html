@@ -211,13 +211,7 @@ display:none;
 <span id="staff"></span>
 </div>
 
-<!--<div class="section">
-<span class="icon">🌱</span>
-<span class="label">Last Manure 上次施肥日期:</span>
-<span id="lastManure"></span>
-</div>-->
-
-<div class="section">
+ <div class="section">
 <span class="icon">🧪</span>
 <span class="label">Next Manure 下次施肥日期:</span>
 <span id="nextManure"></span>
@@ -229,9 +223,7 @@ display:none;
 <span id="nextWeeding"></span>
 </div>
 
-</div>
 
-</div>
 
 <script>
 
@@ -282,11 +274,7 @@ return;
 document.getElementById("plant").innerText = data.plant;
    document.getElementById("botanical").innerText = data.botanical || "";
  
-    
-const emptyEl = document.getElementById("empty");
-if(emptyEl){
-  emptyEl.innerText = data.empty || "";
-}
+
 
 document.getElementById("staff").innerText = data.staff;
 document.getElementById("datePlanted").innerText = data.datePlanted;
@@ -294,9 +282,8 @@ document.getElementById("estHarvest").innerText = data.estHarvest;
 document.getElementById("uses").innerText = data.uses;
 document.getElementById("funFact").innerText = data.funFact;
 
-document.getElementById("lastManure").innerText = data.lastManure || "";
-document.getElementById("nextManure").innerText = data.nextManure;
-document.getElementById("nextWeeding").innerText = data.nextWeeding;
+document.getElementById("nextManure").innerText  = data.nextManure  || "Not set";
+document.getElementById("nextWeeding").innerText = data.nextWeeding || "Not set";
 
 /* STATUS */
 const status = getStatus(data.estHarvest);
