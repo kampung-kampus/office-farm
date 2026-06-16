@@ -18,19 +18,19 @@
   },
   "A02": {
     "plot": "A02",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "KK",
+    "plant": "Kang kong (通菜)",
+    "datePlanted": "2026-06-09",
+    "estHarvest": "2026-07-19",
+    "nextManure": "2026-07-20",
+    "nextWeeding": "2026-06-29",
+    "uses": "Stir-fried or boiled vegetable",
+    "funFact": "Grows in water; popular in Southeast Asia.",
+    "botanical": "Ipomoea aquatica",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kangkong1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kangkong2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kangkong3.jpg"
     ]
   },
   "A03": {
