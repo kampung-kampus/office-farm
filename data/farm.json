@@ -1,36 +1,36 @@
 {
   "A01": {
     "plot": "A01",
-    "staff": "Mrs Tang",
-    "plant": "Cabbage (包菜)",
-    "datePlanted": "2026-06-02",
-    "estHarvest": "2026-09-30",
-    "nextManure": "2026-10-01",
-    "nextWeeding": "2026-08-01",
-    "uses": "Used in salads, stir-fries, soups, and pickling.",
-    "funFact": "Can be stored for months; grows well in cool climates.",
-    "botanical": "Brassica oleracea var. capitata",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A02": {
     "plot": "A02",
-    "staff": "Mrs Tang",
-    "plant": "Cabbage (包菜)",
-    "datePlanted": "2026-06-09",
-    "estHarvest": "2026-10-07",
-    "nextManure": "2026-10-08",
-    "nextWeeding": "2026-08-08",
-    "uses": "Used in salads, stir-fries, soups, and pickling.",
-    "funFact": "Can be stored for months; grows well in cool climates.",
-    "botanical": "Brassica oleracea var. capitata",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A03": {
@@ -69,13 +69,13 @@
   },
   "A05": {
     "plot": "A05",
-    "staff": "Mrs Tang",
+    "staff": "",
     "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "Empty plots",
+    "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
@@ -205,15 +205,15 @@
   },
   "B01": {
     "plot": "B01",
-    "staff": "Mrs Tang",
-    "plant": "Empty (空)",
+    "staff": "",
+    "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
     "uses": "",
     "funFact": "",
-    "botanical": "Empty plots",
+    "botanical": "",
     "images": [
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
@@ -256,19 +256,19 @@
   },
   "B04": {
     "plot": "B04",
-    "staff": "Mrs Tang",
-    "plant": "Mustard greens (芥菜)",
-    "datePlanted": "2026-05-23",
-    "estHarvest": "2026-06-27",
-    "nextManure": "2026-06-30",
-    "nextWeeding": "2026-05-29",
-    "uses": "Stir-fried or pickled leafy vegetable.",
-    "funFact": "Pungent flavor; seeds used for mustard condiment.",
-    "botanical": "Brassica juncea",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B05": {
@@ -359,18 +359,18 @@
   "B10": {
     "plot": "B10",
     "staff": "Mrs Tang",
-    "plant": "Basil (罗勒)",
-    "datePlanted": "2026-02-14",
-    "estHarvest": "2026-04-05",
-    "nextManure": "2026-06-30",
-    "nextWeeding": "2026-03-13",
-    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
-    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
-    "botanical": "Ocimum basilicum",
+    "plant": "Kang kong",
+    "datePlanted": "2026-04-16",
+    "estHarvest": "2026-05-26",
+    "nextManure": "2026-05-27",
+    "nextWeeding": "2026-05-06",
+    "uses": "Stir-fried or boiled vegetable",
+    "funFact": "Grows in water; popular in Southeast Asia.",
+    "botanical": "Ipomoea aquatica",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kangkong1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kangkong2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kangkong3.jpg"
     ]
   },
   "B11": {
@@ -409,19 +409,19 @@
   },
   "B13": {
     "plot": "B13",
-    "staff": "Mrs Tang",
-    "plant": "Mustard greens (芥菜)",
-    "datePlanted": "2026-05-30",
-    "estHarvest": "2026-07-04",
-    "nextManure": "2026-06-30",
-    "nextWeeding": "2026-05-28",
-    "uses": "Stir-fried or pickled leafy vegetable.",
-    "funFact": "Pungent flavor; seeds used for mustard condiment.",
-    "botanical": "Brassica juncea",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B14": {
@@ -443,19 +443,19 @@
   },
   "B15": {
     "plot": "B15",
-    "staff": "Mrs Tang",
-    "plant": "Mustard greens (芥菜)",
-    "datePlanted": "2026-05-19",
-    "estHarvest": "2026-06-23",
-    "nextManure": "2026-06-30",
-    "nextWeeding": "2026-06-11",
-    "uses": "Stir-fried or pickled leafy vegetable.",
-    "funFact": "Pungent flavor; seeds used for mustard condiment.",
-    "botanical": "Brassica juncea",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B16": {
@@ -681,19 +681,19 @@
   },
   "C13": {
     "plot": "C13",
-    "staff": "Mrs Tang",
-    "plant": "Kai lan",
-    "datePlanted": "2026-05-30",
-    "estHarvest": "2026-07-29",
-    "nextManure": "2026-06-30",
-    "nextWeeding": "2026-05-30",
-    "uses": "Stir-fried or steamed vegetable",
-    "funFact": "Thick stems and leaves; flowers edible too.",
-    "botanical": "Brassica oleracea",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "C14": {
