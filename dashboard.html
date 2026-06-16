@@ -251,6 +251,7 @@ const DATA_URL = "https://kampung-kampus.github.io/office-farm/data/farm.json?v=
 
 let farmData = {};
 
+
 function getStatus(data) {
   const today = new Date();
 
@@ -258,18 +259,18 @@ function getStatus(data) {
     return { text: "Empty Plot", class: "empty", priority: 0 };
   }
 
-  const harvest = new Date(data.estHarvest + "T00:00:00");
+  const harvest = new Date(data.estHarvest  + "T00:00:00");
   const manure  = new Date(data.nextManure  + "T00:00:00");
-  const weeding = new Date(data.lastWeeding + "T00:00:00");
+  const weeding = new Date(data.nextWeeding + "T00:00:00");
 
   const harvestDiff = Math.floor((harvest - today) / (1000 * 60 * 60 * 24));
   const manureDiff  = Math.floor((manure  - today) / (1000 * 60 * 60 * 24));
-  const weedDiff    = Math.floor((today - weeding)  / (1000 * 60 * 60 * 24));
+  const weedDiff    = Math.floor((weeding - today) / (1000 * 60 * 60 * 24));
 
   if (harvestDiff <= 0)  return { text: "Harvest Ready",      class: "ready",   priority: 1 };
   if (manureDiff  <= 0)  return { text: "Ready for Manuring", class: "soon",    priority: 2 };
   if (manureDiff  <= 3)  return { text: "Manuring Soon",      class: "soon",    priority: 3 };
-  if (weedDiff    >= 15) return { text: "Weeding Needed",     class: "weeding", priority: 4 };
+  if (weedDiff    <= 0)  return { text: "Weeding Needed",     class: "weeding", priority: 4 };
 
   return { text: "No Action Needed", class: "growing", priority: 5 };
 }
