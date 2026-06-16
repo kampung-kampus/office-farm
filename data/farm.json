@@ -1,19 +1,19 @@
 {
   "A01": {
     "plot": "A01",
-    "staff": "KK",
-    "plant": "Basil",
-    "datePlanted": "2026-04-15",
-    "estHarvest": "2026-06-04",
-    "nextManure": "2026-06-05",
-    "nextWeeding": "2026-05-10",
-    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
-    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
-    "botanical": "Ocimum basilicum",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A02": {
