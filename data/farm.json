@@ -1,13 +1,13 @@
 {
   "A01": {
     "plot": "A01",
-    "staff": "Mrs Tang",
-    "plant": "Empty (空)",
-    "datePlanted": "2026-06-16",
-    "estHarvest": "2026-06-17",
-    "nextManure": "2026-06-18",
-    "nextWeeding": "2026-06-17",
-    "uses": "Empty plots",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
