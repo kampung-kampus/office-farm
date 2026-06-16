@@ -1,19 +1,19 @@
 {
   "A01": {
     "plot": "A01",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "KK",
+    "plant": "Basil",
+    "datePlanted": "2026-04-15",
+    "estHarvest": "2026-06-04",
+    "nextManure": "2026-06-05",
+    "nextWeeding": "2026-05-10",
+    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
+    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
+    "botanical": "Ocimum basilicum",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
     ]
   },
   "A02": {
@@ -69,19 +69,19 @@
   },
   "A05": {
     "plot": "A05",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Mrs Tang",
+    "plant": "Choy sum",
+    "datePlanted": "2026-04-24",
+    "estHarvest": "2026-05-24",
+    "nextManure": "2026-05-25",
+    "nextWeeding": "2026-05-09",
+    "uses": "Stir-fried or steamed leafy vegetable.",
+    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
+    "botanical": "Brassica rapa",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
   "A06": {
@@ -512,18 +512,18 @@
   "C03": {
     "plot": "C03",
     "staff": "Mrs Tang",
-    "plant": "Lettuce",
-    "datePlanted": "2026-04-11",
-    "estHarvest": "2026-05-31",
-    "nextManure": "2026-06-01",
-    "nextWeeding": "2026-05-06",
-    "uses": "Eaten raw in salads or wraps.",
-    "funFact": "Ancient Roman delicacy; grows quickly.",
-    "botanical": "Lactuca sativa",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "C04": {
@@ -1204,6 +1204,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
+    ]
+  },
+  "Open area1": {
+    "plot": "Open area1",
+    "staff": "GUI",
+    "plant": "Jujube",
+    "datePlanted": "2026-01-27",
+    "estHarvest": "2028-10-23",
+    "nextManure": "2028-10-24",
+    "nextWeeding": "2027-06-11",
+    "uses": "When ripe, they are dark red or purple, crunchy, and refreshing, similar to an apple. Used in soups, stews, porridges, and as a filling for Chinese desserts like mooncakes and mochi.",
+    "funFact": "Jujube fruit , also known as red dates  is a highly nutritious, versatile fruit cultivated for over 4,000 years, primarily in Asia",
+    "botanical": "Ziziphus jujuba",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
     ]
   }
 }
