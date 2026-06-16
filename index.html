@@ -211,11 +211,11 @@ display:none;
 <span id="staff"></span>
 </div>
 
-<div class="section">
+<!--<div class="section">
 <span class="icon">🌱</span>
 <span class="label">Last Manure 上次施肥日期:</span>
 <span id="lastManure"></span>
-</div>
+</div>-->
 
 <div class="section">
 <span class="icon">🧪</span>
@@ -225,8 +225,8 @@ display:none;
 
 <div class="section">
 <span class="icon">🌿</span>
-<span class="label">Last Weeding 之前的除草日期:</span>
-<span id="lastWeeding"></span>
+<span class="label">Next Weeding 下次除草日期:</span>
+<span id="nextWeeding"></span>
 </div>
 
 </div>
@@ -294,9 +294,9 @@ document.getElementById("estHarvest").innerText = data.estHarvest;
 document.getElementById("uses").innerText = data.uses;
 document.getElementById("funFact").innerText = data.funFact;
 
-document.getElementById("lastManure").innerText = data.lastManure;
+document.getElementById("lastManure").innerText = data.lastManure || "";
 document.getElementById("nextManure").innerText = data.nextManure;
-document.getElementById("lastWeeding").innerText = data.lastWeeding;
+document.getElementById("nextWeeding").innerText = data.nextWeeding || "";
 
 /* STATUS */
 const status = getStatus(data.estHarvest);
