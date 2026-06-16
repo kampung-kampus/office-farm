@@ -1,19 +1,19 @@
 {
   "A01": {
     "plot": "A01",
-    "staff": "KK",
-    "plant": "Basil",
-    "datePlanted": "2026-04-15",
-    "estHarvest": "2026-06-04",
-    "nextManure": "2026-06-05",
-    "nextWeeding": "2026-05-10",
-    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
-    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
-    "botanical": "Ocimum basilicum",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A02": {
@@ -35,19 +35,19 @@
   },
   "A03": {
     "plot": "A03",
-    "staff": "KK",
-    "plant": "Banana",
-    "datePlanted": "2026-03-05",
-    "estHarvest": "2026-11-30",
-    "nextManure": "2026-12-01",
-    "nextWeeding": "2026-07-18",
-    "uses": "Nutrient-rich fruit, eaten fresh, cooked, or dried.",
-    "funFact": "Known to be one of the first  cultivated fruits in human history; peel can polish leather or soothe bug bites.",
-    "botanical": "Musa paradisiaca",
+    "staff": "Mrs Tang",
+    "plant": "Kai lan (芥蓝)",
+    "datePlanted": "2026-05-16",
+    "estHarvest": "2026-07-15",
+    "nextManure": "2026-06-29",
+    "nextWeeding": "2026-06-09",
+    "uses": "Stir-fried or steamed vegetable",
+    "funFact": "Thick stems and leaves; flowers edible too.",
+    "botanical": "Brassica oleracea",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
     ]
   },
   "A04": {
@@ -69,36 +69,36 @@
   },
   "A05": {
     "plot": "A05",
-    "staff": "Mrs Tang",
-    "plant": "Choy sum",
-    "datePlanted": "2026-04-24",
-    "estHarvest": "2026-05-24",
-    "nextManure": "2026-05-25",
-    "nextWeeding": "2026-05-09",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A06": {
     "plot": "A06",
     "staff": "Mrs Tang",
-    "plant": "Choy sum",
-    "datePlanted": "2026-04-11",
-    "estHarvest": "2026-05-04",
-    "nextManure": "2026-05-12",
-    "nextWeeding": "2026-04-26",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
+    "plant": "Basil (罗勒)",
+    "datePlanted": "2026-04-28",
+    "estHarvest": "2026-06-17",
+    "nextManure": "2026-06-30",
+    "nextWeeding": "2026-06-08",
+    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
+    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
+    "botanical": "Ocimum basilicum",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
     ]
   },
   "A07": {
@@ -205,19 +205,19 @@
   },
   "B01": {
     "plot": "B01",
-    "staff": "KK",
-    "plant": "Cabbage",
-    "datePlanted": "2026-04-18",
-    "estHarvest": "2026-07-30",
-    "nextManure": "2026-08-17",
-    "nextWeeding": "2026-06-17",
-    "uses": "Used in salads, stir-fries, soups, and pickling.",
-    "funFact": "Can be stored for months; grows well in cool climates.",
-    "botanical": "Brassica oleracea var. capitata",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B02": {
@@ -512,18 +512,18 @@
   "C03": {
     "plot": "C03",
     "staff": "Mrs Tang",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
+    "plant": "Choy sum",
+    "datePlanted": "2026-05-19",
+    "estHarvest": "2026-06-18",
+    "nextManure": "2026-06-19",
+    "nextWeeding": "2026-05-20",
+    "uses": "Stir-fried or steamed leafy vegetable.",
+    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
+    "botanical": "Brassica rapa",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
   "C04": {
@@ -681,19 +681,19 @@
   },
   "C13": {
     "plot": "C13",
-    "staff": "Mrs Tang",
-    "plant": "Pigeon pea",
-    "datePlanted": "2026-03-18",
-    "estHarvest": "2026-09-14",
-    "nextManure": "2026-09-15",
-    "nextWeeding": "2026-06-16",
-    "uses": "Used in curries, stews, and dal.",
-    "funFact": "Drought-resistant; staple in Indian cuisine.",
-    "botanical": "Cajanus cajan",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pigeonpea1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pigeonpea2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pigeonpea3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "C14": {
@@ -1204,23 +1204,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
-    ]
-  },
-  "Open area1": {
-    "plot": "Open area1",
-    "staff": "GUI",
-    "plant": "Jujube",
-    "datePlanted": "2026-01-27",
-    "estHarvest": "2028-10-23",
-    "nextManure": "2028-10-24",
-    "nextWeeding": "2027-06-11",
-    "uses": "When ripe, they are dark red or purple, crunchy, and refreshing, similar to an apple. Used in soups, stews, porridges, and as a filling for Chinese desserts like mooncakes and mochi.",
-    "funFact": "Jujube fruit , also known as red dates  is a highly nutritious, versatile fruit cultivated for over 4,000 years, primarily in Asia",
-    "botanical": "Ziziphus jujuba",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
     ]
   }
 }
