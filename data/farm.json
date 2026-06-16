@@ -35,19 +35,19 @@
   },
   "A03": {
     "plot": "A03",
-    "staff": "KK",
-    "plant": "Banana",
-    "datePlanted": "2026-03-05",
-    "estHarvest": "2026-11-30",
-    "nextManure": "2026-12-01",
-    "nextWeeding": "2026-07-18",
-    "uses": "Nutrient-rich fruit, eaten fresh, cooked, or dried.",
-    "funFact": "Known to be one of the first  cultivated fruits in human history; peel can polish leather or soothe bug bites.",
-    "botanical": "Musa paradisiaca",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/banana3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A04": {
