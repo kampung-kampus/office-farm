@@ -18,19 +18,19 @@
   },
   "A02": {
     "plot": "A02",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "KK",
+    "plant": "Bok choy (白菜)",
+    "datePlanted": "2026-06-02",
+    "estHarvest": "2026-07-07",
+    "nextManure": "2026-07-08",
+    "nextWeeding": "2026-06-20",
+    "uses": "Stir-fried or steamed vegetable.",
+    "funFact": "Tender leaves; popular in Chinese cooking.",
+    "botanical": "Brassica rapa subsp. chinensis",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy3.jpg"
     ]
   },
   "A03": {
