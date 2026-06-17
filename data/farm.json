@@ -1,13 +1,13 @@
 {
   "A01": {
     "plot": "A01",
-    "staff": "Mrs Tang",
-    "plant": "Empty (空)",
+    "staff": "",
+    "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "Empty plots",
+    "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
@@ -1204,40 +1204,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
-    ]
-  },
-  "Open area1": {
-    "plot": "Open area1",
-    "staff": "GUI",
-    "plant": "Jujube",
-    "datePlanted": "2026-01-27",
-    "estHarvest": "2028-10-23",
-    "nextManure": "2028-10-24",
-    "nextWeeding": "2027-06-11",
-    "uses": "When ripe, they are dark red or purple, crunchy, and refreshing, similar to an apple. Used in soups, stews, porridges, and as a filling for Chinese desserts like mooncakes and mochi.",
-    "funFact": "Jujube fruit , also known as red dates  is a highly nutritious, versatile fruit cultivated for over 4,000 years, primarily in Asia",
-    "botanical": "Ziziphus jujuba",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
-    ]
-  },
-  "Plot10": {
-    "plot": "Plot10",
-    "staff": "Pris",
-    "plant": "Cucumber",
-    "datePlanted": "2026-03-06",
-    "estHarvest": "2026-05-05",
-    "nextManure": "2026-05-06",
-    "nextWeeding": "2026-04-05",
-    "uses": "Eaten raw, pickled, or juiced.",
-    "funFact": "95% water; ancient cultivation in India.",
-    "botanical": "Cucumis sativus",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cucumber1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cucumber2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cucumber3.jpg"
     ]
   }
 }
