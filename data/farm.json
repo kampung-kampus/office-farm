@@ -1273,5 +1273,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
     ]
+  },
+  "Open area 2A": {
+    "plot": "Open area 2A",
+    "staff": "Lye",
+    "plant": "Mulberry",
+    "datePlanted": "2026-03-23",
+    "estHarvest": "2034-06-09",
+    "nextManure": "2034-06-10",
+    "nextWeeding": "2030-05-01",
+    "uses": "Sericulture (Silk Production): White mulberry leaves serve as the primary, indispensable food source for silkworms.Culinary Arts: The sweet, tart fruits are eaten fresh or processed into jams, juices, wines, pies, and tarts.Traditional Medicine: Practitioners of Traditional Chinese Medicine use the root bark, leaves, and fruit to address coughs, fever, and blood sugar regulation.",
+    "funFact": "Not a True Berry: Botanically speaking, a mulberry is not a berry at all but a \"multiple fruit\" formed from a cluster of independent flowers.Super-Sonic Pollen: The flowers of the white mulberry tree can fire pollen at over half the speed of sound, making it one of the fastest movements in the plant kingdom.",
+    "botanical": "Morus",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
+    ]
   }
 }
