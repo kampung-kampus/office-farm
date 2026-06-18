@@ -1324,5 +1324,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple3.jpg"
     ]
+  },
+  "Open area 3E Mangosteen": {
+    "plot": "Open area 3E Mangosteen",
+    "staff": "GUI",
+    "plant": "Mangosteen",
+    "datePlanted": "2026-02-26",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
+    ]
   }
 }
