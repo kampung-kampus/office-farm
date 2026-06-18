@@ -1290,5 +1290,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree3.jpg"
     ]
+  },
+  "Open area 3C Batoko plum": {
+    "plot": "Open area 3C Batoko plum",
+    "staff": "GUI",
+    "plant": "Batoko plum",
+    "datePlanted": "2026-02-03",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum3.jpg"
+    ]
   }
 }
