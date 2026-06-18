@@ -1205,5 +1205,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
     ]
+  },
+  "openarea3Amoringa": {
+    "plot": "openarea3Amoringa",
+    "staff": "GUI",
+    "plant": "Moringa",
+    "datePlanted": "2026-03-13",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa3.jpg"
+    ]
   }
 }
