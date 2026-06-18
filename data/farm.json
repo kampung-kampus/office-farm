@@ -1307,5 +1307,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum3.jpg"
     ]
+  },
+  "Open area 3D Star apple": {
+    "plot": "Open area 3D Star apple",
+    "staff": "GUI",
+    "plant": "Star apple",
+    "datePlanted": "2026-02-24",
+    "estHarvest": "",
+    "nextManure": "2034-05-14",
+    "nextWeeding": "2030-04-04",
+    "uses": "Fresh Eating: The fruit is typically eaten fresh; it is scooped out and best served chilled.",
+    "funFact": "The \"Star\" Pattern: When the fruit is sliced in half horizontally, the core and seeds create a beautiful, distinct star-like pattern.",
+    "botanical": "Chrysophyllum cainito",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple3.jpg"
+    ]
   }
 }
