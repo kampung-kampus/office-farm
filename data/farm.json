@@ -1273,5 +1273,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa3.jpg"
     ]
+  },
+  "Open area 3B Cacao Tree": {
+    "plot": "Open area 3B Cacao Tree",
+    "staff": "GUI",
+    "plant": "Cacao tree",
+    "datePlanted": "2026-02-26",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree3.jpg"
+    ]
   }
 }
