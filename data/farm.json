@@ -1290,5 +1290,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
     ]
+  },
+  "Open area 2B": {
+    "plot": "Open area 2B",
+    "staff": "Lye",
+    "plant": "Fukien tea",
+    "datePlanted": "2026-03-12",
+    "estHarvest": "2034-05-29",
+    "nextManure": "2034-05-30",
+    "nextWeeding": "2030-04-20",
+    "uses": "Medicinal Infusions: In the Philippines, the leaves are widely boiled to create a medicinal tea used to treat coughs, diarrhea, colic, and dysentery",
+    "funFact": "Namesake Origins: It gets its name from the Fujian Province in southeastern China (often spelled Fukien in the past), where it has been grown for centuries and is mentioned in literature dating back to the Tang Dynasty.",
+    "botanical": "Carmona microphylla",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea3.jpg"
+    ]
   }
 }
