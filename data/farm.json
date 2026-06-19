@@ -1104,8 +1104,25 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea3.jpg"
     ]
   },
-  "openarea2T": {
-    "plot": "openarea2T",
+  "Open area 2V": {
+    "plot": "Open area 2V",
+    "staff": "Lye",
+    "plant": "Cowslip creeper",
+    "datePlanted": "2026-03-27",
+    "estHarvest": "2027-03-27",
+    "nextManure": "2027-03-28",
+    "nextWeeding": "2026-09-26",
+    "uses": "The flowers are a specialty ingredient in Thai, Vietnamese, and Filipino cuisine. They are commonly cooked into omelets, stir-fried with oyster sauce, or used in soups.",
+    "funFact": "The flowers emit a very strong, pleasant citrus-like fragrance, particularly during the evening. This oil is extracted to create perfumes and in floral, aromatic gardens. That is why its Chinese name is 夜来香",
+    "botanical": "Telosma cordata",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper3.jpg"
+    ]
+  },
+  "Open area 2W": {
+    "plot": "Open area 2W",
     "staff": "Lye",
     "plant": "Cashew",
     "datePlanted": "2026-02-06",
@@ -1121,21 +1138,21 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew3.jpg"
     ]
   },
-  "openarea2U": {
-    "plot": "openarea2U",
-    "staff": "GUI",
-    "plant": "Star apple",
-    "datePlanted": "2026-02-25",
+  "Open area 2X": {
+    "plot": "Open area 2X",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "Fresh Eating: The fruit is typically eaten fresh; it is scooped out and best served chilled.",
-    "funFact": "The \"Star\" Pattern: When the fruit is sliced in half horizontally, the core and seeds create a beautiful, distinct star-like pattern.",
-    "botanical": "Chrysophyllum cainito",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "openarea2V": {
@@ -1323,23 +1340,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
-    ]
-  },
-  "Open area 2V": {
-    "plot": "Open area 2V",
-    "staff": "Lye",
-    "plant": "Cowslip creeper",
-    "datePlanted": "2026-03-27",
-    "estHarvest": "2027-03-27",
-    "nextManure": "2027-03-28",
-    "nextWeeding": "2026-09-26",
-    "uses": "The flowers are a specialty ingredient in Thai, Vietnamese, and Filipino cuisine. They are commonly cooked into omelets, stir-fried with oyster sauce, or used in soups.",
-    "funFact": "The flowers emit a very strong, pleasant citrus-like fragrance, particularly during the evening. This oil is extracted to create perfumes and in floral, aromatic gardens. That is why its Chinese name is 夜来香",
-    "botanical": "Telosma cordata",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper3.jpg"
     ]
   }
 }
