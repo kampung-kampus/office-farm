@@ -985,23 +985,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed3.jpg"
     ]
   },
-  "openarea2N": {
-    "plot": "openarea2N",
-    "staff": "Lye",
-    "plant": "Soursop",
-    "datePlanted": "2026-01-06",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop3.jpg"
-    ]
-  },
   "openarea2O": {
     "plot": "openarea2O",
     "staff": "Lye",
