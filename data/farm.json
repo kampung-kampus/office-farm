@@ -934,8 +934,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush3.jpg"
     ]
   },
-  "openarea2L": {
-    "plot": "openarea2L",
+  "Open area 2M": {
+    "plot": "Open area 2M",
     "staff": "Lye",
     "plant": "Citronella",
     "datePlanted": "2026-01-23",
@@ -1293,9 +1293,9 @@
   },
   "Open area 2L": {
     "plot": "Open area 2L",
-    "staff": "Lye",
-    "plant": "Betel leaf",
-    "datePlanted": "2026-03-12",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
@@ -1303,9 +1303,9 @@
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   }
 }
