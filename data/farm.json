@@ -1053,8 +1053,25 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
     ]
   },
-  "openarea2S": {
-    "plot": "openarea2S",
+  "Open area 2S": {
+    "plot": "Open area 2S",
+    "staff": "Lye",
+    "plant": "Betel leaf",
+    "datePlanted": "2026-03-30",
+    "estHarvest": "2026-08-27",
+    "nextManure": "2026-08-28",
+    "nextWeeding": "2026-06-13",
+    "uses": "Digestive Aid: Chewing fresh leaves after meals stimulates saliva and digestive juices. It helps reduce bloating and constipation.Oral Hygiene: Naturally antibacterial, the leaf helps combat oral pathogens that cause cavities, gum disease, and bad breath.Respiratory Relief: It has anti-inflammatory and expectorant properties. Applying a warm poultice to the chest or consuming the leaf juice with honey can help relieve coughs and chest congestion.Wound Healing: Applied topically as a crushed paste, it acts as an antiseptic to promote faster healing of small cuts and skin infections.",
+    "funFact": "Green Gold\": Because of its widespread daily consumption and numerous health benefits, it is sometimes referred to as the \"Green Gold\" of India.The Fourth Most Popular Drug: Betel chewing (wrapping the leaf with the areca/betel nut and slaked lime) is considered the fourth most popular psychoactive drug in the world, surpassed only by nicotine, alcohol, and caffeine.",
+    "botanical": "Piper betle",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf3.jpg"
+    ]
+  },
+  "Open area 2T": {
+    "plot": "Open area 2T",
     "staff": "Lye",
     "plant": "Asian broom grass",
     "datePlanted": "2026-02-05",
@@ -1068,6 +1085,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass3.jpg"
+    ]
+  },
+  "Open area 2U": {
+    "plot": "Open area 2U",
+    "staff": "Lye",
+    "plant": "Prickly leea",
+    "datePlanted": "2026-03-12",
+    "estHarvest": "2034-05-29",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Traditional Medicine: The plant has a long history in Southeast Asian and Javanese traditional medicine. Leaves, twigs, and sap are often used in poultices to soothe fevers, heal wounds, treat headaches, and address bodily pain.",
+    "funFact": "Thorny All the Way: Unlike many other Leea species, L. angulata is fiercely protected by sharp, triangular prickles that cover not just its trunk and main branches, but its ultimate, tender branches as well.Grape Family Ties: It belongs to the Vitaceae family (the grape family). However, unlike its trailing or climbing grapevine cousins, it grows as a strong, upright, multi-stemmed shrub or tree.Critically Endangered in Singapore: If you are based in Punggol or elsewhere in Singapore, it might be very hard to spot. In local botany records, the plant is listed as Critically Endangered in the wild, with only a few pockets of adult individuals documented (such as around the Lower Seletar Reservoir).",
+    "botanical": "Leea angulata",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea3.jpg"
     ]
   },
   "openarea2T": {
@@ -1119,23 +1153,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit3.jpg"
-    ]
-  },
-  "openarea2O": {
-    "plot": "openarea2O",
-    "staff": "Lye",
-    "plant": "Prickly leea",
-    "datePlanted": "2026-03-12",
-    "estHarvest": "2034-05-29",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Traditional Medicine: The plant has a long history in Southeast Asian and Javanese traditional medicine. Leaves, twigs, and sap are often used in poultices to soothe fevers, heal wounds, treat headaches, and address bodily pain.",
-    "funFact": "Thorny All the Way: Unlike many other Leea species, L. angulata is fiercely protected by sharp, triangular prickles that cover not just its trunk and main branches, but its ultimate, tender branches as well.Grape Family Ties: It belongs to the Vitaceae family (the grape family). However, unlike its trailing or climbing grapevine cousins, it grows as a strong, upright, multi-stemmed shrub or tree.Critically Endangered in Singapore: If you are based in Punggol or elsewhere in Singapore, it might be very hard to spot. In local botany records, the plant is listed as Critically Endangered in the wild, with only a few pockets of adult individuals documented (such as around the Lower Seletar Reservoir).",
-    "botanical": "Leea angulata",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea3.jpg"
     ]
   },
   "openarea2W": {
@@ -1306,23 +1323,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
-    ]
-  },
-  "Open area 2S": {
-    "plot": "Open area 2S",
-    "staff": "Lye",
-    "plant": "Betel leaf",
-    "datePlanted": "2026-03-30",
-    "estHarvest": "2026-08-27",
-    "nextManure": "2026-08-28",
-    "nextWeeding": "2026-06-13",
-    "uses": "Digestive Aid: Chewing fresh leaves after meals stimulates saliva and digestive juices. It helps reduce bloating and constipation.Oral Hygiene: Naturally antibacterial, the leaf helps combat oral pathogens that cause cavities, gum disease, and bad breath.Respiratory Relief: It has anti-inflammatory and expectorant properties. Applying a warm poultice to the chest or consuming the leaf juice with honey can help relieve coughs and chest congestion.Wound Healing: Applied topically as a crushed paste, it acts as an antiseptic to promote faster healing of small cuts and skin infections.",
-    "funFact": "Green Gold\": Because of its widespread daily consumption and numerous health benefits, it is sometimes referred to as the \"Green Gold\" of India.The Fourth Most Popular Drug: Betel chewing (wrapping the leaf with the areca/betel nut and slaked lime) is considered the fourth most popular psychoactive drug in the world, surpassed only by nicotine, alcohol, and caffeine.",
-    "botanical": "Piper betle",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf3.jpg"
     ]
   }
 }
