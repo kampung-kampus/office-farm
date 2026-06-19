@@ -936,19 +936,19 @@
   },
   "Open area 2L": {
     "plot": "Open area 2L",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
+    "staff": "Lye",
+    "plant": "True yam",
+    "datePlanted": "2026-03-05",
     "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "nextManure": "2026-11-01",
+    "nextWeeding": "2026-07-03",
+    "uses": "Culinary: Tubers are a rich source of complex carbohydrates and are eaten baked, boiled, mashed, or pounded into fufu. Purple varieties (Dioscorea alata) are prized for making desserts and ice cream.Nutritional: They provide high levels of dietary fiber, vitamin C, potassium, and B-complex vitamins.Medicinal: Yam tubers contain a compound called diosgenin. This plant steroid is widely used in the pharmaceutical industry to synthesize steroidal hormones, including those used in birth control pills",
+    "funFact": "Not Sweet Potatoes! In the United States, orange-fleshed sweet potatoes are frequently mislabeled and sold as \"yams\". True yams are starchy with a bark-like, rough skin, whereas sweet potatoes are much sweeter and have a thin, smooth skin.",
+    "botanical": "Dioscorea alata",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/trueyam1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/trueyam2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/trueyam3.jpg"
     ]
   },
   "Open area 2M": {
