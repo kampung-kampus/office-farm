@@ -985,38 +985,38 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed3.jpg"
     ]
   },
-  "openarea2O": {
-    "plot": "openarea2O",
+  "Open area 2O": {
+    "plot": "Open area 2O",
     "staff": "Lye",
-    "plant": "Prickly leea",
-    "datePlanted": "2026-03-12",
-    "estHarvest": "2034-05-29",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Traditional Medicine: The plant has a long history in Southeast Asian and Javanese traditional medicine. Leaves, twigs, and sap are often used in poultices to soothe fevers, heal wounds, treat headaches, and address bodily pain.",
-    "funFact": "Thorny All the Way: Unlike many other Leea species, L. angulata is fiercely protected by sharp, triangular prickles that cover not just its trunk and main branches, but its ultimate, tender branches as well.Grape Family Ties: It belongs to the Vitaceae family (the grape family). However, unlike its trailing or climbing grapevine cousins, it grows as a strong, upright, multi-stemmed shrub or tree.Critically Endangered in Singapore: If you are based in Punggol or elsewhere in Singapore, it might be very hard to spot. In local botany records, the plant is listed as Critically Endangered in the wild, with only a few pockets of adult individuals documented (such as around the Lower Seletar Reservoir).",
-    "botanical": "Leea angulata",
+    "plant": "Soursop",
+    "datePlanted": "2026-03-16",
+    "estHarvest": "2034-06-02",
+    "nextManure": "2034-06-03",
+    "nextWeeding": "2030-04-24",
+    "uses": "Culinary & Beverages: The soft, white flesh is blended into refreshing smoothies, juices, ice creams, and jams. It has a unique flavor often described as a mix of strawberry, pineapple, and citrus.Traditional Medicine: In many tropical regions, teas made from the leaves and bark are used to treat ailments like inflammation, fevers, and insomnia.v",
+    "funFact": "Electric Leaves: The leaves and roots of the soursop tree are known to contain chemical compounds (annonacins) that are highly toxic to certain pests. Studies have shown they can even disrupt the nervous systems of small insects.",
+    "botanical": "Annona muricata",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop3.jpg"
     ]
   },
-  "openarea2P": {
-    "plot": "openarea2P",
-    "staff": "GUI",
-    "plant": "Jujube",
-    "datePlanted": "2026-02-28",
-    "estHarvest": "2028-11-24",
+  "Open area 2P": {
+    "plot": "Open area 2P",
+    "staff": "Lye",
+    "plant": "Indian camphorweed",
+    "datePlanted": "2026-01-14",
+    "estHarvest": "2034-04-02",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "When ripe, they are dark red or purple, crunchy, and refreshing, similar to an apple. Used in soups, stews, porridges, and as a filling for Chinese desserts like mooncakes and mochi.",
-    "funFact": "Jujube fruit , also known as red dates  is a highly nutritious, versatile fruit cultivated for over 4,000 years, primarily in Asia",
-    "botanical": "Ziziphus jujuba",
+    "uses": "This plant is a powerhouse in traditional medicine and regional cuisines across South and Southeast Asia:Medicinal Tea: The leaves are frequently brewed into a health-promoting tea, particularly in Thailand, to manage conditions like diabetes and rheumatism.",
+    "funFact": "VapoRub Scent: When its leaves are crushed, they release a powerful, medicinal odor similar to camphor or Vicks VapoRub, which gives the plant its name.Antioxidant Powerhouse: Research suggests that tea made from Pluchea indica leaves can have stronger antioxidant properties than even green tea (Camellia sinensis). Coastal Guardian: This plant thrives in harsh, salty environments like mangroves and salt marshes, playing a vital role in maintaining the ecological balance of coastal areas.Natural Insect Repellent: Because of its pungent chemical glands, the plant is naturally resistant to deer and is often used as a biological insect repellent.",
+    "botanical": "Pluchea indica",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed3.jpg"
     ]
   },
   "openarea2Q": {
@@ -1036,21 +1036,21 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry3.jpg"
     ]
   },
-  "openarea2R": {
-    "plot": "openarea2R",
-    "staff": "Lye",
-    "plant": "Indian camphorweed",
-    "datePlanted": "2026-01-14",
-    "estHarvest": "2034-04-02",
+  "Open area 2R": {
+    "plot": "Open area 2R",
+    "staff": "GUI",
+    "plant": "Jujube",
+    "datePlanted": "2026-02-28",
+    "estHarvest": "2028-11-24",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "This plant is a powerhouse in traditional medicine and regional cuisines across South and Southeast Asia:Medicinal Tea: The leaves are frequently brewed into a health-promoting tea, particularly in Thailand, to manage conditions like diabetes and rheumatism.",
-    "funFact": "VapoRub Scent: When its leaves are crushed, they release a powerful, medicinal odor similar to camphor or Vicks VapoRub, which gives the plant its name.Antioxidant Powerhouse: Research suggests that tea made from Pluchea indica leaves can have stronger antioxidant properties than even green tea (Camellia sinensis). Coastal Guardian: This plant thrives in harsh, salty environments like mangroves and salt marshes, playing a vital role in maintaining the ecological balance of coastal areas.Natural Insect Repellent: Because of its pungent chemical glands, the plant is naturally resistant to deer and is often used as a biological insect repellent.",
-    "botanical": "Pluchea indica",
+    "uses": "When ripe, they are dark red or purple, crunchy, and refreshing, similar to an apple. Used in soups, stews, porridges, and as a filling for Chinese desserts like mooncakes and mochi.",
+    "funFact": "Jujube fruit , also known as red dates  is a highly nutritious, versatile fruit cultivated for over 4,000 years, primarily in Asia",
+    "botanical": "Ziziphus jujuba",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
     ]
   },
   "openarea2S": {
@@ -1119,6 +1119,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit3.jpg"
+    ]
+  },
+  "openarea2O": {
+    "plot": "openarea2O",
+    "staff": "Lye",
+    "plant": "Prickly leea",
+    "datePlanted": "2026-03-12",
+    "estHarvest": "2034-05-29",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Traditional Medicine: The plant has a long history in Southeast Asian and Javanese traditional medicine. Leaves, twigs, and sap are often used in poultices to soothe fevers, heal wounds, treat headaches, and address bodily pain.",
+    "funFact": "Thorny All the Way: Unlike many other Leea species, L. angulata is fiercely protected by sharp, triangular prickles that cover not just its trunk and main branches, but its ultimate, tender branches as well.Grape Family Ties: It belongs to the Vitaceae family (the grape family). However, unlike its trailing or climbing grapevine cousins, it grows as a strong, upright, multi-stemmed shrub or tree.Critically Endangered in Singapore: If you are based in Punggol or elsewhere in Singapore, it might be very hard to spot. In local botany records, the plant is listed as Critically Endangered in the wild, with only a few pockets of adult individuals documented (such as around the Lower Seletar Reservoir).",
+    "botanical": "Leea angulata",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea3.jpg"
     ]
   },
   "openarea2W": {
@@ -1289,23 +1306,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
-    ]
-  },
-  "Open area 2O": {
-    "plot": "Open area 2O",
-    "staff": "Lye",
-    "plant": "Soursop",
-    "datePlanted": "2026-03-16",
-    "estHarvest": "2034-06-02",
-    "nextManure": "2034-06-03",
-    "nextWeeding": "2030-04-24",
-    "uses": "Culinary & Beverages: The soft, white flesh is blended into refreshing smoothies, juices, ice creams, and jams. It has a unique flavor often described as a mix of strawberry, pineapple, and citrus.Traditional Medicine: In many tropical regions, teas made from the leaves and bark are used to treat ailments like inflammation, fevers, and insomnia.v",
-    "funFact": "Electric Leaves: The leaves and roots of the soursop tree are known to contain chemical compounds (annonacins) that are highly toxic to certain pests. Studies have shown they can even disrupt the nervous systems of small insects.",
-    "botanical": "Annona muricata",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop3.jpg"
     ]
   }
 }
