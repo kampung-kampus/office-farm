@@ -1290,5 +1290,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
     ]
+  },
+  "Open area 2L": {
+    "plot": "Open area 2L",
+    "staff": "Lye",
+    "plant": "Betel leaf",
+    "datePlanted": "2026-03-12",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf3.jpg"
+    ]
   }
 }
