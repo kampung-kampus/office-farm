@@ -1293,19 +1293,19 @@
   },
   "Open area 2L": {
     "plot": "Open area 2L",
-    "staff": "Lye",
-    "plant": "Betel leaf",
-    "datePlanted": "2026-05-07",
-    "estHarvest": "2026-10-04",
-    "nextManure": "2026-10-05",
-    "nextWeeding": "2026-07-21",
-    "uses": "Digestive Aid: Chewing fresh leaves after meals stimulates saliva and digestive juices. It helps reduce bloating and constipation.Oral Hygiene: Naturally antibacterial, the leaf helps combat oral pathogens that cause cavities, gum disease, and bad breath.Respiratory Relief: It has anti-inflammatory and expectorant properties. Applying a warm poultice to the chest or consuming the leaf juice with honey can help relieve coughs and chest congestion.Wound Healing: Applied topically as a crushed paste, it acts as an antiseptic to promote faster healing of small cuts and skin infections.",
-    "funFact": "Green Gold\": Because of its widespread daily consumption and numerous health benefits, it is sometimes referred to as the \"Green Gold\" of India.The Fourth Most Popular Drug: Betel chewing (wrapping the leaf with the areca/betel nut and slaked lime) is considered the fourth most popular psychoactive drug in the world, surpassed only by nicotine, alcohol, and caffeine.",
-    "botanical": "Piper betle",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   }
 }
