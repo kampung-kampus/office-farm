@@ -747,8 +747,25 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
     ]
   },
-  "Open area 2B Fukien tea": {
-    "plot": "Open area 2B Fukien tea",
+  "Open area 2A": {
+    "plot": "Open area 2A",
+    "staff": "Lye",
+    "plant": "Mulberry",
+    "datePlanted": "2026-03-23",
+    "estHarvest": "2034-06-09",
+    "nextManure": "2034-06-10",
+    "nextWeeding": "2030-05-01",
+    "uses": "Sericulture (Silk Production): White mulberry leaves serve as the primary, indispensable food source for silkworms.Culinary Arts: The sweet, tart fruits are eaten fresh or processed into jams, juices, wines, pies, and tarts.Traditional Medicine: Practitioners of Traditional Chinese Medicine use the root bark, leaves, and fruit to address coughs, fever, and blood sugar regulation.",
+    "funFact": "Not a True Berry: Botanically speaking, a mulberry is not a berry at all but a \"multiple fruit\" formed from a cluster of independent flowers.Super-Sonic Pollen: The flowers of the white mulberry tree can fire pollen at over half the speed of sound, making it one of the fastest movements in the plant kingdom.",
+    "botanical": "Morus",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
+    ]
+  },
+  "Open area 2B": {
+    "plot": "Open area 2B",
     "staff": "Lye",
     "plant": "Fukien tea",
     "datePlanted": "2026-01-27",
@@ -764,8 +781,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea3.jpg"
     ]
   },
-  "openarea2C": {
-    "plot": "openarea2C",
+  "Open area 2C": {
+    "plot": "Open area 2C",
     "staff": "Lye",
     "plant": "Chinese violet",
     "datePlanted": "2026-01-30",
@@ -781,8 +798,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet3.jpg"
     ]
   },
-  "openarea2D": {
-    "plot": "openarea2D",
+  "Open area 2D": {
+    "plot": "Open area 2D",
     "staff": "Lye",
     "plant": "Dayak onion",
     "datePlanted": "2026-01-08",
@@ -798,8 +815,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion3.jpg"
     ]
   },
-  "openarea2E": {
-    "plot": "openarea2E",
+  "Open area 2E": {
+    "plot": "Open area 2E",
     "staff": "Lye",
     "plant": "Surinam cherry",
     "datePlanted": "2026-01-14",
@@ -815,8 +832,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry3.jpg"
     ]
   },
-  "openarea2F": {
-    "plot": "openarea2F",
+  "Open area 2F": {
+    "plot": "Open area 2F",
     "staff": "Lye",
     "plant": "Lipstick tree",
     "datePlanted": "2026-02-17",
@@ -832,8 +849,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree3.jpg"
     ]
   },
-  "openarea2G": {
-    "plot": "openarea2G",
+  "Open area 2G": {
+    "plot": "Open area 2G",
     "staff": "Lye",
     "plant": "Kaffir lime",
     "datePlanted": "2026-01-30",
@@ -1189,8 +1206,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
     ]
   },
-  "Open area 3A Moringa": {
-    "plot": "Open area 3A Moringa",
+  "Open area 3A": {
+    "plot": "Open area 3A",
     "staff": "GUI",
     "plant": "Moringa",
     "datePlanted": "2026-03-17",
@@ -1206,25 +1223,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa3.jpg"
     ]
   },
-  "Open area 3B Cacao Tree": {
-    "plot": "Open area 3B Cacao Tree",
-    "staff": "GUI",
-    "plant": "Cacao tree",
-    "datePlanted": "2026-02-26",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree3.jpg"
-    ]
-  },
-  "Open area 3C Batoko plum": {
-    "plot": "Open area 3C Batoko plum",
+  "Open area 3B": {
+    "plot": "Open area 3B",
     "staff": "GUI",
     "plant": "Batoko plum",
     "datePlanted": "2026-02-03",
@@ -1240,8 +1240,25 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum3.jpg"
     ]
   },
-  "Open area 3D Star apple": {
-    "plot": "Open area 3D Star apple",
+  "Open area 3C": {
+    "plot": "Open area 3C",
+    "staff": "GUI",
+    "plant": "Cacao tree",
+    "datePlanted": "2026-02-26",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree3.jpg"
+    ]
+  },
+  "Open area 3D": {
+    "plot": "Open area 3D",
     "staff": "GUI",
     "plant": "Star apple",
     "datePlanted": "2026-02-24",
@@ -1257,8 +1274,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple3.jpg"
     ]
   },
-  "Open area 3E Mangosteen": {
-    "plot": "Open area 3E Mangosteen",
+  "Open area 3E": {
+    "plot": "Open area 3E",
     "staff": "GUI",
     "plant": "Mangosteen",
     "datePlanted": "2026-02-26",
@@ -1272,40 +1289,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
-    ]
-  },
-  "Open area 2A": {
-    "plot": "Open area 2A",
-    "staff": "Lye",
-    "plant": "Mulberry",
-    "datePlanted": "2026-03-23",
-    "estHarvest": "2034-06-09",
-    "nextManure": "2034-06-10",
-    "nextWeeding": "2030-05-01",
-    "uses": "Sericulture (Silk Production): White mulberry leaves serve as the primary, indispensable food source for silkworms.Culinary Arts: The sweet, tart fruits are eaten fresh or processed into jams, juices, wines, pies, and tarts.Traditional Medicine: Practitioners of Traditional Chinese Medicine use the root bark, leaves, and fruit to address coughs, fever, and blood sugar regulation.",
-    "funFact": "Not a True Berry: Botanically speaking, a mulberry is not a berry at all but a \"multiple fruit\" formed from a cluster of independent flowers.Super-Sonic Pollen: The flowers of the white mulberry tree can fire pollen at over half the speed of sound, making it one of the fastest movements in the plant kingdom.",
-    "botanical": "Morus",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
-    ]
-  },
-  "Open area 2B": {
-    "plot": "Open area 2B",
-    "staff": "Lye",
-    "plant": "Fukien tea",
-    "datePlanted": "2026-03-12",
-    "estHarvest": "2034-05-29",
-    "nextManure": "2034-05-30",
-    "nextWeeding": "2030-04-20",
-    "uses": "Medicinal Infusions: In the Philippines, the leaves are widely boiled to create a medicinal tea used to treat coughs, diarrhea, colic, and dysentery",
-    "funFact": "Namesake Origins: It gets its name from the Fujian Province in southeastern China (often spelled Fukien in the past), where it has been grown for centuries and is mentioned in literature dating back to the Tang Dynasty.",
-    "botanical": "Carmona microphylla",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea3.jpg"
     ]
   }
 }
