@@ -1290,5 +1290,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
     ]
+  },
+  "Open area 2O": {
+    "plot": "Open area 2O",
+    "staff": "Lye",
+    "plant": "Soursop",
+    "datePlanted": "2026-03-16",
+    "estHarvest": "2034-06-02",
+    "nextManure": "2034-06-03",
+    "nextWeeding": "2030-04-24",
+    "uses": "Culinary & Beverages: The soft, white flesh is blended into refreshing smoothies, juices, ice creams, and jams. It has a unique flavor often described as a mix of strawberry, pineapple, and citrus.Traditional Medicine: In many tropical regions, teas made from the leaves and bark are used to treat ailments like inflammation, fevers, and insomnia.v",
+    "funFact": "Electric Leaves: The leaves and roots of the soursop tree are known to contain chemical compounds (annonacins) that are highly toxic to certain pests. Studies have shown they can even disrupt the nervous systems of small insects.",
+    "botanical": "Annona muricata",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop3.jpg"
+    ]
   }
 }
