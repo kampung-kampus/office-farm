@@ -1596,5 +1596,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
     ]
+  },
+  "Map of open area": {
+    "plot": "Map of open area",
+    "staff": "Lye",
+    "plant": "Map of open area",
+    "datePlanted": "2026-06-17",
+    "estHarvest": "2026-06-17",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mapofopenarea1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mapofopenarea2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mapofopenarea3.jpg"
+    ]
   }
 }
