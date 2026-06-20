@@ -1494,5 +1494,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan3.jpg"
     ]
+  },
+  "Open area 1J": {
+    "plot": "Open area 1J",
+    "staff": "GUI",
+    "plant": "Lemon myrtle",
+    "datePlanted": "2025-05-15",
+    "estHarvest": "2033-08-01",
+    "nextManure": "2033-08-02",
+    "nextWeeding": "2029-06-23",
+    "uses": "Culinary: Used to flavor baked goods, salads, and marinades, and to preserve jams. The fresh juice is also a staple for making lemonade and flavoring teas",
+    "funFact": "Glowing Spark: When the oils from a lemon peel are squeezed near an open flame, the compounds (specifically limonene) ignite to create a tiny spark, essentially functioning as a natural firework.",
+    "botanical": "Citrus limon",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemonmyrtle1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemonmyrtle2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemonmyrtle3.jpg"
+    ]
   }
 }
