@@ -1477,5 +1477,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate3.jpg"
     ]
+  },
+  "Open area 1I": {
+    "plot": "Open area 1I",
+    "staff": "Lye",
+    "plant": "Rambutan",
+    "datePlanted": "2026-02-27",
+    "estHarvest": "2026-02-27",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary: The translucent, sweet-tart aril is primarily consumed fresh, but it is also used in fruit salads, jams, jellies, and desserts.Industrial & Cooking: The seeds are rich in fats and oils used in soap manufacturing, candle making, and cooking oil. The roasted seeds are also eaten as a snack in some cultures",
+    "funFact": "The Origin of the Name: The word rambutan comes from the Malay-Indonesian word rambut, which translates to \"hair\". This perfectly describes the fruit's unique, hairy-looking exterior.",
+    "botanical": "Nephelium lappaceum L.",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan3.jpg"
+    ]
   }
 }
