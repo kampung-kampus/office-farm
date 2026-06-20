@@ -1443,5 +1443,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jambu2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jambu3.jpg"
     ]
+  },
+  "Open area 1G": {
+    "plot": "Open area 1G",
+    "staff": "Lye",
+    "plant": "Chinese rain bell",
+    "datePlanted": "2026-03-26",
+    "estHarvest": "2026-08-23",
+    "nextManure": "2026-08-24",
+    "nextWeeding": "2026-06-09",
+    "uses": "Natural Dye: The leaves and stems contain a compound called indican, which has been used for centuries to produce the famous natural blue dye known as \"Assam Indigo\".Traditional Medicine: The rhizomes, roots, and leaves are staples in traditional Chinese medicine (known as Nan Ban Lan Gen or Qingdai). They are used to make herbal decoctions and poultices for their anti-inflammatory, detoxifying, and antiviral properties.",
+    "funFact": " Historically, indigenous cultures combined the blue dye extracted from its twigs with turmeric to create green dyes, or with safflower to create rich purple hues.",
+    "botanical": "Strobilanthes cusia",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineserainbell1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineserainbell2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineserainbell3.jpg"
+    ]
   }
 }
