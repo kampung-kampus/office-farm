@@ -1460,5 +1460,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineserainbell2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineserainbell3.jpg"
     ]
+  },
+  "Open area 1H": {
+    "plot": "Open area 1H",
+    "staff": "Lye",
+    "plant": "Promegranate",
+    "datePlanted": "2026-02-27",
+    "estHarvest": "2028-11-23",
+    "nextManure": "2028-11-24",
+    "nextWeeding": "2027-07-12",
+    "uses": "Culinary: The juicy seeds (arils) are eaten fresh, used to top salads/desserts, or pressed for juice. The juice is also boiled down into grenadine syrup. Highly valued for its antioxidant, anti-inflammatory, and antimicrobial properties. The arils are an excellent source of vitamin C, vitamin K, folate, and dietary fiber.",
+    "funFact": "The French word for pomegranate is \"pomme-grenade,\" which literally translates to \"seeded apple\". This fruit inspired the name and design of the hand grenade!",
+    "botanical": "Punica granatum",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate3.jpg"
+    ]
   }
 }
