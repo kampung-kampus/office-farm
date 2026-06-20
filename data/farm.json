@@ -747,601 +747,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
     ]
   },
-  "Open area 2A": {
-    "plot": "Open area 2A",
-    "staff": "Lye",
-    "plant": "Mulberry",
-    "datePlanted": "2026-03-23",
-    "estHarvest": "2034-06-09",
-    "nextManure": "2034-06-10",
-    "nextWeeding": "2030-05-01",
-    "uses": "Sericulture (Silk Production): White mulberry leaves serve as the primary, indispensable food source for silkworms.Culinary Arts: The sweet, tart fruits are eaten fresh or processed into jams, juices, wines, pies, and tarts.Traditional Medicine: Practitioners of Traditional Chinese Medicine use the root bark, leaves, and fruit to address coughs, fever, and blood sugar regulation.",
-    "funFact": "Not a True Berry: Botanically speaking, a mulberry is not a berry at all but a \"multiple fruit\" formed from a cluster of independent flowers.Super-Sonic Pollen: The flowers of the white mulberry tree can fire pollen at over half the speed of sound, making it one of the fastest movements in the plant kingdom.",
-    "botanical": "Morus",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
-    ]
-  },
-  "Open area 2B": {
-    "plot": "Open area 2B",
-    "staff": "Lye",
-    "plant": "Fukien tea",
-    "datePlanted": "2026-01-27",
-    "estHarvest": "2034-04-15",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Medicinal Infusions: In the Philippines, the leaves are widely boiled to create a medicinal tea used to treat coughs, diarrhea, colic, and dysentery",
-    "funFact": "Namesake Origins: It gets its name from the Fujian Province in southeastern China (often spelled Fukien in the past), where it has been grown for centuries and is mentioned in literature dating back to the Tang Dynasty.",
-    "botanical": "Carmona microphylla",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea3.jpg"
-    ]
-  },
-  "Open area 2C": {
-    "plot": "Open area 2C",
-    "staff": "Lye",
-    "plant": "Chinese violet",
-    "datePlanted": "2026-01-30",
-    "estHarvest": "2034-04-18",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Edible Greens: Highly nutritious and packed with protein and vitamins. The tender leaves are frequently boiled, stir-fried, or used as a nutrient-dense spinach substitute in soups, quiches, and omelettes. The flowers can be eaten raw in salads.",
-    "funFact": "Explosive Seed Pods: The plant produces seed pods that, when ripe and dry, split in half explosively to fling their seeds out into the surrounding area.It’s Not Actually Chinese: Despite its common name, the Chinese Violet is native to sub-Saharan Africa and India",
-    "botanical": "Asystasia gangetica ",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet3.jpg"
-    ]
-  },
-  "Open area 2D": {
-    "plot": "Open area 2D",
-    "staff": "Lye",
-    "plant": "Dayak onion",
-    "datePlanted": "2026-01-08",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Folk Medicine: Traditionally crushed, boiled, or dried to create herbal teas and poultices. It is empirically used to lower blood pressure, reduce cholesterol, manage diabetes, and heal wounds",
-    "funFact": "It’s Not Actually an Onion: Despite resembling shallots with its red skin and white rings, the Dayak onion belongs to the iris family (the same family as saffron) rather than the allium family.Evening Bloomers: The plant produces small, delicate five-petaled white or yellow flowers that bloom in the late afternoon and stay open for only a few hours.",
-    "botanical": "Eleutherine palmifolia",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion3.jpg"
-    ]
-  },
-  "Open area 2E": {
-    "plot": "Open area 2E",
-    "staff": "Lye",
-    "plant": "Surinam cherry",
-    "datePlanted": "2026-01-14",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Fresh Consumption: Eaten fresh out of hand when absolutely ripe (deep red or near-black) to avoid its bitter, resinous under-ripe tang.",
-    "funFact": "Folk Remedies: Teas made from the leaves are used as a folk treatment for stomachaches, colic, bronchitis, and heartburn.Blood Pressure: Traditional extracts have been studied for their natural antihypertensive properties.",
-    "botanical": "Eugenia uniflora L.",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry3.jpg"
-    ]
-  },
-  "Open area 2F": {
-    "plot": "Open area 2F",
-    "staff": "Lye",
-    "plant": "Lipstick tree",
-    "datePlanted": "2026-02-17",
-    "estHarvest": "2034-05-06",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "The tree is primarily valued for its bright red-orange seeds, which provide a versatile natural pigment called annatto.Natural Food Coloring: It is one of the world's most common natural dyes, used to give cheese (like Cheddar), butter, margarine, ice cream, and rice their yellow or orange hues.",
-    "funFact": "The Name Origin: The \"lipstick tree\" nickname comes from indigenous people in Central and South America using the seed pulp as a natural cosmetic and body paint for ceremonies.Ancient Sunscreen: The Mayans and Aztecs used the pigment not just for color, but as a natural sunscreen and insect repellent.",
-    "botanical": "Bixa orellana",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree3.jpg"
-    ]
-  },
-  "Open area 2G": {
-    "plot": "Open area 2G",
-    "staff": "Lye",
-    "plant": "Kaffir lime",
-    "datePlanted": "2026-01-30",
-    "estHarvest": "2026-10-27",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Used in drinks, marinades, and desserts",
-    "funFact": "Prevented scurvy in sailors; highly acidic fruit.",
-    "botanical": "Citrus × aurantiifolia",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime3.jpg"
-    ]
-  },
-  "Open area 2H": {
-    "plot": "Open area 2H",
-    "staff": "Lye",
-    "plant": "Rose cactus",
-    "datePlanted": "2026-01-26",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Traditional Medicine: In Southeast Asia (especially Malaysia and Singapore), the raw or boiled leaves are used in folk medicine to treat cancer, rheumatism, gastric pain, and ulcers.Edible Fruits & Leaves: The fleshy, top-shaped yellow fruits are edible (though quite sour) and can be used in chili pastes or cocktails. The leaves can also be eaten raw in small quantities or used to make tea",
-    "funFact": "A Cactus with Leaves: Unlike nearly all other cacti, the Rose Cactus does not drop its leaves; it retains large, glossy green leaves year-round.Ancient Ancestry: Because it retains true leaves, it is considered a \"primitive\" or non-succulent cactus. It is basically an evolutionary stepping stone between normal leafy shrubs and desert cacti!",
-    "botanical": "Leuenbergeria bleo",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus3.jpg"
-    ]
-  },
-  "Open area 2I": {
-    "plot": "Open area 2I",
-    "staff": "Lye",
-    "plant": "Spices",
-    "datePlanted": "2026-02-26",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "1 Turmeric,  2 Black Turmeric,  3 Shell Ginger,   4 Shampoo Ginger,   5 Mango Ginger,   6 Torch Ginger,   7 Blue Ginger",
-    "funFact": "1 Turmeric: Standard culinary spice used for vibrant yellow coloring in curries, anti-inflammatory supplements, and natural textiles dyes.  2 Black Turmeric: Rare medicinal root applied as a topical paste for sprains, snakebites, and cosmetic face masks.  3 Shell Ginger: Ornamental plant utilized for wrapping foods, brewing traditional herbal teas, and antioxidant skin care.  4 Shampoo Ginger: Sap from the flower cones serves as a natural, fragrant hair cleanser and scalp moisturizer.  5 Mango Ginger: Distinct raw-mango flavored rhizome ideal for fresh pickles, chutneys, and soothing digestive issues.   6 Torch Ginger: Edible pink flower buds highly prized as an aromatic ingredient in Southeast Asian salads, laksa, and curries.  7 Blue Ginger: Native Galangal variety primarily used to add a sharp, citrusy-earthy bite to Thai pastes and Indonesian dishes.",
-    "botanical": "Turmeric: Curcuma longa,  Black Turmeric: Curcuma caesia,  Shell Ginger: Alpinia zerumbet,  Shampoo Ginger: Zingiber zerumbet,  Mango Ginger: Curcuma amada,  Torch Ginger: Etlingera elatior,  Blue Ginger: Alpinia galanga",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices3.jpg"
-    ]
-  },
-  "Open area 2J": {
-    "plot": "Open area 2J",
-    "staff": "Lye",
-    "plant": "Bitter leaf",
-    "datePlanted": "2026-01-27",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Culinary: The leaves are a staple leafy vegetable in many West and Central African cuisines (most famously in the Nigerian dish Ofe Onugbu). Because of their pungency, they are repeatedly squeezed and washed to remove excess bitterness before being added to stews.Traditional Medicine: The juice and leaf extracts are consumed as tonics or teas to alleviate malaria, control blood sugar in diabetics, and boost digestion.",
-    "funFact": "Domestic Applications: The strong, bitter woody stems are frequently broken down and used as natural \"chewing sticks\" to maintain dental hygiene and ward off mouth infections.",
-    "botanical": "Vernonia amygdalina ",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf3.jpg"
-    ]
-  },
-  "Open area 2K": {
-    "plot": "Open area 2K",
-    "staff": "Lye",
-    "plant": "Candle bush",
-    "datePlanted": "2026-01-30",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Skin Healing: It is widely known as the \"ringworm bush\". Crushed fresh leaves or sap contain chrysophanic acid, which naturally fights fungal infections like ringworm, athlete's foot, and eczema when applied topically.",
-    "funFact": "The candle bush gets its name because its unopened bright-yellow flower spikes resemble giant, glowing, waxy candles!",
-    "botanical": "Senna alata",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush3.jpg"
-    ]
-  },
-  "Open area 2L": {
-    "plot": "Open area 2L",
-    "staff": "Lye",
-    "plant": "True yam",
-    "datePlanted": "2026-03-05",
-    "estHarvest": "",
-    "nextManure": "2026-11-01",
-    "nextWeeding": "2026-07-03",
-    "uses": "Culinary: Tubers are a rich source of complex carbohydrates and are eaten baked, boiled, mashed, or pounded into fufu. Purple varieties (Dioscorea alata) are prized for making desserts and ice cream.Nutritional: They provide high levels of dietary fiber, vitamin C, potassium, and B-complex vitamins.Medicinal: Yam tubers contain a compound called diosgenin. This plant steroid is widely used in the pharmaceutical industry to synthesize steroidal hormones, including those used in birth control pills",
-    "funFact": "Not Sweet Potatoes! In the United States, orange-fleshed sweet potatoes are frequently mislabeled and sold as \"yams\". True yams are starchy with a bark-like, rough skin, whereas sweet potatoes are much sweeter and have a thin, smooth skin.",
-    "botanical": "Dioscorea alata",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/trueyam1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/trueyam2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/trueyam3.jpg"
-    ]
-  },
-  "Open area 2M": {
-    "plot": "Open area 2M",
-    "staff": "Lye",
-    "plant": "Citronella",
-    "datePlanted": "2026-01-23",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Insect Repellent: The oil contains natural compounds (like citronellal, geraniol, and limonene) that mask human odors, effectively deterring mosquitoes and other biting bugs [1].Aromatherapy: Used in diffusers to create a calming, refreshing atmosphere and to help relieve mental fatigue.Skincare & Cosmetics: Diluted into soaps, lotions, and massage oils [2]. It has natural antifungal and antibacterial properties that help cleanse the skin.",
-    "funFact": "Not a single plant: People often assume citronella is a specific plant, but it is actually a tall, clumping grass similar to lemongrass",
-    "botanical": "Cymbopogon",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella3.jpg"
-    ]
-  },
-  "Open area 2N": {
-    "plot": "Open area 2N",
-    "staff": "Lye",
-    "plant": "Blue porterweed",
-    "datePlanted": "2026-02-19",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Culinary: The mushroom-flavored flowers are a popular, quirky addition to fresh salads. The tough flower spikes can also be used as a seasoning in soups and stews much like a bay leaf.Traditional Medicine: Historically used by indigenous and folk healers as a \"cooling tonic\". Leaves are frequently steeped into teas or decoctions to help soothe gastrointestinal discomfort, clear respiratory issues, and promote relaxation",
-    "funFact": "It tastes like mushrooms: The tiny, delicate flowers can be eaten raw and have a surprisingly distinct, earthy, mushroom-like flavor.It has a beer connection: The common name \"porterweed\" comes from the dark, foamy, beer-like infusion that can be made from brewing its leaves.",
-    "botanical": "Stachytarpheta jamaicensis",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed3.jpg"
-    ]
-  },
-  "Open area 2O": {
-    "plot": "Open area 2O",
-    "staff": "Lye",
-    "plant": "Soursop",
-    "datePlanted": "2026-03-16",
-    "estHarvest": "2034-06-02",
-    "nextManure": "2034-06-03",
-    "nextWeeding": "2030-04-24",
-    "uses": "Culinary & Beverages: The soft, white flesh is blended into refreshing smoothies, juices, ice creams, and jams. It has a unique flavor often described as a mix of strawberry, pineapple, and citrus.Traditional Medicine: In many tropical regions, teas made from the leaves and bark are used to treat ailments like inflammation, fevers, and insomnia.v",
-    "funFact": "Electric Leaves: The leaves and roots of the soursop tree are known to contain chemical compounds (annonacins) that are highly toxic to certain pests. Studies have shown they can even disrupt the nervous systems of small insects.",
-    "botanical": "Annona muricata",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop3.jpg"
-    ]
-  },
-  "Open area 2P": {
-    "plot": "Open area 2P",
-    "staff": "Lye",
-    "plant": "Indian camphorweed",
-    "datePlanted": "2026-01-14",
-    "estHarvest": "2034-04-02",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "This plant is a powerhouse in traditional medicine and regional cuisines across South and Southeast Asia:Medicinal Tea: The leaves are frequently brewed into a health-promoting tea, particularly in Thailand, to manage conditions like diabetes and rheumatism.",
-    "funFact": "VapoRub Scent: When its leaves are crushed, they release a powerful, medicinal odor similar to camphor or Vicks VapoRub, which gives the plant its name.Antioxidant Powerhouse: Research suggests that tea made from Pluchea indica leaves can have stronger antioxidant properties than even green tea (Camellia sinensis). Coastal Guardian: This plant thrives in harsh, salty environments like mangroves and salt marshes, playing a vital role in maintaining the ecological balance of coastal areas.Natural Insect Repellent: Because of its pungent chemical glands, the plant is naturally resistant to deer and is often used as a biological insect repellent.",
-    "botanical": "Pluchea indica",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed3.jpg"
-    ]
-  },
-  "openarea2Q": {
-    "plot": "openarea2Q",
-    "staff": "Lye",
-    "plant": "Bandicoot berry",
-    "datePlanted": "2026-02-04",
-    "estHarvest": "2028-10-31",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Traditionally, various parts of the plant are used in Ayurvedic and other traditional systems of medicine to treat skin complaints, diarrhea, vertigo, fever, and body aches.  The ripe, dark purple or black berries are edible and have a tart, pleasant taste. They are sometimes used in jams and jellies.",
-    "funFact": "The fruit is a favorite snack of the bandicoot, a small marsupial, which gives the plant its common name, Bandicoot Berry.",
-    "botanical": "Leea Indica",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry3.jpg"
-    ]
-  },
-  "Open area 2R": {
-    "plot": "Open area 2R",
-    "staff": "GUI",
-    "plant": "Jujube",
-    "datePlanted": "2026-02-28",
-    "estHarvest": "2028-11-24",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "When ripe, they are dark red or purple, crunchy, and refreshing, similar to an apple. Used in soups, stews, porridges, and as a filling for Chinese desserts like mooncakes and mochi.",
-    "funFact": "Jujube fruit , also known as red dates  is a highly nutritious, versatile fruit cultivated for over 4,000 years, primarily in Asia",
-    "botanical": "Ziziphus jujuba",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
-    ]
-  },
-  "Open area 2S": {
-    "plot": "Open area 2S",
-    "staff": "Lye",
-    "plant": "Betel leaf",
-    "datePlanted": "2026-03-30",
-    "estHarvest": "2026-08-27",
-    "nextManure": "2026-08-28",
-    "nextWeeding": "2026-06-13",
-    "uses": "Digestive Aid: Chewing fresh leaves after meals stimulates saliva and digestive juices. It helps reduce bloating and constipation.Oral Hygiene: Naturally antibacterial, the leaf helps combat oral pathogens that cause cavities, gum disease, and bad breath.Respiratory Relief: It has anti-inflammatory and expectorant properties. Applying a warm poultice to the chest or consuming the leaf juice with honey can help relieve coughs and chest congestion.Wound Healing: Applied topically as a crushed paste, it acts as an antiseptic to promote faster healing of small cuts and skin infections.",
-    "funFact": "Green Gold\": Because of its widespread daily consumption and numerous health benefits, it is sometimes referred to as the \"Green Gold\" of India.The Fourth Most Popular Drug: Betel chewing (wrapping the leaf with the areca/betel nut and slaked lime) is considered the fourth most popular psychoactive drug in the world, surpassed only by nicotine, alcohol, and caffeine.",
-    "botanical": "Piper betle",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf3.jpg"
-    ]
-  },
-  "Open area 2T": {
-    "plot": "Open area 2T",
-    "staff": "Lye",
-    "plant": "Asian broom grass",
-    "datePlanted": "2026-02-05",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass3.jpg"
-    ]
-  },
-  "Open area 2U": {
-    "plot": "Open area 2U",
-    "staff": "Lye",
-    "plant": "Prickly leea",
-    "datePlanted": "2026-03-12",
-    "estHarvest": "2034-05-29",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Traditional Medicine: The plant has a long history in Southeast Asian and Javanese traditional medicine. Leaves, twigs, and sap are often used in poultices to soothe fevers, heal wounds, treat headaches, and address bodily pain.",
-    "funFact": "Thorny All the Way: Unlike many other Leea species, L. angulata is fiercely protected by sharp, triangular prickles that cover not just its trunk and main branches, but its ultimate, tender branches as well.Grape Family Ties: It belongs to the Vitaceae family (the grape family). However, unlike its trailing or climbing grapevine cousins, it grows as a strong, upright, multi-stemmed shrub or tree.Critically Endangered in Singapore: If you are based in Punggol or elsewhere in Singapore, it might be very hard to spot. In local botany records, the plant is listed as Critically Endangered in the wild, with only a few pockets of adult individuals documented (such as around the Lower Seletar Reservoir).",
-    "botanical": "Leea angulata",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea3.jpg"
-    ]
-  },
-  "Open area 2V": {
-    "plot": "Open area 2V",
-    "staff": "Lye",
-    "plant": "Cowslip creeper",
-    "datePlanted": "2026-03-27",
-    "estHarvest": "2027-03-27",
-    "nextManure": "2027-03-28",
-    "nextWeeding": "2026-09-26",
-    "uses": "The flowers are a specialty ingredient in Thai, Vietnamese, and Filipino cuisine. They are commonly cooked into omelets, stir-fried with oyster sauce, or used in soups.",
-    "funFact": "The flowers emit a very strong, pleasant citrus-like fragrance, particularly during the evening. This oil is extracted to create perfumes and in floral, aromatic gardens. That is why its Chinese name is 夜来香",
-    "botanical": "Telosma cordata",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper3.jpg"
-    ]
-  },
-  "Open area 2W": {
-    "plot": "Open area 2W",
-    "staff": "Lye",
-    "plant": "Cashew",
-    "datePlanted": "2026-02-06",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Culinary & Snacks: Eaten roasted or salted, and blended into pastes as the creamy base for Indian curries (like Korma)",
-    "funFact": "They Are Not True Nuts: Botanically, the cashew is actually a drupe (a seed that grows on the outside of a false fruit), rather than a traditional nut.A Poison Ivy Relative: The cashew tree is in the Anacardiaceae family, meaning it shares a botanical lineage with pistachios, mangoes, and toxic plants like poison ivy and poison oak",
-    "botanical": "Anacardium occidentale",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew3.jpg"
-    ]
-  },
-  "Open area 2X": {
-    "plot": "Open area 2X",
-    "staff": "GUI",
-    "plant": "Yellow star apple",
-    "datePlanted": "2026-03-24",
-    "estHarvest": "2034-06-10",
-    "nextManure": "2034-06-11",
-    "nextWeeding": "2030-05-02",
-    "uses": "Fresh Eating: The fruit is typically eaten fresh; it is scooped out and best served chilled.",
-    "funFact": "The \"Star\" Pattern: When the fruit is sliced in half horizontally, the core and seeds create a beautiful, distinct star-like pattern.",
-    "botanical": "Chrysophyllum cainito",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/yellowstarapple1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/yellowstarapple2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/yellowstarapple3.jpg"
-    ]
-  },
-  "Open area 2Y": {
-    "plot": "Open area 2Y",
-    "staff": "GUI",
-    "plant": "Star fruit",
-    "datePlanted": "2026-01-29",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Fresh Eating: Sliced raw and eaten fresh, often used as a garnish in salads, fruit platters, and cocktails.",
-    "funFact": "Dietary Precaution: People with kidney problems or chronic kidney disease should avoid star fruit National Kidney Foundation. The fruit contains a neurotoxin (carambotoxin) and high levels of oxalates that healthy kidneys easily filter out, but can be dangerous or cause severe hiccups, vomiting, and confusion in individuals with kidney dysfunction.",
-    "botanical": "Averrhoa carambola",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit3.jpg"
-    ]
-  },
-  "Open area 2Z": {
-    "plot": "Open area 2Z",
-    "staff": "GUI",
-    "plant": "Lemon",
-    "datePlanted": "2026-01-29",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Culinary: Used to flavor baked goods, salads, and marinades, and to preserve jams. The fresh juice is also a staple for making lemonade and flavoring teas",
-    "funFact": "Glowing Spark: When the oils from a lemon peel are squeezed near an open flame, the compounds (specifically limonene) ignite to create a tiny spark, essentially functioning as a natural firework.",
-    "botanical": "Citrus limon",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon3.jpg"
-    ]
-  },
-  "Open area 2ZA": {
-    "plot": "Open area 2ZA",
-    "staff": "GUI",
-    "plant": "Buah long long",
-    "datePlanted": "2026-01-20",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong3.jpg"
-    ]
-  },
-  "Open area 2ZB": {
-    "plot": "Open area 2ZB",
-    "staff": "Lye",
-    "plant": "Melinjo",
-    "datePlanted": "2026-01-28",
-    "estHarvest": "2034-04-16",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Culinary Snack (Emping): The mature seeds are ground into flour and deep-fried to create emping, a popular, slightly bitter Indonesian cracker.",
-    "funFact": "An Imposter \"Fruit\": Melinjo does not produce true fruits or flowers. It is a gymnosperm (related to pine trees), meaning its \"fruits\" are actually colorful, fleshy seed cones.",
-    "botanical": "Gnetum gnemon",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo3.jpg"
-    ]
-  },
-  "Open area 2ZC": {
-    "plot": "Open area 2ZC",
-    "staff": "GUI",
-    "plant": "Belimbing",
-    "datePlanted": "2026-01-09",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Culinary: Highly sour, it is used as a natural souring agent (like tamarind) in Asian curries, fish stews, and sambals. In Southeast Asia and the Philippines, the raw fruit is often dipped in rock salt or made into sweet jams and pickles.Traditional Medicine: The leaves, fruit, and flowers are used in folk medicine to treat coughs, high blood pressure, and skin conditions (like itchy rashes or mumps).",
-    "funFact": "Grows from the trunk: Unlike most fruits that hang from branches, belimbing fruits grow in heavy, clustered groups directly on the tree trunk and main branches.High productivity: A single tree can produce an astonishing 45 to 50 kg of fruit in a year.",
-    "botanical": "Averrhoa bilimbi ",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing3.jpg"
-    ]
-  },
-  "Open area 2ZD": {
-    "plot": "Open area 2ZD",
-    "staff": "Lye",
-    "plant": "Coffee",
-    "datePlanted": "2026-01-28",
-    "estHarvest": "2034-04-16",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Beverage production: Roasted and ground seeds are brewed into global beverage variants.Caffeine extraction: Isolates are utilized in pharmaceuticals, energy drinks, and supplements.",
-    "funFact": "Fruit origins: Coffee beans are actually seeds found inside bright red fruits called \"coffee cherries\".Goat discovery: Legend says 9th-century Ethiopian herders discovered coffee after seeing goats \"dance\" from eating the berries.",
-    "botanical": "Coffea arabica",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
-    ]
-  },
-  "Open area 3A": {
-    "plot": "Open area 3A",
-    "staff": "GUI",
-    "plant": "Moringa",
-    "datePlanted": "2026-03-17",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa3.jpg"
-    ]
-  },
-  "Open area 3B": {
-    "plot": "Open area 3B",
-    "staff": "GUI",
-    "plant": "Batoko plum",
-    "datePlanted": "2026-02-03",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum3.jpg"
-    ]
-  },
-  "Open area 3C": {
-    "plot": "Open area 3C",
-    "staff": "GUI",
-    "plant": "Cacao tree",
-    "datePlanted": "2026-02-26",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree3.jpg"
-    ]
-  },
-  "Open area 3D": {
-    "plot": "Open area 3D",
-    "staff": "GUI",
-    "plant": "Star apple",
-    "datePlanted": "2026-02-24",
-    "estHarvest": "",
-    "nextManure": "2034-05-14",
-    "nextWeeding": "2030-04-04",
-    "uses": "Fresh Eating: The fruit is typically eaten fresh; it is scooped out and best served chilled.",
-    "funFact": "The \"Star\" Pattern: When the fruit is sliced in half horizontally, the core and seeds create a beautiful, distinct star-like pattern.",
-    "botanical": "Chrysophyllum cainito",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple3.jpg"
-    ]
-  },
-  "Open area 3E": {
-    "plot": "Open area 3E",
-    "staff": "GUI",
-    "plant": "Mangosteen",
-    "datePlanted": "2026-02-26",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
-    ]
-  },
   "Open area 1A": {
     "plot": "Open area 1A",
     "staff": "Lye",
@@ -1595,6 +1000,601 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit3.jpg"
+    ]
+  },
+  "Open area 2A": {
+    "plot": "Open area 2A",
+    "staff": "Lye",
+    "plant": "Mulberry",
+    "datePlanted": "2026-03-23",
+    "estHarvest": "2034-06-09",
+    "nextManure": "2034-06-10",
+    "nextWeeding": "2030-05-01",
+    "uses": "Sericulture (Silk Production): White mulberry leaves serve as the primary, indispensable food source for silkworms.Culinary Arts: The sweet, tart fruits are eaten fresh or processed into jams, juices, wines, pies, and tarts.Traditional Medicine: Practitioners of Traditional Chinese Medicine use the root bark, leaves, and fruit to address coughs, fever, and blood sugar regulation.",
+    "funFact": "Not a True Berry: Botanically speaking, a mulberry is not a berry at all but a \"multiple fruit\" formed from a cluster of independent flowers.Super-Sonic Pollen: The flowers of the white mulberry tree can fire pollen at over half the speed of sound, making it one of the fastest movements in the plant kingdom.",
+    "botanical": "Morus",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
+    ]
+  },
+  "Open area 2B": {
+    "plot": "Open area 2B",
+    "staff": "Lye",
+    "plant": "Fukien tea",
+    "datePlanted": "2026-01-27",
+    "estHarvest": "2034-04-15",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Medicinal Infusions: In the Philippines, the leaves are widely boiled to create a medicinal tea used to treat coughs, diarrhea, colic, and dysentery",
+    "funFact": "Namesake Origins: It gets its name from the Fujian Province in southeastern China (often spelled Fukien in the past), where it has been grown for centuries and is mentioned in literature dating back to the Tang Dynasty.",
+    "botanical": "Carmona microphylla",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea3.jpg"
+    ]
+  },
+  "Open area 2C": {
+    "plot": "Open area 2C",
+    "staff": "Lye",
+    "plant": "Chinese violet",
+    "datePlanted": "2026-01-30",
+    "estHarvest": "2034-04-18",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Edible Greens: Highly nutritious and packed with protein and vitamins. The tender leaves are frequently boiled, stir-fried, or used as a nutrient-dense spinach substitute in soups, quiches, and omelettes. The flowers can be eaten raw in salads.",
+    "funFact": "Explosive Seed Pods: The plant produces seed pods that, when ripe and dry, split in half explosively to fling their seeds out into the surrounding area.It’s Not Actually Chinese: Despite its common name, the Chinese Violet is native to sub-Saharan Africa and India",
+    "botanical": "Asystasia gangetica ",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet3.jpg"
+    ]
+  },
+  "Open area 2D": {
+    "plot": "Open area 2D",
+    "staff": "Lye",
+    "plant": "Dayak onion",
+    "datePlanted": "2026-01-08",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Folk Medicine: Traditionally crushed, boiled, or dried to create herbal teas and poultices. It is empirically used to lower blood pressure, reduce cholesterol, manage diabetes, and heal wounds",
+    "funFact": "It’s Not Actually an Onion: Despite resembling shallots with its red skin and white rings, the Dayak onion belongs to the iris family (the same family as saffron) rather than the allium family.Evening Bloomers: The plant produces small, delicate five-petaled white or yellow flowers that bloom in the late afternoon and stay open for only a few hours.",
+    "botanical": "Eleutherine palmifolia",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion3.jpg"
+    ]
+  },
+  "Open area 2E": {
+    "plot": "Open area 2E",
+    "staff": "Lye",
+    "plant": "Surinam cherry",
+    "datePlanted": "2026-01-14",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Fresh Consumption: Eaten fresh out of hand when absolutely ripe (deep red or near-black) to avoid its bitter, resinous under-ripe tang.",
+    "funFact": "Folk Remedies: Teas made from the leaves are used as a folk treatment for stomachaches, colic, bronchitis, and heartburn.Blood Pressure: Traditional extracts have been studied for their natural antihypertensive properties.",
+    "botanical": "Eugenia uniflora L.",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry3.jpg"
+    ]
+  },
+  "Open area 2F": {
+    "plot": "Open area 2F",
+    "staff": "Lye",
+    "plant": "Lipstick tree",
+    "datePlanted": "2026-02-17",
+    "estHarvest": "2034-05-06",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "The tree is primarily valued for its bright red-orange seeds, which provide a versatile natural pigment called annatto.Natural Food Coloring: It is one of the world's most common natural dyes, used to give cheese (like Cheddar), butter, margarine, ice cream, and rice their yellow or orange hues.",
+    "funFact": "The Name Origin: The \"lipstick tree\" nickname comes from indigenous people in Central and South America using the seed pulp as a natural cosmetic and body paint for ceremonies.Ancient Sunscreen: The Mayans and Aztecs used the pigment not just for color, but as a natural sunscreen and insect repellent.",
+    "botanical": "Bixa orellana",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree3.jpg"
+    ]
+  },
+  "Open area 2G": {
+    "plot": "Open area 2G",
+    "staff": "Lye",
+    "plant": "Kaffir lime",
+    "datePlanted": "2026-01-30",
+    "estHarvest": "2026-10-27",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Used in drinks, marinades, and desserts",
+    "funFact": "Prevented scurvy in sailors; highly acidic fruit.",
+    "botanical": "Citrus × aurantiifolia",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime3.jpg"
+    ]
+  },
+  "Open area 2H": {
+    "plot": "Open area 2H",
+    "staff": "Lye",
+    "plant": "Rose cactus",
+    "datePlanted": "2026-01-26",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Traditional Medicine: In Southeast Asia (especially Malaysia and Singapore), the raw or boiled leaves are used in folk medicine to treat cancer, rheumatism, gastric pain, and ulcers.Edible Fruits & Leaves: The fleshy, top-shaped yellow fruits are edible (though quite sour) and can be used in chili pastes or cocktails. The leaves can also be eaten raw in small quantities or used to make tea",
+    "funFact": "A Cactus with Leaves: Unlike nearly all other cacti, the Rose Cactus does not drop its leaves; it retains large, glossy green leaves year-round.Ancient Ancestry: Because it retains true leaves, it is considered a \"primitive\" or non-succulent cactus. It is basically an evolutionary stepping stone between normal leafy shrubs and desert cacti!",
+    "botanical": "Leuenbergeria bleo",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus3.jpg"
+    ]
+  },
+  "Open area 2I": {
+    "plot": "Open area 2I",
+    "staff": "Lye",
+    "plant": "Spices",
+    "datePlanted": "2026-02-26",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "1 Turmeric,  2 Black Turmeric,  3 Shell Ginger,   4 Shampoo Ginger,   5 Mango Ginger,   6 Torch Ginger,   7 Blue Ginger",
+    "funFact": "1 Turmeric: Standard culinary spice used for vibrant yellow coloring in curries, anti-inflammatory supplements, and natural textiles dyes.  2 Black Turmeric: Rare medicinal root applied as a topical paste for sprains, snakebites, and cosmetic face masks.  3 Shell Ginger: Ornamental plant utilized for wrapping foods, brewing traditional herbal teas, and antioxidant skin care.  4 Shampoo Ginger: Sap from the flower cones serves as a natural, fragrant hair cleanser and scalp moisturizer.  5 Mango Ginger: Distinct raw-mango flavored rhizome ideal for fresh pickles, chutneys, and soothing digestive issues.   6 Torch Ginger: Edible pink flower buds highly prized as an aromatic ingredient in Southeast Asian salads, laksa, and curries.  7 Blue Ginger: Native Galangal variety primarily used to add a sharp, citrusy-earthy bite to Thai pastes and Indonesian dishes.",
+    "botanical": "Turmeric: Curcuma longa,  Black Turmeric: Curcuma caesia,  Shell Ginger: Alpinia zerumbet,  Shampoo Ginger: Zingiber zerumbet,  Mango Ginger: Curcuma amada,  Torch Ginger: Etlingera elatior,  Blue Ginger: Alpinia galanga",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices3.jpg"
+    ]
+  },
+  "Open area 2J": {
+    "plot": "Open area 2J",
+    "staff": "Lye",
+    "plant": "Bitter leaf",
+    "datePlanted": "2026-01-27",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary: The leaves are a staple leafy vegetable in many West and Central African cuisines (most famously in the Nigerian dish Ofe Onugbu). Because of their pungency, they are repeatedly squeezed and washed to remove excess bitterness before being added to stews.Traditional Medicine: The juice and leaf extracts are consumed as tonics or teas to alleviate malaria, control blood sugar in diabetics, and boost digestion.",
+    "funFact": "Domestic Applications: The strong, bitter woody stems are frequently broken down and used as natural \"chewing sticks\" to maintain dental hygiene and ward off mouth infections.",
+    "botanical": "Vernonia amygdalina ",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf3.jpg"
+    ]
+  },
+  "Open area 2K": {
+    "plot": "Open area 2K",
+    "staff": "Lye",
+    "plant": "Candle bush",
+    "datePlanted": "2026-01-30",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Skin Healing: It is widely known as the \"ringworm bush\". Crushed fresh leaves or sap contain chrysophanic acid, which naturally fights fungal infections like ringworm, athlete's foot, and eczema when applied topically.",
+    "funFact": "The candle bush gets its name because its unopened bright-yellow flower spikes resemble giant, glowing, waxy candles!",
+    "botanical": "Senna alata",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush3.jpg"
+    ]
+  },
+  "Open area 2L": {
+    "plot": "Open area 2L",
+    "staff": "Lye",
+    "plant": "True yam",
+    "datePlanted": "2026-03-05",
+    "estHarvest": "",
+    "nextManure": "2026-11-01",
+    "nextWeeding": "2026-07-03",
+    "uses": "Culinary: Tubers are a rich source of complex carbohydrates and are eaten baked, boiled, mashed, or pounded into fufu. Purple varieties (Dioscorea alata) are prized for making desserts and ice cream.Nutritional: They provide high levels of dietary fiber, vitamin C, potassium, and B-complex vitamins.Medicinal: Yam tubers contain a compound called diosgenin. This plant steroid is widely used in the pharmaceutical industry to synthesize steroidal hormones, including those used in birth control pills",
+    "funFact": "Not Sweet Potatoes! In the United States, orange-fleshed sweet potatoes are frequently mislabeled and sold as \"yams\". True yams are starchy with a bark-like, rough skin, whereas sweet potatoes are much sweeter and have a thin, smooth skin.",
+    "botanical": "Dioscorea alata",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/trueyam1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/trueyam2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/trueyam3.jpg"
+    ]
+  },
+  "Open area 2P": {
+    "plot": "Open area 2P",
+    "staff": "Lye",
+    "plant": "Indian camphorweed",
+    "datePlanted": "2026-01-14",
+    "estHarvest": "2034-04-02",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "This plant is a powerhouse in traditional medicine and regional cuisines across South and Southeast Asia:Medicinal Tea: The leaves are frequently brewed into a health-promoting tea, particularly in Thailand, to manage conditions like diabetes and rheumatism.",
+    "funFact": "VapoRub Scent: When its leaves are crushed, they release a powerful, medicinal odor similar to camphor or Vicks VapoRub, which gives the plant its name.Antioxidant Powerhouse: Research suggests that tea made from Pluchea indica leaves can have stronger antioxidant properties than even green tea (Camellia sinensis). Coastal Guardian: This plant thrives in harsh, salty environments like mangroves and salt marshes, playing a vital role in maintaining the ecological balance of coastal areas.Natural Insect Repellent: Because of its pungent chemical glands, the plant is naturally resistant to deer and is often used as a biological insect repellent.",
+    "botanical": "Pluchea indica",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed3.jpg"
+    ]
+  },
+  "openarea2Q": {
+    "plot": "openarea2Q",
+    "staff": "Lye",
+    "plant": "Bandicoot berry",
+    "datePlanted": "2026-02-04",
+    "estHarvest": "2028-10-31",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Traditionally, various parts of the plant are used in Ayurvedic and other traditional systems of medicine to treat skin complaints, diarrhea, vertigo, fever, and body aches.  The ripe, dark purple or black berries are edible and have a tart, pleasant taste. They are sometimes used in jams and jellies.",
+    "funFact": "The fruit is a favorite snack of the bandicoot, a small marsupial, which gives the plant its common name, Bandicoot Berry.",
+    "botanical": "Leea Indica",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry3.jpg"
+    ]
+  },
+  "Open area 2R": {
+    "plot": "Open area 2R",
+    "staff": "GUI",
+    "plant": "Jujube",
+    "datePlanted": "2026-02-28",
+    "estHarvest": "2028-11-24",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "When ripe, they are dark red or purple, crunchy, and refreshing, similar to an apple. Used in soups, stews, porridges, and as a filling for Chinese desserts like mooncakes and mochi.",
+    "funFact": "Jujube fruit , also known as red dates  is a highly nutritious, versatile fruit cultivated for over 4,000 years, primarily in Asia",
+    "botanical": "Ziziphus jujuba",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
+    ]
+  },
+  "Open area 2S": {
+    "plot": "Open area 2S",
+    "staff": "Lye",
+    "plant": "Betel leaf",
+    "datePlanted": "2026-03-30",
+    "estHarvest": "2026-08-27",
+    "nextManure": "2026-08-28",
+    "nextWeeding": "2026-06-13",
+    "uses": "Digestive Aid: Chewing fresh leaves after meals stimulates saliva and digestive juices. It helps reduce bloating and constipation.Oral Hygiene: Naturally antibacterial, the leaf helps combat oral pathogens that cause cavities, gum disease, and bad breath.Respiratory Relief: It has anti-inflammatory and expectorant properties. Applying a warm poultice to the chest or consuming the leaf juice with honey can help relieve coughs and chest congestion.Wound Healing: Applied topically as a crushed paste, it acts as an antiseptic to promote faster healing of small cuts and skin infections.",
+    "funFact": "Green Gold\": Because of its widespread daily consumption and numerous health benefits, it is sometimes referred to as the \"Green Gold\" of India.The Fourth Most Popular Drug: Betel chewing (wrapping the leaf with the areca/betel nut and slaked lime) is considered the fourth most popular psychoactive drug in the world, surpassed only by nicotine, alcohol, and caffeine.",
+    "botanical": "Piper betle",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf3.jpg"
+    ]
+  },
+  "Open area 2T": {
+    "plot": "Open area 2T",
+    "staff": "Lye",
+    "plant": "Asian broom grass",
+    "datePlanted": "2026-02-05",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass3.jpg"
+    ]
+  },
+  "Open area 2U": {
+    "plot": "Open area 2U",
+    "staff": "Lye",
+    "plant": "Prickly leea",
+    "datePlanted": "2026-03-12",
+    "estHarvest": "2034-05-29",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Traditional Medicine: The plant has a long history in Southeast Asian and Javanese traditional medicine. Leaves, twigs, and sap are often used in poultices to soothe fevers, heal wounds, treat headaches, and address bodily pain.",
+    "funFact": "Thorny All the Way: Unlike many other Leea species, L. angulata is fiercely protected by sharp, triangular prickles that cover not just its trunk and main branches, but its ultimate, tender branches as well.Grape Family Ties: It belongs to the Vitaceae family (the grape family). However, unlike its trailing or climbing grapevine cousins, it grows as a strong, upright, multi-stemmed shrub or tree.Critically Endangered in Singapore: If you are based in Punggol or elsewhere in Singapore, it might be very hard to spot. In local botany records, the plant is listed as Critically Endangered in the wild, with only a few pockets of adult individuals documented (such as around the Lower Seletar Reservoir).",
+    "botanical": "Leea angulata",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea3.jpg"
+    ]
+  },
+  "Open area 2V": {
+    "plot": "Open area 2V",
+    "staff": "Lye",
+    "plant": "Cowslip creeper",
+    "datePlanted": "2026-03-27",
+    "estHarvest": "2027-03-27",
+    "nextManure": "2027-03-28",
+    "nextWeeding": "2026-09-26",
+    "uses": "The flowers are a specialty ingredient in Thai, Vietnamese, and Filipino cuisine. They are commonly cooked into omelets, stir-fried with oyster sauce, or used in soups.",
+    "funFact": "The flowers emit a very strong, pleasant citrus-like fragrance, particularly during the evening. This oil is extracted to create perfumes and in floral, aromatic gardens. That is why its Chinese name is 夜来香",
+    "botanical": "Telosma cordata",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper3.jpg"
+    ]
+  },
+  "Open area 2W": {
+    "plot": "Open area 2W",
+    "staff": "Lye",
+    "plant": "Cashew",
+    "datePlanted": "2026-02-06",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary & Snacks: Eaten roasted or salted, and blended into pastes as the creamy base for Indian curries (like Korma)",
+    "funFact": "They Are Not True Nuts: Botanically, the cashew is actually a drupe (a seed that grows on the outside of a false fruit), rather than a traditional nut.A Poison Ivy Relative: The cashew tree is in the Anacardiaceae family, meaning it shares a botanical lineage with pistachios, mangoes, and toxic plants like poison ivy and poison oak",
+    "botanical": "Anacardium occidentale",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew3.jpg"
+    ]
+  },
+  "Open area 2M": {
+    "plot": "Open area 2M",
+    "staff": "Lye",
+    "plant": "Citronella",
+    "datePlanted": "2026-01-23",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Insect Repellent: The oil contains natural compounds (like citronellal, geraniol, and limonene) that mask human odors, effectively deterring mosquitoes and other biting bugs [1].Aromatherapy: Used in diffusers to create a calming, refreshing atmosphere and to help relieve mental fatigue.Skincare & Cosmetics: Diluted into soaps, lotions, and massage oils [2]. It has natural antifungal and antibacterial properties that help cleanse the skin.",
+    "funFact": "Not a single plant: People often assume citronella is a specific plant, but it is actually a tall, clumping grass similar to lemongrass",
+    "botanical": "Cymbopogon",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella3.jpg"
+    ]
+  },
+  "Open area 2N": {
+    "plot": "Open area 2N",
+    "staff": "Lye",
+    "plant": "Blue porterweed",
+    "datePlanted": "2026-02-19",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary: The mushroom-flavored flowers are a popular, quirky addition to fresh salads. The tough flower spikes can also be used as a seasoning in soups and stews much like a bay leaf.Traditional Medicine: Historically used by indigenous and folk healers as a \"cooling tonic\". Leaves are frequently steeped into teas or decoctions to help soothe gastrointestinal discomfort, clear respiratory issues, and promote relaxation",
+    "funFact": "It tastes like mushrooms: The tiny, delicate flowers can be eaten raw and have a surprisingly distinct, earthy, mushroom-like flavor.It has a beer connection: The common name \"porterweed\" comes from the dark, foamy, beer-like infusion that can be made from brewing its leaves.",
+    "botanical": "Stachytarpheta jamaicensis",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed3.jpg"
+    ]
+  },
+  "Open area 2O": {
+    "plot": "Open area 2O",
+    "staff": "Lye",
+    "plant": "Soursop",
+    "datePlanted": "2026-03-16",
+    "estHarvest": "2034-06-02",
+    "nextManure": "2034-06-03",
+    "nextWeeding": "2030-04-24",
+    "uses": "Culinary & Beverages: The soft, white flesh is blended into refreshing smoothies, juices, ice creams, and jams. It has a unique flavor often described as a mix of strawberry, pineapple, and citrus.Traditional Medicine: In many tropical regions, teas made from the leaves and bark are used to treat ailments like inflammation, fevers, and insomnia.v",
+    "funFact": "Electric Leaves: The leaves and roots of the soursop tree are known to contain chemical compounds (annonacins) that are highly toxic to certain pests. Studies have shown they can even disrupt the nervous systems of small insects.",
+    "botanical": "Annona muricata",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop3.jpg"
+    ]
+  },
+  "Open area 2X": {
+    "plot": "Open area 2X",
+    "staff": "GUI",
+    "plant": "Yellow star apple",
+    "datePlanted": "2026-03-24",
+    "estHarvest": "2034-06-10",
+    "nextManure": "2034-06-11",
+    "nextWeeding": "2030-05-02",
+    "uses": "Fresh Eating: The fruit is typically eaten fresh; it is scooped out and best served chilled.",
+    "funFact": "The \"Star\" Pattern: When the fruit is sliced in half horizontally, the core and seeds create a beautiful, distinct star-like pattern.",
+    "botanical": "Chrysophyllum cainito",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/yellowstarapple1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/yellowstarapple2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/yellowstarapple3.jpg"
+    ]
+  },
+  "Open area 2Y": {
+    "plot": "Open area 2Y",
+    "staff": "GUI",
+    "plant": "Star fruit",
+    "datePlanted": "2026-01-29",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Fresh Eating: Sliced raw and eaten fresh, often used as a garnish in salads, fruit platters, and cocktails.",
+    "funFact": "Dietary Precaution: People with kidney problems or chronic kidney disease should avoid star fruit National Kidney Foundation. The fruit contains a neurotoxin (carambotoxin) and high levels of oxalates that healthy kidneys easily filter out, but can be dangerous or cause severe hiccups, vomiting, and confusion in individuals with kidney dysfunction.",
+    "botanical": "Averrhoa carambola",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit3.jpg"
+    ]
+  },
+  "Open area 2Z": {
+    "plot": "Open area 2Z",
+    "staff": "GUI",
+    "plant": "Lemon",
+    "datePlanted": "2026-01-29",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary: Used to flavor baked goods, salads, and marinades, and to preserve jams. The fresh juice is also a staple for making lemonade and flavoring teas",
+    "funFact": "Glowing Spark: When the oils from a lemon peel are squeezed near an open flame, the compounds (specifically limonene) ignite to create a tiny spark, essentially functioning as a natural firework.",
+    "botanical": "Citrus limon",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon3.jpg"
+    ]
+  },
+  "Open area 2ZA": {
+    "plot": "Open area 2ZA",
+    "staff": "GUI",
+    "plant": "Buah long long",
+    "datePlanted": "2026-01-20",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong3.jpg"
+    ]
+  },
+  "Open area 2ZB": {
+    "plot": "Open area 2ZB",
+    "staff": "Lye",
+    "plant": "Melinjo",
+    "datePlanted": "2026-01-28",
+    "estHarvest": "2034-04-16",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary Snack (Emping): The mature seeds are ground into flour and deep-fried to create emping, a popular, slightly bitter Indonesian cracker.",
+    "funFact": "An Imposter \"Fruit\": Melinjo does not produce true fruits or flowers. It is a gymnosperm (related to pine trees), meaning its \"fruits\" are actually colorful, fleshy seed cones.",
+    "botanical": "Gnetum gnemon",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo3.jpg"
+    ]
+  },
+  "Open area 2ZC": {
+    "plot": "Open area 2ZC",
+    "staff": "GUI",
+    "plant": "Belimbing",
+    "datePlanted": "2026-01-09",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary: Highly sour, it is used as a natural souring agent (like tamarind) in Asian curries, fish stews, and sambals. In Southeast Asia and the Philippines, the raw fruit is often dipped in rock salt or made into sweet jams and pickles.Traditional Medicine: The leaves, fruit, and flowers are used in folk medicine to treat coughs, high blood pressure, and skin conditions (like itchy rashes or mumps).",
+    "funFact": "Grows from the trunk: Unlike most fruits that hang from branches, belimbing fruits grow in heavy, clustered groups directly on the tree trunk and main branches.High productivity: A single tree can produce an astonishing 45 to 50 kg of fruit in a year.",
+    "botanical": "Averrhoa bilimbi ",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing3.jpg"
+    ]
+  },
+  "Open area 2ZD": {
+    "plot": "Open area 2ZD",
+    "staff": "Lye",
+    "plant": "Coffee",
+    "datePlanted": "2026-01-28",
+    "estHarvest": "2034-04-16",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Beverage production: Roasted and ground seeds are brewed into global beverage variants.Caffeine extraction: Isolates are utilized in pharmaceuticals, energy drinks, and supplements.",
+    "funFact": "Fruit origins: Coffee beans are actually seeds found inside bright red fruits called \"coffee cherries\".Goat discovery: Legend says 9th-century Ethiopian herders discovered coffee after seeing goats \"dance\" from eating the berries.",
+    "botanical": "Coffea arabica",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
+    ]
+  },
+  "Open area 3A": {
+    "plot": "Open area 3A",
+    "staff": "GUI",
+    "plant": "Moringa",
+    "datePlanted": "2026-03-17",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa3.jpg"
+    ]
+  },
+  "Open area 3B": {
+    "plot": "Open area 3B",
+    "staff": "GUI",
+    "plant": "Batoko plum",
+    "datePlanted": "2026-02-03",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum3.jpg"
+    ]
+  },
+  "Open area 3C": {
+    "plot": "Open area 3C",
+    "staff": "GUI",
+    "plant": "Cacao tree",
+    "datePlanted": "2026-02-26",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree3.jpg"
+    ]
+  },
+  "Open area 3D": {
+    "plot": "Open area 3D",
+    "staff": "GUI",
+    "plant": "Star apple",
+    "datePlanted": "2026-02-24",
+    "estHarvest": "",
+    "nextManure": "2034-05-14",
+    "nextWeeding": "2030-04-04",
+    "uses": "Fresh Eating: The fruit is typically eaten fresh; it is scooped out and best served chilled.",
+    "funFact": "The \"Star\" Pattern: When the fruit is sliced in half horizontally, the core and seeds create a beautiful, distinct star-like pattern.",
+    "botanical": "Chrysophyllum cainito",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple3.jpg"
+    ]
+  },
+  "Open area 3E": {
+    "plot": "Open area 3E",
+    "staff": "GUI",
+    "plant": "Mangosteen",
+    "datePlanted": "2026-02-26",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
     ]
   }
 }
