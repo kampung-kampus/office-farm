@@ -1392,5 +1392,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/matico2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/matico3.jpg"
     ]
+  },
+  "Open area 1D": {
+    "plot": "Open area 1D",
+    "staff": "Lye",
+    "plant": "Santol",
+    "datePlanted": "2026-03-05",
+    "estHarvest": "2030-04-13",
+    "nextManure": "2030-04-14",
+    "nextWeeding": "2028-03-24",
+    "uses": "Culinary: The fruit rind and soft flesh are edible. Sweet varieties are eaten fresh (sometimes dipped in chili salt), while sour varieties are stewed, candied, or used as souring agents in dishes like Filipino sinigang or ginataang santol and Thai curries.",
+    "funFact": "The Toxic Seed Hazard: While the fluffy white pulp is delicious, the large seeds are toxic and must not be swallowed. Swallowing them whole has caused severe intestinal obstruction, occasionally requiring abdominal surgery.",
+    "botanical": "Sandoricum koetjape",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/santol1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/santol2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/santol3.jpg"
+    ]
   }
 }
