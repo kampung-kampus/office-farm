@@ -1545,5 +1545,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/hophead2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/hophead3.jpg"
     ]
+  },
+  "Open area 1M": {
+    "plot": "Open area 1M",
+    "staff": "GUI",
+    "plant": "Singapore holly",
+    "datePlanted": "2026-03-05",
+    "estHarvest": "2027-03-05",
+    "nextManure": "2027-03-06",
+    "nextWeeding": "2026-09-04",
+    "uses": "Ornamental Landscaping: Frequently planted as a low, formal hedge or small privacy screen in tropical and subtropical gardens.Bonsai Cultivation: Its small leaves, woody branches, and natural tolerance for heavy trimming make it a favorite choice for shaping into traditional bonsai.",
+    "funFact": "Not a True Holly: Its leaves look like holly with their spiny-toothed margins, which is where it gets its common name, but it belongs to an entirely different plant family.Edible Berries: The flowers (which range from white to pink) develop into edible berries, which can be eaten raw or cooked into jellies and tarts",
+    "botanical": "Malpighia coccigera",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/singaporeholly1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/singaporeholly2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/singaporeholly3.jpg"
+    ]
   }
 }
