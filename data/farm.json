@@ -1358,5 +1358,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/heliconiasexypink2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/heliconiasexypink3.jpg"
     ]
+  },
+  "Open area 1B": {
+    "plot": "Open area 1B",
+    "staff": "Lye",
+    "plant": "Red hot cat tail",
+    "datePlanted": "2026-04-22",
+    "estHarvest": "2027-04-22",
+    "nextManure": "2027-04-23",
+    "nextWeeding": "2026-10-22",
+    "uses": "Ornamental: A highly popular outdoor hedge or patio container plant in tropical and subtropical regions, and a coveted novelty houseplant in colder climates.",
+    "funFact": "Thomas Edison historically experimented with this plant alongside hundreds of others while trying to source a domestic alternative for natural rubber.",
+    "botanical": "Acalypha hispida",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/redhotcattail1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/redhotcattail2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/redhotcattail3.jpg"
+    ]
   }
 }
