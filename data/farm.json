@@ -1341,5 +1341,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
     ]
+  },
+  "Open area 1A": {
+    "plot": "Open area 1A",
+    "staff": "Lye",
+    "plant": "Heliconia sexy pink",
+    "datePlanted": "2026-05-06",
+    "estHarvest": "2026-05-06",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/heliconiasexypink1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/heliconiasexypink2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/heliconiasexypink3.jpg"
+    ]
   }
 }
