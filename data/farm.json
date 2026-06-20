@@ -1223,6 +1223,57 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/trueyam3.jpg"
     ]
   },
+  "Open area 2M": {
+    "plot": "Open area 2M",
+    "staff": "Lye",
+    "plant": "Citronella",
+    "datePlanted": "2026-01-23",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Insect Repellent: The oil contains natural compounds (like citronellal, geraniol, and limonene) that mask human odors, effectively deterring mosquitoes and other biting bugs [1].Aromatherapy: Used in diffusers to create a calming, refreshing atmosphere and to help relieve mental fatigue.Skincare & Cosmetics: Diluted into soaps, lotions, and massage oils [2]. It has natural antifungal and antibacterial properties that help cleanse the skin.",
+    "funFact": "Not a single plant: People often assume citronella is a specific plant, but it is actually a tall, clumping grass similar to lemongrass",
+    "botanical": "Cymbopogon",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella3.jpg"
+    ]
+  },
+  "Open area 2N": {
+    "plot": "Open area 2N",
+    "staff": "Lye",
+    "plant": "Blue porterweed",
+    "datePlanted": "2026-02-19",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary: The mushroom-flavored flowers are a popular, quirky addition to fresh salads. The tough flower spikes can also be used as a seasoning in soups and stews much like a bay leaf.Traditional Medicine: Historically used by indigenous and folk healers as a \"cooling tonic\". Leaves are frequently steeped into teas or decoctions to help soothe gastrointestinal discomfort, clear respiratory issues, and promote relaxation",
+    "funFact": "It tastes like mushrooms: The tiny, delicate flowers can be eaten raw and have a surprisingly distinct, earthy, mushroom-like flavor.It has a beer connection: The common name \"porterweed\" comes from the dark, foamy, beer-like infusion that can be made from brewing its leaves.",
+    "botanical": "Stachytarpheta jamaicensis",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed3.jpg"
+    ]
+  },
+  "Open area 2 O": {
+    "plot": "Open area 2 O",
+    "staff": "Lye",
+    "plant": "Soursop",
+    "datePlanted": "2026-03-16",
+    "estHarvest": "2034-06-02",
+    "nextManure": "2034-06-03",
+    "nextWeeding": "2030-04-24",
+    "uses": "Culinary & Beverages: The soft, white flesh is blended into refreshing smoothies, juices, ice creams, and jams. It has a unique flavor often described as a mix of strawberry, pineapple, and citrus.Traditional Medicine: In many tropical regions, teas made from the leaves and bark are used to treat ailments like inflammation, fevers, and insomnia.v",
+    "funFact": "Electric Leaves: The leaves and roots of the soursop tree are known to contain chemical compounds (annonacins) that are highly toxic to certain pests. Studies have shown they can even disrupt the nervous systems of small insects.",
+    "botanical": "Annona muricata",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop3.jpg"
+    ]
+  },
   "Open area 2P": {
     "plot": "Open area 2P",
     "staff": "Lye",
@@ -1240,8 +1291,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed3.jpg"
     ]
   },
-  "openarea2Q": {
-    "plot": "openarea2Q",
+  "Open area 2Q": {
+    "plot": "Open area 2Q",
     "staff": "Lye",
     "plant": "Bandicoot berry",
     "datePlanted": "2026-02-04",
@@ -1357,57 +1408,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew3.jpg"
-    ]
-  },
-  "Open area 2M": {
-    "plot": "Open area 2M",
-    "staff": "Lye",
-    "plant": "Citronella",
-    "datePlanted": "2026-01-23",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Insect Repellent: The oil contains natural compounds (like citronellal, geraniol, and limonene) that mask human odors, effectively deterring mosquitoes and other biting bugs [1].Aromatherapy: Used in diffusers to create a calming, refreshing atmosphere and to help relieve mental fatigue.Skincare & Cosmetics: Diluted into soaps, lotions, and massage oils [2]. It has natural antifungal and antibacterial properties that help cleanse the skin.",
-    "funFact": "Not a single plant: People often assume citronella is a specific plant, but it is actually a tall, clumping grass similar to lemongrass",
-    "botanical": "Cymbopogon",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella3.jpg"
-    ]
-  },
-  "Open area 2N": {
-    "plot": "Open area 2N",
-    "staff": "Lye",
-    "plant": "Blue porterweed",
-    "datePlanted": "2026-02-19",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Culinary: The mushroom-flavored flowers are a popular, quirky addition to fresh salads. The tough flower spikes can also be used as a seasoning in soups and stews much like a bay leaf.Traditional Medicine: Historically used by indigenous and folk healers as a \"cooling tonic\". Leaves are frequently steeped into teas or decoctions to help soothe gastrointestinal discomfort, clear respiratory issues, and promote relaxation",
-    "funFact": "It tastes like mushrooms: The tiny, delicate flowers can be eaten raw and have a surprisingly distinct, earthy, mushroom-like flavor.It has a beer connection: The common name \"porterweed\" comes from the dark, foamy, beer-like infusion that can be made from brewing its leaves.",
-    "botanical": "Stachytarpheta jamaicensis",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed3.jpg"
-    ]
-  },
-  "Open area 2O": {
-    "plot": "Open area 2O",
-    "staff": "Lye",
-    "plant": "Soursop",
-    "datePlanted": "2026-03-16",
-    "estHarvest": "2034-06-02",
-    "nextManure": "2034-06-03",
-    "nextWeeding": "2030-04-24",
-    "uses": "Culinary & Beverages: The soft, white flesh is blended into refreshing smoothies, juices, ice creams, and jams. It has a unique flavor often described as a mix of strawberry, pineapple, and citrus.Traditional Medicine: In many tropical regions, teas made from the leaves and bark are used to treat ailments like inflammation, fevers, and insomnia.v",
-    "funFact": "Electric Leaves: The leaves and roots of the soursop tree are known to contain chemical compounds (annonacins) that are highly toxic to certain pests. Studies have shown they can even disrupt the nervous systems of small insects.",
-    "botanical": "Annona muricata",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop3.jpg"
     ]
   },
   "Open area 2X": {
