@@ -1579,5 +1579,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni3.jpg"
     ]
+  },
+  "Open area 1 O": {
+    "plot": "Open area 1 O",
+    "staff": "Lye",
+    "plant": "Eggfruit",
+    "datePlanted": "2025-04-10",
+    "estHarvest": "2028-01-05",
+    "nextManure": "2028-01-06",
+    "nextWeeding": "2026-08-23",
+    "uses": "Culinary: The fruit is high in starch and eaten fresh (often with a dash of salt, pepper, or lemon juice). It is incredibly popular for blending into rich, custardy milkshakes, smoothies, and ice creams, or for baking into pies and cupcakes.",
+    "funFact": "During World War II, British pilots and crewmen training in the Bahamas developed a massive fondness for the fruit and bought out all the supply they could find in local markets.",
+    "botanical": "Pouteria campechiana",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit3.jpg"
+    ]
   }
 }
