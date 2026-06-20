@@ -1443,5 +1443,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jambu2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jambu3.jpg"
     ]
+  },
+  "Open area 1F": {
+    "plot": "Open area 1F",
+    "staff": "Lye",
+    "plant": "Jambu",
+    "datePlanted": "2025-11-26",
+    "estHarvest": "2027-04-10",
+    "nextManure": "2027-04-11",
+    "nextWeeding": "2026-08-03",
+    "uses": "Fresh Consumption: Eaten raw as a thirst-quenching snack, often sprinkled with salt or chili, or sliced into tropical fruit salads",
+    "funFact": "Super Hydrating: The fruit consists of up to 91% water, making it an excellent natural hydrator during hot weather",
+    "botanical": "Syzygium aqueum",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jambu1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jambu2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jambu3.jpg"
+    ]
   }
 }
