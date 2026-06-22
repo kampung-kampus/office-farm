@@ -919,19 +919,19 @@
   },
   "Open area 1J": {
     "plot": "Open area 1J",
-    "staff": "GUI",
-    "plant": "Lemon myrtle",
-    "datePlanted": "2026-03-06",
-    "estHarvest": "2027-10-27",
-    "nextManure": "2027-10-28",
-    "nextWeeding": "2026-12-31",
-    "uses": "Culinary: Often called the \"Queen of the Lemon Herbs,\" it is used to flavor teas, baked goods, sauces, and dressings. It is a popular, acid-free substitute for lemon fruit in milk-based desserts like cheesecake or ice cream, as it won't curdle the milk.Health & Wellness: The leaves are rich in citral (the compound giving it the lemon scent), offering natural antiseptic, antifungal, and antibacterial properties.",
-    "funFact": "More lemony than lemon: It contains up to 98% citral, making its natural citrus fragrance and flavor significantly more potent than actual lemons.",
-    "botanical": "Backhousia citriodora ",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemonmyrtle1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemonmyrtle2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemonmyrtle3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "Open area 1K": {
