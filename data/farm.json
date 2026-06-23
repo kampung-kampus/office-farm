@@ -240,18 +240,18 @@
   "B03": {
     "plot": "B03",
     "staff": "Mrs Tang",
-    "plant": "Mustard greens (芥菜)",
-    "datePlanted": "2026-06-09",
-    "estHarvest": "2026-07-14",
-    "nextManure": "2026-07-15",
-    "nextWeeding": "2026-06-27",
-    "uses": "Stir-fried or pickled leafy vegetable.",
-    "funFact": "Pungent flavor; seeds used for mustard condiment.",
-    "botanical": "Brassica juncea",
+    "plant": "Kale (羽衣甘蓝)",
+    "datePlanted": "2026-05-30",
+    "estHarvest": "2026-07-29",
+    "nextManure": "2026-07-30",
+    "nextWeeding": "2026-06-29",
+    "uses": "Leafy green, eaten raw, sautéed, or juiced.",
+    "funFact": "Ancient crop; extremely nutrient-dense “superfood.”",
+    "botanical": "Brassica oleracea var. acephala",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale3.jpg"
     ]
   },
   "B04": {
