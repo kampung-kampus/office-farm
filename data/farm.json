@@ -664,19 +664,19 @@
   },
   "C12": {
     "plot": "C12",
-    "staff": "Mrs Tang",
-    "plant": "Kai lan",
-    "datePlanted": "2026-05-26",
-    "estHarvest": "2026-07-25",
-    "nextManure": "2026-06-26",
-    "nextWeeding": "2026-05-26",
-    "uses": "Stir-fried or steamed vegetable",
-    "funFact": "Thick stems and leaves; flowers edible too.",
-    "botanical": "Brassica oleracea",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "C13": {
