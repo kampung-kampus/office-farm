@@ -154,19 +154,19 @@
   },
   "A10": {
     "plot": "A10",
-    "staff": "Mrs Tang",
-    "plant": "Mustard greens (芥菜)",
-    "datePlanted": "2026-06-11",
-    "estHarvest": "2026-07-16",
-    "nextManure": "2026-07-17",
-    "nextWeeding": "2026-06-29",
-    "uses": "Stir-fried or pickled leafy vegetable.",
-    "funFact": "Pungent flavor; seeds used for mustard condiment.",
-    "botanical": "Brassica juncea",
+    "staff": "Zh",
+    "plant": "Lettuce (生菜)",
+    "datePlanted": "2026-06-16",
+    "estHarvest": "2026-08-05",
+    "nextManure": "2026-08-06",
+    "nextWeeding": "2026-07-11",
+    "uses": "Eaten raw in salads or wraps.",
+    "funFact": "Ancient Roman delicacy; grows quickly.",
+    "botanical": "Lactuca sativa",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce3.jpg"
     ]
   },
   "A11": {
