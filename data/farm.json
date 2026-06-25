@@ -137,19 +137,19 @@
   },
   "A09": {
     "plot": "A09",
-    "staff": "Mrs Tang",
-    "plant": "Malabar spinach (潺菜)",
-    "datePlanted": "2026-05-30",
-    "estHarvest": "2026-07-19",
-    "nextManure": "2026-07-16",
-    "nextWeeding": "2026-06-11",
-    "uses": "Cooking: The leaves and tender stems are  sauteed, steamed, or boiled. Thickening Agent: Because of its mucilaginous  often added to soups and stews to naturally thicken the liquid.",
-    "funFact": "Not a True Spinach. It contains over three times more Vitamin C than regular spinach and more Vitamin A than kale.",
-    "botanical": "Talinum fruticosum. Note that Basella alba (Malabar spinach) is sometimes also referred to as Ceylon spinach.",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/malabarspinach1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/malabarspinach2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/malabarspinach3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A10": {
