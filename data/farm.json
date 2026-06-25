@@ -494,19 +494,19 @@
   },
   "C02": {
     "plot": "C02",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
+    "staff": "Zh",
+    "plant": "Xiao bai cai (小白菜)",
+    "datePlanted": "2026-06-23",
+    "estHarvest": "2026-06-23",
     "nextManure": "",
     "nextWeeding": "",
     "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai3.jpg"
     ]
   },
   "C03": {
