@@ -239,19 +239,19 @@
   },
   "B03": {
     "plot": "B03",
-    "staff": "Mrs Tang",
-    "plant": "Kale (羽衣甘蓝)",
-    "datePlanted": "2026-05-30",
-    "estHarvest": "2026-07-29",
-    "nextManure": "2026-07-30",
-    "nextWeeding": "2026-06-29",
-    "uses": "Leafy green, eaten raw, sautéed, or juiced.",
-    "funFact": "Ancient crop; extremely nutrient-dense “superfood.”",
-    "botanical": "Brassica oleracea var. acephala",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B04": {
