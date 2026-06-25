@@ -154,19 +154,19 @@
   },
   "A10": {
     "plot": "A10",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Zh",
+    "plant": "Lettuce (生菜)",
+    "datePlanted": "2026-06-16",
+    "estHarvest": "2026-08-05",
+    "nextManure": "2026-08-06",
+    "nextWeeding": "2026-07-11",
+    "uses": "Eaten raw in salads or wraps.",
+    "funFact": "Ancient Roman delicacy; grows quickly.",
+    "botanical": "Lactuca sativa",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce3.jpg"
     ]
   },
   "A11": {
@@ -205,19 +205,19 @@
   },
   "B01": {
     "plot": "B01",
-    "staff": "Mrs Tang",
-    "plant": "Kai lan (芥蓝)",
-    "datePlanted": "2026-06-18",
-    "estHarvest": "2026-08-17",
-    "nextManure": "2026-08-18",
-    "nextWeeding": "2026-07-18",
-    "uses": "Stir-fried or steamed vegetable",
-    "funFact": "Thick stems and leaves; flowers edible too.",
-    "botanical": "Brassica oleracea",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B02": {
