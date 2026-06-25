@@ -273,13 +273,13 @@
   },
   "B05": {
     "plot": "B05",
-    "staff": "Mrs Tang",
+    "staff": "",
     "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "Empty plots",
+    "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
