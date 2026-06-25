@@ -613,19 +613,19 @@
   },
   "C09": {
     "plot": "C09",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Zh",
+    "plant": "Mustard greens (芥菜)",
+    "datePlanted": "2026-06-16",
+    "estHarvest": "2026-07-21",
+    "nextManure": "2026-07-22",
+    "nextWeeding": "2026-07-04",
+    "uses": "Stir-fried or pickled leafy vegetable.",
+    "funFact": "Pungent flavor; seeds used for mustard condiment.",
+    "botanical": "Brassica juncea",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens3.jpg"
     ]
   },
   "C10": {
