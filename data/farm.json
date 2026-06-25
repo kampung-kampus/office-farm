@@ -562,19 +562,19 @@
   },
   "C06": {
     "plot": "C06",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Zh",
+    "plant": "Choy sum (菜心)",
+    "datePlanted": "2026-06-16",
+    "estHarvest": "2026-07-16",
+    "nextManure": "2026-07-17",
+    "nextWeeding": "2026-07-01",
+    "uses": "Stir-fried or steamed leafy vegetable.",
+    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
+    "botanical": "Brassica rapa",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
   "C07": {
@@ -596,19 +596,19 @@
   },
   "C08": {
     "plot": "C08",
-    "staff": "Mrs Tang",
-    "plant": "Basil",
-    "datePlanted": "2026-02-17",
-    "estHarvest": "2026-04-08",
-    "nextManure": "2026-04-15",
-    "nextWeeding": "2026-02-17",
-    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
-    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
-    "botanical": "Ocimum basilicum",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "C09": {
