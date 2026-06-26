@@ -868,19 +868,19 @@
   },
   "Open area 1G": {
     "plot": "Open area 1G",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "GUI",
+    "plant": "Henna",
+    "datePlanted": "2026-03-10",
+    "estHarvest": "2026-11-05",
+    "nextManure": "2026-11-06",
+    "nextWeeding": "2026-07-08",
+    "uses": "Cosmetics & Body Art: The leaves are dried, milled, and mixed with water to create a paste (mehndi) used for temporary skin tattoos and permanent hair dyeing",
+    "funFact": "Ancient Egyptians used henna paste to stain the hair and fingernails of mummies before burial. The pigment was believed to offer protection and symbolize purification for the afterlife.",
+    "botanical": "Lawsonia inermis",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna3.jpg"
     ]
   },
   "Open area 1H": {
