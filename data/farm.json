@@ -868,6 +868,23 @@
   },
   "Open area 1G": {
     "plot": "Open area 1G",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
+  },
+  "Open area 1H": {
+    "plot": "Open area 1H",
     "staff": "Lye",
     "plant": "Chinese rain bell",
     "datePlanted": "2026-03-26",
@@ -883,8 +900,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineserainbell3.jpg"
     ]
   },
-  "Open area 1H": {
-    "plot": "Open area 1H",
+  "Open area 1 I": {
+    "plot": "Open area 1 I",
     "staff": "Lye",
     "plant": "Promegranate",
     "datePlanted": "2026-02-27",
@@ -900,8 +917,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate3.jpg"
     ]
   },
-  "Open area 1I": {
-    "plot": "Open area 1I",
+  "Open area 1J": {
+    "plot": "Open area 1J",
     "staff": "Lye",
     "plant": "Rambutan",
     "datePlanted": "2026-02-27",
@@ -917,8 +934,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan3.jpg"
     ]
   },
-  "Open area 1J": {
-    "plot": "Open area 1J",
+  "Open area 1K": {
+    "plot": "Open area 1K",
     "staff": "GUI",
     "plant": "Lemon myrtle",
     "datePlanted": "2026-03-06",
@@ -934,8 +951,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemonmyrtle3.jpg"
     ]
   },
-  "Open area 1K": {
-    "plot": "Open area 1K",
+  "Open area 1L": {
+    "plot": "Open area 1L",
     "staff": "Lye",
     "plant": "Chiku",
     "datePlanted": "2025-06-18",
@@ -951,8 +968,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku3.jpg"
     ]
   },
-  "Open area 1L": {
-    "plot": "Open area 1L",
+  "Open area 1M": {
+    "plot": "Open area 1M",
     "staff": "Lye",
     "plant": "Hophead",
     "datePlanted": "2025-07-23",
@@ -968,8 +985,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/hophead3.jpg"
     ]
   },
-  "Open area 1M": {
-    "plot": "Open area 1M",
+  "Open area 1N": {
+    "plot": "Open area 1N",
     "staff": "GUI",
     "plant": "Singapore holly",
     "datePlanted": "2026-03-05",
@@ -985,8 +1002,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/singaporeholly3.jpg"
     ]
   },
-  "Open area 1N": {
-    "plot": "Open area 1N",
+  "Open area 1 O": {
+    "plot": "Open area 1 O",
     "staff": "GUI",
     "plant": "Noni",
     "datePlanted": "2025-07-10",
@@ -1002,21 +1019,21 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni3.jpg"
     ]
   },
-  "Open area 1 O": {
-    "plot": "Open area 1 O",
+  "Open area 1P": {
+    "plot": "Open area 1P",
     "staff": "Lye",
-    "plant": "Eggfruit",
-    "datePlanted": "2025-04-10",
-    "estHarvest": "2028-01-05",
-    "nextManure": "2028-01-06",
-    "nextWeeding": "2026-08-23",
-    "uses": "Culinary: The fruit is high in starch and eaten fresh (often with a dash of salt, pepper, or lemon juice). It is incredibly popular for blending into rich, custardy milkshakes, smoothies, and ice creams, or for baking into pies and cupcakes.",
-    "funFact": "During World War II, British pilots and crewmen training in the Bahamas developed a massive fondness for the fruit and bought out all the supply they could find in local markets.",
-    "botanical": "Pouteria campechiana",
+    "plant": "Henna",
+    "datePlanted": "2026-03-26",
+    "estHarvest": "2026-11-21",
+    "nextManure": "2026-11-22",
+    "nextWeeding": "2026-07-24",
+    "uses": "Cosmetics & Body Art: The leaves are dried, milled, and mixed with water to create a paste (mehndi) used for temporary skin tattoos and permanent hair dyeing",
+    "funFact": "Ancient Egyptians used henna paste to stain the hair and fingernails of mummies before burial. The pigment was believed to offer protection and symbolize purification for the afterlife.",
+    "botanical": "Lawsonia inermis",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna3.jpg"
     ]
   },
   "Open area 2A": {
@@ -1629,23 +1646,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
-    ]
-  },
-  "Open area 1P": {
-    "plot": "Open area 1P",
-    "staff": "Lye",
-    "plant": "Henna",
-    "datePlanted": "2026-03-26",
-    "estHarvest": "2026-11-21",
-    "nextManure": "2026-11-22",
-    "nextWeeding": "2026-07-24",
-    "uses": "Cosmetics & Body Art: The leaves are dried, milled, and mixed with water to create a paste (mehndi) used for temporary skin tattoos and permanent hair dyeing",
-    "funFact": "Ancient Egyptians used henna paste to stain the hair and fingernails of mummies before burial. The pigment was believed to offer protection and symbolize purification for the afterlife.",
-    "botanical": "Lawsonia inermis",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna3.jpg"
     ]
   }
 }
