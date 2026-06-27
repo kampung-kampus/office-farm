@@ -495,7 +495,7 @@
   "C02": {
     "plot": "C02",
     "staff": "Zh",
-    "plant": "Xiao bai cai (小白菜)",
+    "plant": "Bok choy (白菜)",
     "datePlanted": "2026-06-23",
     "estHarvest": "2026-06-23",
     "nextManure": "",
@@ -504,15 +504,15 @@
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy3.jpg"
     ]
   },
   "C03": {
     "plot": "C03",
     "staff": "Zh",
-    "plant": "Xiao bai cai (小白菜)",
+    "plant": "Bok choy (白菜)",
     "datePlanted": "2026-06-23",
     "estHarvest": "2026-06-23",
     "nextManure": "",
@@ -521,15 +521,15 @@
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy3.jpg"
     ]
   },
   "C04": {
     "plot": "C04",
     "staff": "Zh",
-    "plant": "Xiao bai cai (小白菜)",
+    "plant": "Bok choy (白菜)",
     "datePlanted": "2026-06-16",
     "estHarvest": "2026-06-16",
     "nextManure": "",
@@ -538,9 +538,9 @@
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy3.jpg"
     ]
   },
   "C05": {
@@ -631,7 +631,7 @@
   "C10": {
     "plot": "C10",
     "staff": "Zh",
-    "plant": "Xiao bai cai (小白菜)",
+    "plant": "Bok choy (白菜)",
     "datePlanted": "2026-06-16",
     "estHarvest": "2026-06-16",
     "nextManure": "",
@@ -640,9 +640,9 @@
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/xiaobaicai3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy3.jpg"
     ]
   },
   "C11": {
