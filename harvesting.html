@@ -91,7 +91,7 @@ async function loadData(){
 
     let html = "<table>";
 
-    data.forEach((row,index)=>{
+   /* data.forEach((row,index)=>{
 
         html += "<tr>";
 
@@ -107,7 +107,30 @@ async function loadData(){
 
         html += "</tr>";
 
-    });
+    });*/
+
+data.forEach((row, rowIndex) => {
+  if (rowIndex === 0) return; // skip header
+  const tr = document.createElement("tr");
+  row.forEach((cell, colIndex) => {
+    const td = document.createElement("td");
+    // Column 0 is Timestamp — format it for Singapore time
+    if (colIndex === 0) {
+      td.innerText = formatTimestamp(cell);
+    } else {
+      td.innerText = cell;
+    }
+    tr.appendChild(td);
+  });
+  tbody.appendChild(tr);
+});
+
+
+
+
+
+
+    
 
     html += "</table>";
 
