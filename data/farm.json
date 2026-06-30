@@ -1174,19 +1174,19 @@
   },
   "Open area 2 I": {
     "plot": "Open area 2 I",
-    "staff": "Lye",
-    "plant": "Cat's whiskers",
+    "staff": "",
+    "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "Herbal Tea: The leaves are traditionally harvested, dried, and brewed into an herbal beverage commonly known as Java Tea.Kidney & Urinary Health: Valued in Southeast Asian traditional medicine for its diuretic properties. It is widely used to promote kidney function, help flush out toxins, and support urinary tract health",
-    "funFact": "Herbal Tea: The leaves are traditionally harvested, dried, and brewed into an herbal beverage commonly known as Java Tea.Kidney & Urinary Health: Valued in Southeast Asian traditional medicine for its diuretic properties. It is widely used to promote kidney function, help flush out toxins, and support urinary tract health",
-    "botanical": "Orthosiphon aristatus",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cat'swhiskers1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cat'swhiskers2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cat'swhiskers3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "Open area 2J": {
