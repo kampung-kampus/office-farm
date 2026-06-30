@@ -3,42 +3,33 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <title>Harvesting Data</title>
-
 <style>
-
 body{
     font-family:Arial;
     margin:20px;
     background:#f4f6f8;
 }
-
 h2{
     color:#2c7a3f;
 }
-
 table{
     width:100%;
     border-collapse:collapse;
     background:white;
 }
-
 th{
     background:#2c7a3f;
     color:white;
     padding:10px;
 }
-
 td{
     border:1px solid #ddd;
     padding:8px;
 }
-
 tr:nth-child(even){
     background:#f9f9f9;
 }
-
 .backBtn{
     display:inline-block;
     margin-bottom:15px;
@@ -48,77 +39,67 @@ tr:nth-child(even){
     text-decoration:none;
     border-radius:5px;
 }
-
 @media only screen and (max-width:600px){
-
 table{
     font-size:12px;
 }
-
 th,td{
     padding:6px;
 }
-
 }
-
 </style>
-
 </head>
-
 <body>
-
 <a href="dashboard.html" class="backBtn">
 ← Back to Dashboard
 </a>
-
 <h2>🌾 Harvesting Data</h2>
-
 <div id="tableContainer">
 Loading...
 </div>
-
 <script>
-
-
  const URL =
 "https://script.google.com/macros/s/AKfycbxr6PFE1bSHyX4dxjAV0S3yr_t6gH4x8rJqySQMfhjyFfht-dtfKdeCdoF0Qy_Cs7xaUQ/exec?type=harvesting";
 
+function formatTimestamp(raw) {
+    if (!raw) return "";
+    const date = new Date(raw);
+    if (isNaN(date)) return raw; // if not a valid date, show as-is
+
+    return date.toLocaleString("en-SG", {
+        timeZone: "Asia/Singapore",
+        day:    "2-digit",
+        month:  "short",
+        year:   "numeric",
+        hour:   "2-digit",
+        minute: "2-digit",
+        hour12: true
+    });
+}
+
 async function loadData(){
-
     const response = await fetch(URL);
-
     const data = await response.json();
-
     let html = "<table>";
-
     data.forEach((row,index)=>{
-
         html += "<tr>";
-
-        row.slice(0,6).forEach(cell=>{
-
+        row.slice(0,6).forEach((cell,colIndex)=>{
             if(index===0){
                 html += "<th>"+cell+"</th>";
             }else{
-                html += "<td>"+cell+"</td>";
+                // Column 0 is Timestamp — format it for Singapore time
+                const displayValue = (colIndex === 0) ? formatTimestamp(cell) : cell;
+                html += "<td>"+displayValue+"</td>";
             }
-
         });
-
         html += "</tr>";
-
     });
-
    
-
     html += "</table>";
-
     document.getElementById("tableContainer").innerHTML = html;
 }
-
 loadData();
-
 </script>
-
 </body>
 </html>
+
