@@ -1174,19 +1174,19 @@
   },
   "Open area 2 I": {
     "plot": "Open area 2 I",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
+    "staff": "Lye",
+    "plant": "Cat whisker",
+    "datePlanted": "2026-01-30",
+    "estHarvest": "2026-01-30",
     "nextManure": "",
     "nextWeeding": "",
     "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/catwhisker1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/catwhisker2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/catwhisker3.jpg"
     ]
   },
   "Open area 2J": {
