@@ -358,19 +358,19 @@
   },
   "B10": {
     "plot": "B10",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Mrs Tang",
+    "plant": "Chilli (辣椒)",
+    "datePlanted": "2026-05-05",
+    "estHarvest": "2026-08-13",
+    "nextManure": "2026-08-14",
+    "nextWeeding": "2026-06-24",
+    "uses": "Adds spice to dishes, sauces, and pickles.",
+    "funFact": "Tiny but extremely hot; boosts metabolism.",
+    "botanical": "Capsicum frutescens",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chilli3.jpg"
     ]
   },
   "B11": {
