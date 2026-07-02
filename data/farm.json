@@ -834,19 +834,19 @@
   },
   "Open area 1E": {
     "plot": "Open area 1E",
-    "staff": "Lye",
-    "plant": "Chinese chaste tree",
-    "datePlanted": "2026-03-03",
-    "estHarvest": "2026-03-03",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
     "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chinesechastetree1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chinesechastetree2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chinesechastetree3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "Open area 1F": {
