@@ -834,19 +834,19 @@
   },
   "Open area 1E": {
     "plot": "Open area 1E",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Lye",
+    "plant": "Chinese chaste tree",
+    "datePlanted": "2025-06-26",
+    "estHarvest": "2028-03-22",
+    "nextManure": "2028-03-23",
+    "nextWeeding": "2026-11-08",
+    "uses": "Medicinal Applications: The leaves are widely used in poultices and decoctions to treat joint pain, rheumatism, and sprains. In Traditional Chinese Medicine (TCM) and Ayurveda, extracts are used to address colds, headaches, skin conditions, and respiratory issues.",
+    "funFact": "The name \"chaste tree\" stems from the ancient Greek and medieval belief that potions made from the plant acted as an anaphrodisiac. Historically, monks were said to chew the leaves or sleep on beds of the plant to help maintain their vows of celibacy, leading to its alternative nickname, \"Monk's pepper\"",
+    "botanical": "Vitex trifolia L",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chinesechastetree1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chinesechastetree2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chinesechastetree3.jpg"
     ]
   },
   "Open area 1F": {
