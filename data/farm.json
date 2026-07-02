@@ -919,19 +919,19 @@
   },
   "Open area 1J": {
     "plot": "Open area 1J",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Lye",
+    "plant": "Rambutan",
+    "datePlanted": "2026-01-27",
+    "estHarvest": "2030-03-07",
+    "nextManure": "2030-03-08",
+    "nextWeeding": "2028-02-16",
+    "uses": "Culinary: The translucent, sweet-tart aril is primarily consumed fresh, but it is also used in fruit salads, jams, jellies, and desserts.Industrial & Cooking: The seeds are rich in fats and oils used in soap manufacturing, candle making, and cooking oil. The roasted seeds are also eaten as a snack in some cultures",
+    "funFact": "The Origin of the Name: The word rambutan comes from the Malay-Indonesian word rambut, which translates to \"hair\". This perfectly describes the fruit's unique, hairy-looking exterior.",
+    "botanical": "Nephelium lappaceum L.",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan3.jpg"
     ]
   },
   "Open area 1K": {
@@ -953,19 +953,19 @@
   },
   "Open area 1L": {
     "plot": "Open area 1L",
-    "staff": "Lye",
-    "plant": "Chiku",
-    "datePlanted": "2025-06-18",
-    "estHarvest": "2025-06-18",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "Fruit consumption: Eaten fresh, blended into milkshakes, or used in desserts like mousses. It is rich in calories, dietary fiber, and vitamins A and B.Latex harvesting: The bark and all parts of the tree exude a milky, gummy sap called chicle. This was the original, primary base for commercial chewing gum and was historically chewed by the Aztecs",
-    "funFact": "Chiku fruits are notorious for their sticky latex content when unripe, which creates an astringent, gummy texture. As the fruit ripens, the latex dissipates, leaving a flavor that has been described as a delicious combination of pear, brown sugar, and cinnamon.",
-    "botanical": "Manilkara zapota",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "Open area 1M": {
