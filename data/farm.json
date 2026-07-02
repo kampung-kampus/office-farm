@@ -953,19 +953,19 @@
   },
   "Open area 1L": {
     "plot": "Open area 1L",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Lye",
+    "plant": "Chiku (人心果)",
+    "datePlanted": "2026-01-06",
+    "estHarvest": "2030-02-14",
+    "nextManure": "2030-02-15",
+    "nextWeeding": "2028-01-26",
+    "uses": "Fruit consumption: Eaten fresh, blended into milkshakes, or used in desserts like mousses. It is rich in calories, dietary fiber, and vitamins A and B.Latex harvesting: The bark and all parts of the tree exude a milky, gummy sap called chicle. This was the original, primary base for commercial chewing gum and was historically chewed by the Aztecs",
+    "funFact": "Chiku fruits are notorious for their sticky latex content when unripe, which creates an astringent, gummy texture. As the fruit ripens, the latex dissipates, leaving a flavor that has been described as a delicious combination of pear, brown sugar, and cinnamon.",
+    "botanical": "Manilkara zapota",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku3.jpg"
     ]
   },
   "Open area 1M": {
