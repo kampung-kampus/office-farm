@@ -766,19 +766,19 @@
   },
   "Open area 1A": {
     "plot": "Open area 1A",
-    "staff": "Lye",
-    "plant": "Heliconia sexy pink",
-    "datePlanted": "2026-05-06",
-    "estHarvest": "2026-05-06",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
     "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/heliconiasexypink1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/heliconiasexypink2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/heliconiasexypink3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "Open area 1B": {
