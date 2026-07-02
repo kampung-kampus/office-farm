@@ -970,19 +970,19 @@
   },
   "Open area 1M": {
     "plot": "Open area 1M",
-    "staff": "Lye",
-    "plant": "Hophead",
-    "datePlanted": "2025-07-23",
-    "estHarvest": "2025-12-20",
-    "nextManure": "2025-12-21",
-    "nextWeeding": "2025-10-06",
-    "uses": "Medicinal & Folk Remedies: In traditional medicine throughout Southeast Asia, fresh leaves are crushed to ease inflammation, dermatitis, and insect or snake bites. Decoctions and poultices are also applied to minor skin irritations and cold sores.",
-    "funFact": "The plant’s Latin specific epithet, lupulina, means \"wolf.\" It was given this name because its dense, overlapping flower bracts resemble the unrelated European hop vine (Humulus lupulus). ",
-    "botanical": "Barleria lupulina Lindl.",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/hophead1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/hophead2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/hophead3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "Open area 1N": {
