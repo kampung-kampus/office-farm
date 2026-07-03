@@ -800,19 +800,19 @@
   },
   "Open area 1C": {
     "plot": "Open area 1C",
-    "staff": "Lye",
-    "plant": "Matico",
-    "datePlanted": "2026-03-31",
-    "estHarvest": "2026-07-09",
-    "nextManure": "2026-07-10",
-    "nextWeeding": "2026-05-20",
-    "uses": "Wound Healing: Often called the \"soldier's herb,\" the leaves are applied topically to minor wounds, insect bites, and ulcers to stop bleeding and ward off infections",
-    "funFact": "According to legend, the plant gets its name from a wounded 19th-century Spanish soldier named Matico. After learning from local Indigenous tribes in Peru that applying the plant's leaves to his battle wounds stopped the bleeding, the herb quickly gained the nickname soldier's herb",
-    "botanical": "Piper aduncum",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/matico1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/matico2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/matico3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "Open area 1D": {
