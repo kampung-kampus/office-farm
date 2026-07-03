@@ -1004,19 +1004,19 @@
   },
   "Open area 1 O": {
     "plot": "Open area 1 O",
-    "staff": "GUI",
-    "plant": "Noni",
-    "datePlanted": "2025-07-10",
-    "estHarvest": "2026-07-10",
-    "nextManure": "2026-07-11",
-    "nextWeeding": "2026-01-09",
-    "uses": "Noni Juice: The ripened, fermented fruit is pressed into juice, heavily marketed globally as a nutrient-dense dietary supplement and antioxidant booster.Traditional Medicine: For over 2,000 years across Polynesia and Southeast Asia, different parts of the plant were used to treat gastrointestinal distress, infections, pain, and skin inflammation.Natural Dyes: The bark contains a red pigment, and roots yield a bright yellow pigment historically used to dye fabrics and paper.",
-    "funFact": "Strong Odor: As the fruit ripens, it emits a foul, pungent smell resembling strong, stinky cheese or vomit, giving it the nickname \"cheese fruit\" or \"vomit fruit\".Survival Food: Because the tree thrives in harsh coastal sands, volcanic terrain, and drought conditions, it is historically known as \"starvation fruit\" used by islanders during periods of famine",
-    "botanical": "Morinda citrifolia",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "Open area 1P": {
