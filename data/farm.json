@@ -767,7 +767,7 @@
   "Open area 1A": {
     "plot": "Open area 1A",
     "staff": "Lye",
-    "plant": "Heliconia sexy pink",
+    "plant": "Heliconia sexy pink (红垂蝎尾蕉)",
     "datePlanted": "2026-01-29",
     "estHarvest": "2028-10-25",
     "nextManure": "2028-10-26",
@@ -784,7 +784,7 @@
   "Open area 1B": {
     "plot": "Open area 1B",
     "staff": "Lye",
-    "plant": "Red hot cat tail",
+    "plant": "Red hot cat tail (红猫尾)",
     "datePlanted": "2026-04-22",
     "estHarvest": "2027-04-22",
     "nextManure": "2027-04-23",
@@ -801,7 +801,7 @@
   "Open area 1C": {
     "plot": "Open area 1C",
     "staff": "Lye",
-    "plant": "Matico",
+    "plant": "Matico ( 狭叶胡椒)",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
@@ -818,7 +818,7 @@
   "Open area 1D": {
     "plot": "Open area 1D",
     "staff": "Lye",
-    "plant": "Santol",
+    "plant": "Santol (山陀儿)",
     "datePlanted": "2026-03-05",
     "estHarvest": "2030-04-13",
     "nextManure": "2030-04-14",
@@ -835,7 +835,7 @@
   "Open area 1E": {
     "plot": "Open area 1E",
     "staff": "Lye",
-    "plant": "Chinese chaste tree",
+    "plant": "Chinese chaste tree (牡荆 )",
     "datePlanted": "2025-06-26",
     "estHarvest": "2028-03-22",
     "nextManure": "2028-03-23",
@@ -852,7 +852,7 @@
   "Open area 1F": {
     "plot": "Open area 1F",
     "staff": "Lye",
-    "plant": "Jambu",
+    "plant": "Jambu (莲雾)",
     "datePlanted": "2025-11-26",
     "estHarvest": "2027-04-10",
     "nextManure": "2027-04-11",
@@ -869,7 +869,7 @@
   "Open area 1G": {
     "plot": "Open area 1G",
     "staff": "GUI",
-    "plant": "Henna",
+    "plant": "Henna (散沫花)",
     "datePlanted": "2026-03-10",
     "estHarvest": "2026-11-05",
     "nextManure": "2026-11-06",
@@ -886,7 +886,7 @@
   "Open area 1H": {
     "plot": "Open area 1H",
     "staff": "Lye",
-    "plant": "Chinese rain bell",
+    "plant": "Chinese rain bell (南板蓝根)",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
@@ -903,7 +903,7 @@
   "Open area 1 I": {
     "plot": "Open area 1 I",
     "staff": "Lye",
-    "plant": "Promegranate",
+    "plant": "Promegranate (石榴)",
     "datePlanted": "2026-02-27",
     "estHarvest": "2028-11-23",
     "nextManure": "2028-11-24",
@@ -920,7 +920,7 @@
   "Open area 1J": {
     "plot": "Open area 1J",
     "staff": "Lye",
-    "plant": "Rambutan",
+    "plant": "Rambutan (红毛丹)",
     "datePlanted": "2026-01-27",
     "estHarvest": "2030-03-07",
     "nextManure": "2030-03-08",
@@ -937,7 +937,7 @@
   "Open area 1K": {
     "plot": "Open area 1K",
     "staff": "GUI",
-    "plant": "Lemon myrtle",
+    "plant": "Lemon myrtle (柠檬香桃)",
     "datePlanted": "2026-03-06",
     "estHarvest": "2027-10-27",
     "nextManure": "2027-10-28",
@@ -971,7 +971,7 @@
   "Open area 1M": {
     "plot": "Open area 1M",
     "staff": "Lye",
-    "plant": "Hophead",
+    "plant": "Hophead (花叶假杜鹃)",
     "datePlanted": "2026-01-30",
     "estHarvest": "2028-10-26",
     "nextManure": "2028-10-27",
@@ -988,7 +988,7 @@
   "Open area 1N": {
     "plot": "Open area 1N",
     "staff": "GUI",
-    "plant": "Singapore holly",
+    "plant": "Singapore holly (满天星 )",
     "datePlanted": "2026-03-05",
     "estHarvest": "2027-03-05",
     "nextManure": "2027-03-06",
@@ -1005,7 +1005,7 @@
   "Open area 1 O": {
     "plot": "Open area 1 O",
     "staff": "Lye",
-    "plant": "Noni",
+    "plant": "Noni (诺丽果)",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
@@ -1022,18 +1022,18 @@
   "Open area 1P": {
     "plot": "Open area 1P",
     "staff": "Lye",
-    "plant": "Henna",
-    "datePlanted": "2026-03-26",
-    "estHarvest": "2026-11-21",
-    "nextManure": "2026-11-22",
-    "nextWeeding": "2026-07-24",
-    "uses": "Cosmetics & Body Art: The leaves are dried, milled, and mixed with water to create a paste (mehndi) used for temporary skin tattoos and permanent hair dyeing",
-    "funFact": "Ancient Egyptians used henna paste to stain the hair and fingernails of mummies before burial. The pigment was believed to offer protection and symbolize purification for the afterlife.",
-    "botanical": "Lawsonia inermis",
+    "plant": "Eggfruit (蛋黄果 )",
+    "datePlanted": "2025-04-10",
+    "estHarvest": "2028-01-05",
+    "nextManure": "2028-01-06",
+    "nextWeeding": "2026-08-23",
+    "uses": "Culinary: The fruit is high in starch and eaten fresh (often with a dash of salt, pepper, or lemon juice). It is incredibly popular for blending into rich, custardy milkshakes, smoothies, and ice creams, or for baking into pies and cupcakes.",
+    "funFact": "During World War II, British pilots and crewmen training in the Bahamas developed a massive fondness for the fruit and bought out all the supply they could find in local markets.",
+    "botanical": "Pouteria campechiana",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit3.jpg"
     ]
   },
   "Open area 2A": {
@@ -1566,7 +1566,7 @@
   "Open area 3A": {
     "plot": "Open area 3A",
     "staff": "GUI",
-    "plant": "Moringa",
+    "plant": "Moringa (辣木)",
     "datePlanted": "2026-03-17",
     "estHarvest": "",
     "nextManure": "",
@@ -1583,7 +1583,7 @@
   "Open area 3B": {
     "plot": "Open area 3B",
     "staff": "GUI",
-    "plant": "Batoko plum",
+    "plant": "Batoko plum (罗比梅)",
     "datePlanted": "2026-02-03",
     "estHarvest": "",
     "nextManure": "",
@@ -1600,7 +1600,7 @@
   "Open area 3C": {
     "plot": "Open area 3C",
     "staff": "GUI",
-    "plant": "Cacao tree",
+    "plant": "Cacao tree ( 可可树)",
     "datePlanted": "2026-02-26",
     "estHarvest": "",
     "nextManure": "",
@@ -1617,7 +1617,7 @@
   "Open area 3D": {
     "plot": "Open area 3D",
     "staff": "GUI",
-    "plant": "Star apple",
+    "plant": "Star apple (牛奶果)",
     "datePlanted": "2026-02-24",
     "estHarvest": "",
     "nextManure": "2034-05-14",
@@ -1634,7 +1634,7 @@
   "Open area 3E": {
     "plot": "Open area 3E",
     "staff": "GUI",
-    "plant": "Mangosteen",
+    "plant": "Mangosteen (山竹)",
     "datePlanted": "2026-02-26",
     "estHarvest": "",
     "nextManure": "",
