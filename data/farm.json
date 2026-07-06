@@ -747,25 +747,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
     ]
   },
-  "Map of open area": {
-    "plot": "Map of open area",
-    "staff": "Lye",
-    "plant": "Map of open area",
-    "datePlanted": "2026-06-17",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mapofopenarea1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mapofopenarea2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mapofopenarea3.jpg"
-    ]
-  },
-  "Open area 1A": {
-    "plot": "Open area 1A",
+  "L1 A": {
+    "plot": "L1 A",
     "staff": "Lye",
     "plant": "Heliconia sexy pink (红垂蝎尾蕉)",
     "datePlanted": "2026-01-29",
@@ -781,8 +764,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/heliconiasexypink3.jpg"
     ]
   },
-  "Open area 1B": {
-    "plot": "Open area 1B",
+  "L1 B": {
+    "plot": "L1 B",
     "staff": "Lye",
     "plant": "Red hot cat tail (红猫尾)",
     "datePlanted": "2026-04-22",
@@ -798,8 +781,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/redhotcattail3.jpg"
     ]
   },
-  "Open area 1C": {
-    "plot": "Open area 1C",
+  "L1 C": {
+    "plot": "L1 C",
     "staff": "Lye",
     "plant": "Matico ( 狭叶胡椒)",
     "datePlanted": "",
@@ -815,8 +798,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/matico3.jpg"
     ]
   },
-  "Open area 1D": {
-    "plot": "Open area 1D",
+  "L1 D": {
+    "plot": "L1 D",
     "staff": "Lye",
     "plant": "Santol (山陀儿)",
     "datePlanted": "2026-03-05",
@@ -832,8 +815,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/santol3.jpg"
     ]
   },
-  "Open area 1E": {
-    "plot": "Open area 1E",
+  "L1 E": {
+    "plot": "L1 E",
     "staff": "Lye",
     "plant": "Chinese chaste tree (牡荆 )",
     "datePlanted": "2025-06-26",
@@ -849,8 +832,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chinesechastetree3.jpg"
     ]
   },
-  "Open area 1F": {
-    "plot": "Open area 1F",
+  "L1 F": {
+    "plot": "L1 F",
     "staff": "Lye",
     "plant": "Jambu (莲雾)",
     "datePlanted": "2025-11-26",
@@ -866,8 +849,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jambu3.jpg"
     ]
   },
-  "Open area 1G": {
-    "plot": "Open area 1G",
+  "L1 G": {
+    "plot": "L1 G",
     "staff": "GUI",
     "plant": "Henna (散沫花)",
     "datePlanted": "2026-03-10",
@@ -883,8 +866,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/henna3.jpg"
     ]
   },
-  "Open area 1H": {
-    "plot": "Open area 1H",
+  "L1 H": {
+    "plot": "L1 H",
     "staff": "Lye",
     "plant": "Chinese rain bell (南板蓝根)",
     "datePlanted": "",
@@ -900,8 +883,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineserainbell3.jpg"
     ]
   },
-  "Open area 1 I": {
-    "plot": "Open area 1 I",
+  "L1  I": {
+    "plot": "L1  I",
     "staff": "Lye",
     "plant": "Promegranate (石榴)",
     "datePlanted": "2026-02-27",
@@ -917,8 +900,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate3.jpg"
     ]
   },
-  "Open area 1J": {
-    "plot": "Open area 1J",
+  "L1 J": {
+    "plot": "L1 J",
     "staff": "Lye",
     "plant": "Rambutan (红毛丹)",
     "datePlanted": "2026-01-27",
@@ -934,8 +917,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rambutan3.jpg"
     ]
   },
-  "Open area 1K": {
-    "plot": "Open area 1K",
+  "L1 K": {
+    "plot": "L1 K",
     "staff": "GUI",
     "plant": "Lemon myrtle (柠檬香桃)",
     "datePlanted": "2026-03-06",
@@ -951,8 +934,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemonmyrtle3.jpg"
     ]
   },
-  "Open area 1L": {
-    "plot": "Open area 1L",
+  "L1 L": {
+    "plot": "L1 L",
     "staff": "Lye",
     "plant": "Chiku (人心果)",
     "datePlanted": "2026-01-06",
@@ -968,8 +951,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chiku3.jpg"
     ]
   },
-  "Open area 1M": {
-    "plot": "Open area 1M",
+  "L1 M": {
+    "plot": "L1 M",
     "staff": "Lye",
     "plant": "Hophead (花叶假杜鹃)",
     "datePlanted": "2026-01-30",
@@ -985,8 +968,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/hophead3.jpg"
     ]
   },
-  "Open area 1N": {
-    "plot": "Open area 1N",
+  "L1 N": {
+    "plot": "L1 N",
     "staff": "GUI",
     "plant": "Singapore holly (满天星 )",
     "datePlanted": "2026-03-05",
@@ -1002,8 +985,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/singaporeholly3.jpg"
     ]
   },
-  "Open area 1 O": {
-    "plot": "Open area 1 O",
+  "L 1 O": {
+    "plot": "L 1 O",
     "staff": "Lye",
     "plant": "Noni (诺丽果)",
     "datePlanted": "",
@@ -1019,8 +1002,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni3.jpg"
     ]
   },
-  "Open area 1P": {
-    "plot": "Open area 1P",
+  "L1 P": {
+    "plot": "L1 P",
     "staff": "Lye",
     "plant": "Eggfruit (蛋黄果 )",
     "datePlanted": "2025-04-10",
@@ -1036,8 +1019,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit3.jpg"
     ]
   },
-  "Open area 2A": {
-    "plot": "Open area 2A",
+  "L8 A": {
+    "plot": "L8 A",
     "staff": "Lye",
     "plant": "Mulberry",
     "datePlanted": "2026-03-23",
@@ -1053,8 +1036,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
     ]
   },
-  "Open area 2B": {
-    "plot": "Open area 2B",
+  "L8 B": {
+    "plot": "L8 B",
     "staff": "Lye",
     "plant": "Fukien tea",
     "datePlanted": "2026-01-27",
@@ -1070,8 +1053,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fukientea3.jpg"
     ]
   },
-  "Open area 2C": {
-    "plot": "Open area 2C",
+  "L8 C": {
+    "plot": "L8 C",
     "staff": "Lye",
     "plant": "Chinese violet",
     "datePlanted": "2026-01-30",
@@ -1087,8 +1070,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineseviolet3.jpg"
     ]
   },
-  "Open area 2D": {
-    "plot": "Open area 2D",
+  "L8 D": {
+    "plot": "L8 D",
     "staff": "Lye",
     "plant": "Dayak onion",
     "datePlanted": "2026-01-08",
@@ -1104,8 +1087,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/dayakonion3.jpg"
     ]
   },
-  "Open area 2E": {
-    "plot": "Open area 2E",
+  "L8 E": {
+    "plot": "L8 E",
     "staff": "Lye",
     "plant": "Surinam cherry",
     "datePlanted": "2026-01-14",
@@ -1121,8 +1104,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/surinamcherry3.jpg"
     ]
   },
-  "Open area 2F": {
-    "plot": "Open area 2F",
+  "L8 F": {
+    "plot": "L8 F",
     "staff": "Lye",
     "plant": "Lipstick tree",
     "datePlanted": "2026-02-17",
@@ -1138,8 +1121,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lipsticktree3.jpg"
     ]
   },
-  "Open area 2G": {
-    "plot": "Open area 2G",
+  "L8 G": {
+    "plot": "L8 G",
     "staff": "Lye",
     "plant": "Kaffir lime",
     "datePlanted": "2026-01-30",
@@ -1155,8 +1138,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kaffirlime3.jpg"
     ]
   },
-  "Open area 2H": {
-    "plot": "Open area 2H",
+  "L8 H": {
+    "plot": "L8 H",
     "staff": "Lye",
     "plant": "Rose cactus",
     "datePlanted": "2026-01-26",
@@ -1172,8 +1155,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/rosecactus3.jpg"
     ]
   },
-  "Open area 2 I": {
-    "plot": "Open area 2 I",
+  "L8 I": {
+    "plot": "L8 I",
     "staff": "Lye",
     "plant": "Cat whisker",
     "datePlanted": "2025-04-16",
@@ -1189,8 +1172,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/catwhisker3.jpg"
     ]
   },
-  "Open area 2J": {
-    "plot": "Open area 2J",
+  "L8 J": {
+    "plot": "L8 J",
     "staff": "Lye",
     "plant": "Spices",
     "datePlanted": "2026-02-26",
@@ -1206,8 +1189,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/spices3.jpg"
     ]
   },
-  "Open area 2K": {
-    "plot": "Open area 2K",
+  "L8 K": {
+    "plot": "L8 K",
     "staff": "Lye",
     "plant": "Bitter leaf",
     "datePlanted": "2026-01-27",
@@ -1223,8 +1206,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bitterleaf3.jpg"
     ]
   },
-  "Open area 2L": {
-    "plot": "Open area 2L",
+  "L8 L": {
+    "plot": "L8 L",
     "staff": "Lye",
     "plant": "Candle bush",
     "datePlanted": "2026-01-30",
@@ -1240,8 +1223,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/candlebush3.jpg"
     ]
   },
-  "Open area 2M": {
-    "plot": "Open area 2M",
+  "L8 M": {
+    "plot": "L8 M",
     "staff": "Lye",
     "plant": "True yam",
     "datePlanted": "",
@@ -1257,8 +1240,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/trueyam3.jpg"
     ]
   },
-  "Open area 2N": {
-    "plot": "Open area 2N",
+  "L8 N": {
+    "plot": "L8 N",
     "staff": "Lye",
     "plant": "Citronella",
     "datePlanted": "2026-01-23",
@@ -1274,8 +1257,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella3.jpg"
     ]
   },
-  "Open area 2 O": {
-    "plot": "Open area 2 O",
+  "L8  O": {
+    "plot": "L8  O",
     "staff": "Lye",
     "plant": "Blue porterweed",
     "datePlanted": "2026-02-19",
@@ -1291,8 +1274,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed3.jpg"
     ]
   },
-  "Open area 2P": {
-    "plot": "Open area 2P",
+  "L8 P": {
+    "plot": "L8 P",
     "staff": "Lye",
     "plant": "Soursop",
     "datePlanted": "2026-03-16",
@@ -1308,8 +1291,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/soursop3.jpg"
     ]
   },
-  "Open area 2Q": {
-    "plot": "Open area 2Q",
+  "L8 Q": {
+    "plot": "L8 Q",
     "staff": "Lye",
     "plant": "Indian camphorweed",
     "datePlanted": "2026-01-14",
@@ -1325,8 +1308,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indiancamphorweed3.jpg"
     ]
   },
-  "Open area 2R": {
-    "plot": "Open area 2R",
+  "L8 R": {
+    "plot": "L8 R",
     "staff": "Lye",
     "plant": "Bandicoot berry",
     "datePlanted": "2026-02-04",
@@ -1342,8 +1325,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bandicootberry3.jpg"
     ]
   },
-  "Open area 2S": {
-    "plot": "Open area 2S",
+  "L8 S": {
+    "plot": "L8 S",
     "staff": "GUI",
     "plant": "Jujube",
     "datePlanted": "2026-02-28",
@@ -1359,8 +1342,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jujube3.jpg"
     ]
   },
-  "Open area 2T": {
-    "plot": "Open area 2T",
+  "L8 T": {
+    "plot": "L8 T",
     "staff": "Lye",
     "plant": "Betel leaf",
     "datePlanted": "",
@@ -1376,8 +1359,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/betelleaf3.jpg"
     ]
   },
-  "Open area 2U": {
-    "plot": "Open area 2U",
+  "L8 U": {
+    "plot": "L8 U",
     "staff": "Lye",
     "plant": "Asian broom grass",
     "datePlanted": "2026-02-05",
@@ -1393,8 +1376,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/asianbroomgrass3.jpg"
     ]
   },
-  "Open area 2V": {
-    "plot": "Open area 2V",
+  "L8 V": {
+    "plot": "L8 V",
     "staff": "Lye",
     "plant": "Prickly leea",
     "datePlanted": "2026-03-12",
@@ -1410,8 +1393,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pricklyleea3.jpg"
     ]
   },
-  "Open area 2W": {
-    "plot": "Open area 2W",
+  "L8 W": {
+    "plot": "L8 W",
     "staff": "Lye",
     "plant": "Cowslip creeper",
     "datePlanted": "2026-03-27",
@@ -1427,8 +1410,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cowslipcreeper3.jpg"
     ]
   },
-  "Open area 2X": {
-    "plot": "Open area 2X",
+  "L8 X": {
+    "plot": "L8 X",
     "staff": "Lye",
     "plant": "Cashew",
     "datePlanted": "2026-02-06",
@@ -1444,8 +1427,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cashew3.jpg"
     ]
   },
-  "Open area 2Y": {
-    "plot": "Open area 2Y",
+  "L8 Y": {
+    "plot": "L8 Y",
     "staff": "GUI",
     "plant": "Yellow star apple",
     "datePlanted": "2026-03-24",
@@ -1461,8 +1444,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/yellowstarapple3.jpg"
     ]
   },
-  "Open area 2Z": {
-    "plot": "Open area 2Z",
+  "L8 Z": {
+    "plot": "L8 Z",
     "staff": "GUI",
     "plant": "Star fruit",
     "datePlanted": "2026-01-29",
@@ -1478,8 +1461,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starfruit3.jpg"
     ]
   },
-  "Open area 2ZA": {
-    "plot": "Open area 2ZA",
+  "L8 ZA": {
+    "plot": "L8 ZA",
     "staff": "GUI",
     "plant": "Lemon",
     "datePlanted": "2026-01-29",
@@ -1495,8 +1478,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lemon3.jpg"
     ]
   },
-  "Open area 2ZB": {
-    "plot": "Open area 2ZB",
+  "L8 ZB": {
+    "plot": "L8 ZB",
     "staff": "GUI",
     "plant": "Buah long long",
     "datePlanted": "2026-01-20",
@@ -1512,8 +1495,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/buahlonglong3.jpg"
     ]
   },
-  "Open area 2ZC": {
-    "plot": "Open area 2ZC",
+  "L8 ZC": {
+    "plot": "L8 ZC",
     "staff": "Lye",
     "plant": "Melinjo",
     "datePlanted": "2026-01-28",
@@ -1529,8 +1512,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/melinjo3.jpg"
     ]
   },
-  "Open area 2ZD": {
-    "plot": "Open area 2ZD",
+  "L8 ZD": {
+    "plot": "L8 ZD",
     "staff": "GUI",
     "plant": "Belimbing",
     "datePlanted": "2026-01-09",
@@ -1546,8 +1529,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/belimbing3.jpg"
     ]
   },
-  "Open area 2ZE": {
-    "plot": "Open area 2ZE",
+  "L8 ZE": {
+    "plot": "L8 ZE",
     "staff": "Lye",
     "plant": "Coffee",
     "datePlanted": "2026-01-28",
@@ -1563,8 +1546,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
     ]
   },
-  "Open area 3A": {
-    "plot": "Open area 3A",
+  "L14 A": {
+    "plot": "L14 A",
     "staff": "GUI",
     "plant": "Moringa (辣木)",
     "datePlanted": "2026-03-17",
@@ -1580,8 +1563,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa3.jpg"
     ]
   },
-  "Open area 3B": {
-    "plot": "Open area 3B",
+  "L14 B": {
+    "plot": "L14 B",
     "staff": "GUI",
     "plant": "Batoko plum (罗比梅)",
     "datePlanted": "2026-02-03",
@@ -1597,8 +1580,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum3.jpg"
     ]
   },
-  "Open area 3C": {
-    "plot": "Open area 3C",
+  "L14 C": {
+    "plot": "L14 C",
     "staff": "GUI",
     "plant": "Cacao tree ( 可可树)",
     "datePlanted": "2026-02-26",
@@ -1614,8 +1597,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree3.jpg"
     ]
   },
-  "Open area 3D": {
-    "plot": "Open area 3D",
+  "L14 D": {
+    "plot": "L14 D",
     "staff": "GUI",
     "plant": "Star apple (牛奶果)",
     "datePlanted": "2026-02-24",
@@ -1631,8 +1614,8 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple3.jpg"
     ]
   },
-  "Open area 3E": {
-    "plot": "Open area 3E",
+  "L14 E": {
+    "plot": "L14 E",
     "staff": "GUI",
     "plant": "Mangosteen (山竹)",
     "datePlanted": "2026-02-26",
