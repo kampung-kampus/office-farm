@@ -1647,5 +1647,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
+  },
+  "Zc": {
+    "plot": "Zc",
+    "staff": "Lye",
+    "plant": "Fish mint",
+    "datePlanted": "2026-07-01",
+    "estHarvest": "2026-07-31",
+    "nextManure": "2026-08-01",
+    "nextWeeding": "2026-07-16",
+    "uses": "Use for vietnamese  cooking",
+    "funFact": "fishy taste",
+    "botanical": "Houttuynia cordata",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fishmint1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fishmint2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/fishmint3.jpg"
+    ]
   }
 }
