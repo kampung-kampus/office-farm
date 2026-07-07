@@ -1633,19 +1633,19 @@
   },
   "Ab": {
     "plot": "Ab",
-    "staff": "Lye",
-    "plant": "Apple",
-    "datePlanted": "2026-04-16",
-    "estHarvest": "2029-01-10",
-    "nextManure": "2029-01-11",
-    "nextWeeding": "2027-08-29",
-    "uses": "Use in cooking and traditional medicine. The most common way to enjoy it is raw; the fruit is typically sliced in half and the soft pulp scooped out with a spoon.",
-    "funFact": "A tropical fruit prized for its sweet, creamy, custard-like pulp",
-    "botanical": "Annona squamosa L",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/apple1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/apple2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/apple3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   }
 }
