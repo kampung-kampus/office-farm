@@ -270,7 +270,7 @@ function getStatus(data) {
   if (harvestDiff <= 0)  return { text: "Harvest Ready",      class: "ready",   priority: 1 };
   if (manureDiff  <= 0)  return { text: "Ready for Manuring", class: "soon",    priority: 2 };
   if (manureDiff  <= 3)  return { text: "Manuring Soon",      class: "soon",    priority: 3 };
-  if (weedDiff    <= 0)  return { text: "Weeding Needed",     class: "weeding", priority: 4 };
+  if (weedDiff    <= 1)  return { text: "Weeding Needed",     class: "weeding", priority: 4 };
 
   return { text: "No Action Needed", class: "growing", priority: 5 };
 }
