@@ -1647,5 +1647,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
+  },
+  "Az with date": {
+    "plot": "Az with date",
+    "staff": "Lye",
+    "plant": "Empty (空)",
+    "datePlanted": "2026-06-10",
+    "estHarvest": "2026-06-11",
+    "nextManure": "2026-06-12",
+    "nextWeeding": "2026-06-11",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
   }
 }
