@@ -582,9 +582,9 @@
     "staff": "Mrs Tang",
     "plant": "Laksa leaf",
     "datePlanted": "2026-01-05",
-    "estHarvest": "2026-03-16",
-    "nextManure": "2026-07-16",
-    "nextWeeding": "2026-03-25",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
     "uses": "Flavoring herb for laksa and soups.",
     "funFact": "Use in Vietnam by monks to lower libido",
     "botanical": "Persicaria odorata",
@@ -753,8 +753,8 @@
     "plant": "Heliconia sexy pink (红垂蝎尾蕉)",
     "datePlanted": "2026-01-29",
     "estHarvest": "",
-    "nextManure": "2028-10-26",
-    "nextWeeding": "2027-06-13",
+    "nextManure": "",
+    "nextWeeding": "",
     "uses": "Landscaping: Used to create lush, tropical privacy screens, borders, or dramatic focal points in gardens.Floral Arrangements: The waxy, hanging bracts are highly prized for professional and home floral arrangements, boasting a vase life of up to 14 days.Wildlife Attraction: The nectar inside the flowers serves as a vital food source for sunbirds.Feng Shui: In tropical design and landscaping, it is sometimes utilized to promote energetic harmony and professional growth",
     "funFact": "It's a Banana Cousin: It belongs to the Heliconiaceae family and features large, paddle-shaped leaves closely related to bananas and birds-of-paradise.",
     "botanical": "Heliconia chartacea Sexy Pink",
@@ -1629,23 +1629,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
-    ]
-  },
-  "zb": {
-    "plot": "zb",
-    "staff": "Lye",
-    "plant": "Choy sum (菜心)",
-    "datePlanted": "2026-07-03",
-    "estHarvest": "2026-08-02",
-    "nextManure": "2026-08-03",
-    "nextWeeding": "2026-07-18",
-    "uses": "Stir-fried or steamed leafy vegetable.",
-    "funFact": "Popular in Cantonese cuisine; flowers are edible too.",
-    "botanical": "Brassica rapa",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/choysum3.jpg"
     ]
   },
   "Zc": {
