@@ -1,489 +1,97 @@
-<!--<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Map of the Farm — Office Farm</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
-  <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    :root {
-      --green-deep: #0f1f0f; --green-dark: #1a2e1a; --green-accent: #4a7c2f;
-      --green-light: #7ab648; --gold: #c8a84b; --cream: #f5f0e8;
-    }
-    html, body { height: 100%; font-family: 'DM Sans', sans-serif; background: var(--green-deep); color: var(--cream); }
-
-    /* Topbar */
-    .topbar { position: fixed; top: 0; left: 0; right: 0; z-index: 1000; height: 56px; background: linear-gradient(90deg, var(--green-deep), var(--green-dark)); border-bottom: 1px solid rgba(122,182,72,0.2); display: flex; align-items: center; gap: 16px; padding: 0 20px; box-shadow: 0 2px 20px rgba(0,0,0,0.4); }
-    .topbar-logo { font-family: 'Playfair Display', serif; font-size: 1.1rem; color: var(--cream); white-space: nowrap; }
-    .topbar-logo span { color: var(--green-light); }
-    .nav-menu { display: flex; gap: 6px; align-items: center; overflow-x: auto; flex: 1; scrollbar-width: none; }
-    .nav-menu::-webkit-scrollbar { display: none; }
-    .nav-pill { padding: 6px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 500; white-space: nowrap; cursor: pointer; border: 1px solid rgba(122,182,72,0.25); background: rgba(255,255,255,0.04); color: rgba(245,240,232,0.6); transition: all 0.2s; text-decoration: none; }
-    .nav-pill:hover { background: rgba(122,182,72,0.12); color: var(--cream); }
-    .nav-pill.active { background: var(--green-accent); border-color: var(--green-accent); color: #fff; }
-
-    /* Map */
-    #map { position: fixed; top: 56px; left: 0; right: 0; bottom: 0; z-index: 1; }
-
-    /* Custom marker pin */
-    .farm-pin {
-      display: flex; flex-direction: column; align-items: center;
-      cursor: pointer; transition: transform 0.2s;
-    }
-    .farm-pin:hover { transform: scale(1.15); }
-    .pin-bubble {
-      width: 44px; height: 44px; border-radius: 50%;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 1.3rem; border: 3px solid white;
-      box-shadow: 0 4px 16px rgba(0,0,0,0.35);
-      position: relative;
-    }
-    .pin-bubble::after {
-      content: '';
-      position: absolute; bottom: -10px; left: 50%;
-      transform: translateX(-50%);
-      border-left: 7px solid transparent;
-      border-right: 7px solid transparent;
-      border-top: 10px solid white;
-    }
-    .pin-label {
-      margin-top: 14px;
-      background: rgba(15,31,15,0.85);
-      color: var(--cream);
-      font-size: 0.68rem;
-      font-weight: 500;
-      padding: 3px 8px;
-      border-radius: 10px;
-      white-space: nowrap;
-      border: 1px solid rgba(122,182,72,0.3);
-      backdrop-filter: blur(6px);
-    }
-
-    /* Hover card */
-    .hover-card {
-      position: fixed;
-      z-index: 2000;
-      pointer-events: none;
-      opacity: 0;
-      transform: translateY(8px);
-      transition: opacity 0.2s ease, transform 0.2s ease;
-      width: 240px;
-    }
-    .hover-card.visible {
-      opacity: 1;
-      transform: translateY(0);
-    }
-    .hover-card-inner {
-      background: var(--green-dark);
-      border: 1px solid rgba(122,182,72,0.35);
-      border-radius: 14px;
-      overflow: hidden;
-      box-shadow: 0 12px 40px rgba(0,0,0,0.6);
-    }
-    .hover-card-img {
-      width: 100%; height: 140px;
-      object-fit: cover;
-      display: block;
-      background: #1a2e1a;
-    }
-    .hover-card-img-placeholder {
-      width: 100%; height: 140px;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 3rem;
-      background: linear-gradient(135deg, #1a2e1a, #2d5016);
-    }
-    .hover-card-body { padding: 12px 14px 14px; }
-    .hover-card-title {
-      font-family: 'Playfair Display', serif;
-      font-size: 0.95rem; color: var(--green-light);
-      margin-bottom: 5px;
-    }
-    .hover-card-desc { font-size: 0.78rem; color: rgba(245,240,232,0.65); line-height: 1.5; }
-    .hover-card-zone {
-      display: inline-block; margin-top: 8px;
-      font-size: 0.68rem; padding: 2px 8px;
-      border-radius: 10px; background: rgba(122,182,72,0.15);
-      color: var(--green-light); border: 1px solid rgba(122,182,72,0.25);
-    }
-
-    Stats overlay 
-    .map-stats {
-      position: fixed; bottom: 24px; right: 16px; z-index: 500;
-      background: rgba(15,31,15,0.88); backdrop-filter: blur(12px);
-      border: 1px solid rgba(122,182,72,0.2); border-radius: 12px;
-      padding: 12px 16px; display: flex; gap: 20px;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.4);
-    }
-    .map-stat-val { font-size: 1.3rem; font-weight: 500; color: var(--green-light); line-height: 1; }
-    .map-stat-label { font-size: 0.65rem; color: rgba(245,240,232,0.4); text-transform: uppercase; letter-spacing: 0.06em; }
-
-     Legend 
-    .map-legend {
-      position: fixed; bottom: 24px; left: 16px; z-index: 500;
-      background: rgba(15,31,15,0.88); backdrop-filter: blur(12px);
-      border: 1px solid rgba(122,182,72,0.2); border-radius: 12px;
-      padding: 12px 16px;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.4);
-    }
-    .legend-title { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: rgba(245,240,232,0.35); margin-bottom: 8px; }
-    .legend-row { display: flex; align-items: center; gap: 7px; margin-bottom: 5px; font-size: 0.74rem; color: rgba(245,240,232,0.6); }
-    .legend-dot { width: 12px; height: 12px; border-radius: 50%; border: 2px solid white; flex-shrink: 0; }
-
-    @media (max-width: 700px) {
-      .nav-pill { font-size: 0.7rem; padding: 5px 10px; }
-      .map-stats { bottom: 80px; }
-      .hover-card { width: 200px; }
-    }
-  </style>
-</head>
-<body>
-
-<div class="topbar">
-  <div class="topbar-logo">GUI<span>Farm</span></div>
-  <nav class="nav-menu">
-    <a href="dashboard.html" class="nav-pill">🏠 Dashboard</a>
-    <a href="#" class="nav-pill">🔍 Search</a>
-    <a href="#" class="nav-pill">📥 Download Full History</a>
-    <a href="farm-map.html" class="nav-pill active">🗺️ Map of the Farm</a>
-    <a href="#" class="nav-pill">📊 Reports</a>
-    <a href="#" class="nav-pill">⚙️ Settings</a>
-  </nav>
-</div>
-
-<div id="map"></div>
-
-<!-- Hover card -->
-<div class="hover-card" id="hoverCard">
-  <div class="hover-card-inner">
-    <div id="hoverImg"></div>
-    <div class="hover-card-body">
-      <div class="hover-card-title" id="hoverTitle"></div>
-      <div class="hover-card-desc" id="hoverDesc"></div>
- <!--<div class="hover-card-zone" id="hoverZone"></div> --> 
-    </div>
-  </div>
-</div>
-
-<!-- Stats -->
- <div class="map-stats">
-  <div>
-    <div class="map-stat-val" id="statLandmarks">0</div>
-    <div class="map-stat-label">Landmarks</div>
-  </div>
-  <div>
-    <div class="map-stat-val" id="statZones">0</div>
-    <div class="map-stat-label">Zones</div>
-  </div>
-</div>// 
-
-<!-- Legend -->
-<!--<div class="map-legend">
-  <div class="legend-title">Landmark Types</div>
-  <div id="legendItems"></div>
-</div> --> -->
-
-<!--<script>
-// ══════════════════════════════════════════════════════════
-//  FARM CENTRE — your coordinates
-// ══════════════════════════════════════════════════════════
-const FARM_CENTER = [1.416083, 103.829000];
-const FARM_ZOOM   = 18;
-
-// ══════════════════════════════════════════════════════════
-//  LANDMARK TYPES & COLOURS
-// ══════════════════════════════════════════════════════════
-const TYPES = {
-  'Entrance':      { color: '#c8a84b', emoji: '🚪' },
-  'Rear Entrance': { color: '#e74c3c', emoji: '🔴' },
-  'Pond':          { color: '#5ba3c9', emoji: '💧' },
-  'Touchwood':     { color: '#8b6b3d', emoji: '🏚️' },
-  'Greenhouse':    { color: '#7ab648', emoji: '🌱' },
-  'Open area':     { color: '#c96b9a', emoji: '🌿' },
-  'Composting':    { color: '#a16b2f', emoji: '♻️' },
-  'Office':        { color: '#9b59b6', emoji: '🏢' },
-};
-
-// ══════════════════════════════════════════════════════════
-//  YOUR LANDMARKS
-//  photo: URL to an image (use your GitHub Pages image URLs)
-//         or leave as '' to show the emoji placeholder instead
-// ══════════════════════════════════════════════════════════
-const landmarks = [
-  {
-    id: 1,
-    name: 'Main Entrance',
-    type: 'Entrance',
-    zone: 'Zone A',
-    desc: 'Main gate with barrier. Open Mon - Sat 9am - 5pm.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/frontentrance1.jpg',
-    lat: 1.41574, lng: 103.82975,
-   
-  },
-  
-{
-    id: 2,
-    name: 'GUI Kampung Kampus Office', 
-    type: 'Office',
-    zone: 'Zone A',
-    desc: 'Farm administratvie centre and staff offices.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/office1.jpg',
-    lat: 1.415355, lng: 103.829665,
-  },
- {
-    id: 3,
-    name: 'Live Turtle Museum', 
-    type: 'Office',
-    zone: 'Zone A',
-    desc: 'Commercial farm where live tortoise are kept where public can safely view, learn about, and interact with these animals.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/turtlemuseum1.jpg',
-    lat: 1.414953, lng: 103.829199,
-  },
-  {
-    id: 4,
-    name: 'Little Honey Man',  
-    type: 'Office',
-    zone: 'Zone A',
-    desc: 'Bee consultant and capacity building.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/bee1.jpg',
-    lat: 1.415200, lng: 103.829649,
-  },
-  {
-    id: 5,
-    name: 'Touchwood',  
-    type: 'Touchwood',
-    zone: 'Zone A',
-    desc: 'Woodwork workshop and woodmaking activity centre.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/touchwood1.jpg ',
-    lat: 1.414764, lng: 103.829992,
-  },
-/* {
-    id: 6,
-    name: 'Open area1',   
-    type: 'Open area',
-    zone: 'Zone A',
-    desc: 'Plants located at this particular area called open area 1.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/openarea1.jpg',
-    lat: 1.41566, lng: 103.83000,
-  },
-  {
-    id: 7,
-    name: 'Open area2',   
-    type: 'Open area',
-    zone: 'Zone A',
-    desc: 'Plants located at this particular area called open area 2.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/openarea2.jpg',
-    lat: 1.414828, lng: 103.830285,
-  },
-  {
-    id: 8,
-    name: 'Open area3', 
-    type: 'Open area',
-    zone: 'Zone A',
-    desc: 'Plants located at this particular area called open area 3.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/openarea3.jpg ',
-    lat: 1.414829, lng: 103.829563,
-  },*/
-   
-  {
-    id: 9,
-    name: 'Greenhouse', 
-    type: 'Greenhouse',
-    zone: 'Zone A',
-    desc: 'Vegetables plots.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/greenhouse1.jpg',
-    lat: 1.415227, lng: 103.830464,
-  },
-   {
-    id: 10,
-    name: 'You are Right Here  Rear Entrance', 
-    type: 'Rear Entrance',
-    zone: 'Zone A',
-    desc: 'Rear entrance to the farm. Open Mon - Sat 9am - 5pm.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/rearentrance1.jpg',
-    lat: 1.415443, lng: 103.830675,
-  },
-];
-
-// ══════════════════════════════════════════════════════════
-//  MAP SETUP
-// ══════════════════════════════════════════════════════════
-const map = L.map('map', { zoomControl: true }).setView(FARM_CENTER, FARM_ZOOM);
-
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '© <a href="https://openstreetmap.org">OpenStreetMap</a>',
-  maxZoom: 22,
-}).addTo(map);
-
-// ── Hover card elements ──
-const hoverCard  = document.getElementById('hoverCard');
-const hoverTitle = document.getElementById('hoverTitle');
-const hoverDesc  = document.getElementById('hoverDesc');
-const hoverZone  = document.getElementById('hoverZone');
-const hoverImg   = document.getElementById('hoverImg');
-
-let hoverTimeout;
-
-function showHover(lm, x, y) {
-  clearTimeout(hoverTimeout);
-  hoverTitle.textContent = lm.name;
-  hoverDesc.textContent  = lm.desc;
- /* hoverZone.textContent  = lm.zone + ' · ' + lm.type;*/
-
-  // Image or emoji placeholder
-  if (lm.photo) {
-    hoverImg.innerHTML = `<img class="hover-card-img" src="${lm.photo}" alt="${lm.name}" onerror="this.parentElement.innerHTML='<div class=hover-card-img-placeholder>${TYPES[lm.type].emoji}</div>'">`;
-  } else {
-    hoverImg.innerHTML = `<div class="hover-card-img-placeholder">${TYPES[lm.type].emoji}</div>`;
-  }
-
-  // Position card near cursor but keep on screen
-  const cardW = 240, cardH = 220;
-  let left = x + 16;
-  let top  = y - cardH / 2;
-  if (left + cardW > window.innerWidth  - 10) left = x - cardW - 16;
-  if (top < 66)                                top  = 66;
-  if (top + cardH > window.innerHeight - 10)   top  = window.innerHeight - cardH - 10;
-
-  hoverCard.style.left = left + 'px';
-  hoverCard.style.top  = top  + 'px';
-  hoverCard.classList.add('visible');
-}
-
-function hideHover() {
-  hoverTimeout = setTimeout(() => hoverCard.classList.remove('visible'), 120);
-}
-
-// ── Create markers ──
-landmarks.forEach(lm => {
-  const t     = TYPES[lm.type] || { color: '#7ab648', emoji: '📍' };
-  const icon  = L.divIcon({
-    className: '',
-    html: `
-      <div class="farm-pin">
-        <div class="pin-bubble" style="background:${t.color};">${t.emoji}</div>
-        <div class="pin-label">${lm.name}</div>
-      </div>`,
-    iconSize:    [44, 70],
-    iconAnchor:  [22, 54],
-    popupAnchor: [0, -54],
-  });
-
-  const marker = L.marker([lm.lat, lm.lng], { icon }).addTo(map);
-
-  // Desktop: hover
-  marker.on('mouseover', function(e) {
-    const pt = e.originalEvent;
-    showHover(lm, pt.clientX, pt.clientY);
-  });
-  marker.on('mousemove', function(e) {
-    const pt = e.originalEvent;
-    showHover(lm, pt.clientX, pt.clientY);
-  });
-  marker.on('mouseout', hideHover);
-
-  // Mobile: tap to show popup
-  marker.bindPopup(`
-    <div style="font-family:'DM Sans',sans-serif; min-width:180px;">
-      <div style="font-size:1.8rem; text-align:center; margin-bottom:6px;">${t.emoji}</div>
-      <div style="font-weight:600; font-size:0.95rem; margin-bottom:4px;">${lm.name}</div>
-      <div style="font-size:0.8rem; color:#888; margin-bottom:6px;">${lm.zone} · ${lm.type}</div>
-      <div style="font-size:0.82rem; line-height:1.5;">${lm.desc}</div>
-    </div>
-  `);
-});
-
-// ── Stats ──
-const zones = [...new Set(landmarks.map(l => l.zone))];
-document.getElementById('statLandmarks').textContent = landmarks.length;
-document.getElementById('statZones').textContent     = zones.length;
-
-// ── Legend ──
-const legendEl = document.getElementById('legendItems');
-Object.entries(TYPES).forEach(([name, t]) => {
-  const used = landmarks.some(l => l.type === name);
-  if (!used) return;
-  legendEl.innerHTML += `
-    <div class="legend-row">
-      <div class="legend-dot" style="background:${t.color};"></div>
-      <span>${t.emoji} ${name}</span>
-    </div>`;
-});
-</script>
-</body>
-</html>
-
--->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Map of the Farm — Office Farm</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
-      --green-deep: #0f1f0f; --green-dark: #1a2e1a; --green-accent: #4a7c2f;
-      --green-light: #7ab648; --gold: #c8a84b; --cream: #f5f0e8;
+      --green-deep:   #0f1f0f;
+      --green-dark:   #1a2e1a;
+      --green-accent: #4a7c2f;
+      --green-light:  #7ab648;
+      --cream:        #f5f0e8;
     }
-    html, body { height: 100%; font-family: 'DM Sans', sans-serif; background: var(--green-deep); color: var(--cream); }
 
-    /* Topbar */
-    .topbar { position: fixed; top: 0; left: 0; right: 0; z-index: 1000; height: 56px; background: linear-gradient(90deg, var(--green-deep), var(--green-dark)); border-bottom: 1px solid rgba(122,182,72,0.2); display: flex; align-items: center; gap: 16px; padding: 0 20px; box-shadow: 0 2px 20px rgba(0,0,0,0.4); }
-    .topbar-logo { font-family: 'Playfair Display', serif; font-size: 1.1rem; color: var(--cream); white-space: nowrap; }
+    html, body {
+      height: 100%;
+      font-family: 'DM Sans', sans-serif;
+      background: var(--green-deep);
+      color: var(--cream);
+    }
+
+    /* ── Topbar ── */
+    .topbar {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+      height: 56px;
+      background: linear-gradient(90deg, var(--green-deep), var(--green-dark));
+      border-bottom: 1px solid rgba(122,182,72,0.2);
+      display: flex; align-items: center; gap: 16px;
+      padding: 0 20px;
+      box-shadow: 0 2px 20px rgba(0,0,0,0.4);
+    }
+    .topbar-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.1rem; color: var(--cream); white-space: nowrap;
+    }
     .topbar-logo span { color: var(--green-light); }
-    .nav-menu { display: flex; gap: 6px; align-items: center; overflow-x: auto; flex: 1; scrollbar-width: none; }
+    .nav-menu {
+      display: flex; gap: 6px; align-items: center;
+      overflow-x: auto; flex: 1; scrollbar-width: none;
+    }
     .nav-menu::-webkit-scrollbar { display: none; }
-    .nav-pill { padding: 6px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 500; white-space: nowrap; cursor: pointer; border: 1px solid rgba(122,182,72,0.25); background: rgba(255,255,255,0.04); color: rgba(245,240,232,0.6); transition: all 0.2s; text-decoration: none; }
+    .nav-pill {
+      padding: 6px 14px; border-radius: 20px; font-size: 0.78rem;
+      font-weight: 500; white-space: nowrap; cursor: pointer;
+      border: 1px solid rgba(122,182,72,0.25);
+      background: rgba(255,255,255,0.04);
+      color: rgba(245,240,232,0.6);
+      transition: all 0.2s; text-decoration: none;
+    }
     .nav-pill:hover { background: rgba(122,182,72,0.12); color: var(--cream); }
-    .nav-pill.active { background: var(--green-accent); border-color: var(--green-accent); color: #fff; }
+    .nav-pill.active {
+      background: var(--green-accent);
+      border-color: var(--green-accent); color: #fff;
+    }
 
-    /* Map */
-    #map { position: fixed; top: 56px; left: 0; right: 0; bottom: 0; z-index: 1; background: #1a2e1a; }
+    /* ── Map image area ── */
+    .map-container {
+      position: fixed;
+      top: 56px; left: 0; right: 0; bottom: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--green-deep);
+      overflow: auto;
+    }
 
-    /* Custom marker pin */
-    .farm-pin { display: flex; flex-direction: column; align-items: center; cursor: pointer; transition: transform 0.2s; }
-    .farm-pin:hover { transform: scale(1.15); }
-    .pin-bubble { width: 44px; height: 44px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; border: 3px solid white; box-shadow: 0 4px 16px rgba(0,0,0,0.35); position: relative; }
-    .pin-bubble::after { content: ''; position: absolute; bottom: -10px; left: 50%; transform: translateX(-50%); border-left: 7px solid transparent; border-right: 7px solid transparent; border-top: 10px solid white; }
-    .pin-label { margin-top: 14px; background: rgba(15,31,15,0.85); color: var(--cream); font-size: 0.68rem; font-weight: 500; padding: 3px 8px; border-radius: 10px; white-space: nowrap; border: 1px solid rgba(122,182,72,0.3); backdrop-filter: blur(6px); }
+    .map-container img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      display: block;
+      border-radius: 8px;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+    }
 
-    /* Hover card */
-    .hover-card { position: fixed; z-index: 2000; pointer-events: none; opacity: 0; transform: translateY(8px); transition: opacity 0.2s ease, transform 0.2s ease; width: 240px; }
-    .hover-card.visible { opacity: 1; transform: translateY(0); }
-    .hover-card-inner { background: var(--green-dark); border: 1px solid rgba(122,182,72,0.35); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 40px rgba(0,0,0,0.6); }
-    .hover-card-img { width: 100%; height: 140px; object-fit: cover; display: block; background: #1a2e1a; }
-    .hover-card-img-placeholder { width: 100%; height: 140px; display: flex; align-items: center; justify-content: center; font-size: 3rem; background: linear-gradient(135deg, #1a2e1a, #2d5016); }
-    .hover-card-body { padding: 12px 14px 14px; }
-    .hover-card-title { font-family: 'Playfair Display', serif; font-size: 0.95rem; color: var(--green-light); margin-bottom: 5px; }
-    .hover-card-desc { font-size: 0.78rem; color: rgba(245,240,232,0.65); line-height: 1.5; }
-
-    /* Stats overlay */
-    .map-stats { position: fixed; bottom: 24px; right: 16px; z-index: 500; background: rgba(15,31,15,0.88); backdrop-filter: blur(12px); border: 1px solid rgba(122,182,72,0.2); border-radius: 12px; padding: 12px 16px; display: flex; gap: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); }
-    .map-stat-val { font-size: 1.3rem; font-weight: 500; color: var(--green-light); line-height: 1; }
-    .map-stat-label { font-size: 0.65rem; color: rgba(245,240,232,0.4); text-transform: uppercase; letter-spacing: 0.06em; }
-
-    /* Toggle button */
-    .map-toggle { position: fixed; bottom: 24px; left: 16px; z-index: 500; background: rgba(15,31,15,0.88); backdrop-filter: blur(12px); border: 1px solid rgba(122,182,72,0.2); border-radius: 12px; padding: 10px 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); display: flex; gap: 8px; }
-    .toggle-btn { padding: 5px 12px; border-radius: 8px; font-size: 0.75rem; cursor: pointer; border: 1px solid rgba(122,182,72,0.25); background: rgba(255,255,255,0.04); color: rgba(245,240,232,0.6); transition: all 0.2s; font-family: 'DM Sans', sans-serif; }
-    .toggle-btn.active { background: var(--green-accent); border-color: var(--green-accent); color: #fff; }
-    .toggle-btn:hover { background: rgba(122,182,72,0.15); }
+    /* Loading state */
+    .loading {
+      position: absolute;
+      color: rgba(245,240,232,0.4);
+      font-size: 0.9rem;
+      letter-spacing: 0.08em;
+    }
 
     @media (max-width: 700px) {
       .nav-pill { font-size: 0.7rem; padding: 5px 10px; }
-      .map-stats { bottom: 80px; }
-      .hover-card { width: 200px; }
     }
   </style>
 </head>
 <body>
 
+<!-- Topbar -->
 <div class="topbar">
   <div class="topbar-logo">GUI<span>Farm</span></div>
   <nav class="nav-menu">
@@ -494,255 +102,18 @@ Object.entries(TYPES).forEach(([name, t]) => {
   </nav>
 </div>
 
-<div id="map"></div>
-
-<!-- Hover card -->
-<div class="hover-card" id="hoverCard">
-  <div class="hover-card-inner">
-    <div id="hoverImg"></div>
-    <div class="hover-card-body">
-      <div class="hover-card-title" id="hoverTitle"></div>
-      <div class="hover-card-desc" id="hoverDesc"></div>
-    </div>
-  </div>
+<!-- Map image -->
+<div class="map-container">
+  <div class="loading" id="loading">🌿 Loading map...</div>
+  <img
+    src="https://kampung-kampus.github.io/office-farm/images/mapofthefarm1.jpg"
+    alt="Map of the Farm"
+    id="farmMap"
+    style="display:none;"
+    onload="document.getElementById('loading').style.display='none'; this.style.display='block';"
+    onerror="document.getElementById('loading').innerText='⚠️ Map image not found. Please check the image file in your images folder.';"
+  />
 </div>
 
-<!-- Stats -->
-<div class="map-stats">
-  <div>
-    <div class="map-stat-val" id="statLandmarks">0</div>
-    <div class="map-stat-label">Landmarks</div>
-  </div>
-  <div>
-    <div class="map-stat-val" id="statZones">0</div>
-    <div class="map-stat-label">Zones</div>
-  </div>
-</div>
-
-<!-- Map toggle -->
-<div class="map-toggle">
-  <button class="toggle-btn active" id="btnFarmMap" onclick="switchMap('farm')">🌾 Farm Map</button>
-  <button class="toggle-btn" id="btnStreetMap" onclick="switchMap('street')">🗺️ Street Map</button>
-</div>
-
-<script>
-// ══════════════════════════════════════════════════════════
-//  FARM CENTRE & IMAGE MAP SETTINGS
-// ══════════════════════════════════════════════════════════
-const FARM_CENTER = [1.416083, 103.829000];
-const FARM_ZOOM   = 18;
-
-// Your farm map image URL
-const FARM_MAP_IMAGE = 'https://kampung-kampus.github.io/office-farm/images/mapofthefarm1.jpg';
-
-// ══════════════════════════════════════════════════════════
-//  LANDMARK TYPES & COLOURS
-// ══════════════════════════════════════════════════════════
- /* const TYPES = {
-  'Entrance':      { color: '#c8a84b', emoji: '🚪' },
-  'Rear Entrance': { color: '#e74c3c', emoji: '🔴' },
-  'Pond':          { color: '#5ba3c9', emoji: '💧' },
-  'Touchwood':     { color: '#8b6b3d', emoji: '🏚️' },
-  'Greenhouse':    { color: '#7ab648', emoji: '🌱' },
-  'Open area':     { color: '#c96b9a', emoji: '🌿' },
-  'Composting':    { color: '#a16b2f', emoji: '♻️' },
-  'Office':        { color: '#9b59b6', emoji: '🏢' },
-};
-
-// ══════════════════════════════════════════════════════════
-//  YOUR LANDMARKS
-// ══════════════════════════════════════════════════════════
-const landmarks = [
-  {
-    id: 1,
-    name: 'Main Entrance',
-    type: 'Entrance',
-    zone: 'Zone A',
-    desc: 'Main gate with barrier. Open Mon - Sat 9am - 5pm.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/frontentrance1.jpg',
-    lat: 1.41574, lng: 103.82975,
-  },
-  {
-    id: 2,
-    name: 'GUI Kampung Kampus Office',
-    type: 'Office',
-    zone: 'Zone A',
-    desc: 'Farm administrative centre and staff offices.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/office1.jpg',
-    lat: 1.415355, lng: 103.829665,
-  },
-  {
-    id: 3,
-    name: 'Live Turtle Museum',
-    type: 'Office',
-    zone: 'Zone A',
-    desc: 'Commercial farm where live tortoise are kept where public can safely view, learn about, and interact with these animals.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/turtlemuseum1.jpg',
-    lat: 1.414953, lng: 103.829199,
-  },
-  {
-    id: 4,
-    name: 'Little Honey Man',
-    type: 'Office',
-    zone: 'Zone A',
-    desc: 'Bee consultant and capacity building.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/bee1.jpg',
-    lat: 1.415200, lng: 103.829649,
-  },
-  {
-    id: 5,
-    name: 'Touchwood',
-    type: 'Touchwood',
-    zone: 'Zone A',
-    desc: 'Woodwork workshop and woodmaking activity centre.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/touchwood1.jpg',
-    lat: 1.414764, lng: 103.829992,
-  },
-  {
-    id: 9,
-    name: 'Greenhouse',
-    type: 'Greenhouse',
-    zone: 'Zone A',
-    desc: 'Vegetables plots.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/greenhouse1.jpg',
-    lat: 1.415227, lng: 103.830464,
-  },
-  {
-    id: 10,
-    name: 'Rear Entrance',
-    type: 'Rear Entrance',
-    zone: 'Zone A',
-    desc: 'Rear entrance to the farm. Open Mon - Sat 9am - 5pm.',
-    photo: 'https://kampung-kampus.github.io/office-farm/images/rearentrance1.jpg',
-    lat: 1.415443, lng: 103.830675,
-  },
-];
-
-// ══════════════════════════════════════════════════════════
-//  MAP SETUP
-// ══════════════════════════════════════════════════════════
-const map = L.map('map', {
-  zoomControl: true,
-  center: FARM_CENTER,
-  zoom: FARM_ZOOM
-});
-
-// ── Street map tile layer ──
-const streetLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '© <a href="https://openstreetmap.org">OpenStreetMap</a>',
-  maxZoom: 22,
-});
-
-// ── Farm image overlay ──
-// The image bounds define where the jpg is placed on the real-world map.
-// Adjust these coordinates to fit your farm image exactly over the farm.
-// Top-left corner and bottom-right corner of the image on the map.
-const imageBounds = [
-  [1.41650, 103.82890],   // ← Top-Left corner (North-West)
-  [1.41450, 103.83100],   // ← Bottom-Right corner (South-East)
-];
-
-const farmImageLayer = L.imageOverlay(FARM_MAP_IMAGE, imageBounds, {
-  opacity: 1,
-  interactive: false,
-});
-
-// Start with farm image showing
-farmImageLayer.addTo(map);
-
-// ── Map switcher ──
-function switchMap(type) {
-  if (type === 'farm') {
-    map.removeLayer(streetLayer);
-    farmImageLayer.addTo(map);
-    map.setView(FARM_CENTER, FARM_ZOOM);
-    document.getElementById('btnFarmMap').classList.add('active');
-    document.getElementById('btnStreetMap').classList.remove('active');
-  } else {
-    map.removeLayer(farmImageLayer);
-    streetLayer.addTo(map);
-    document.getElementById('btnStreetMap').classList.add('active');
-    document.getElementById('btnFarmMap').classList.remove('active');
-  }
-}
-
-// ── Hover card elements ──
-const hoverCard  = document.getElementById('hoverCard');
-const hoverTitle = document.getElementById('hoverTitle');
-const hoverDesc  = document.getElementById('hoverDesc');
-const hoverImg   = document.getElementById('hoverImg');
-
-let hoverTimeout;
-
-function showHover(lm, x, y) {
-  clearTimeout(hoverTimeout);
-  hoverTitle.textContent = lm.name;
-  hoverDesc.textContent  = lm.desc;
-
-  if (lm.photo) {
-    hoverImg.innerHTML = `<img class="hover-card-img" src="${lm.photo}" alt="${lm.name}" onerror="this.parentElement.innerHTML='<div class=hover-card-img-placeholder>${TYPES[lm.type].emoji}</div>'">`;
-  } else {
-    hoverImg.innerHTML = `<div class="hover-card-img-placeholder">${TYPES[lm.type].emoji}</div>`;
-  }
-
-  const cardW = 240, cardH = 220;
-  let left = x + 16;
-  let top  = y - cardH / 2;
-  if (left + cardW > window.innerWidth  - 10) left = x - cardW - 16;
-  if (top < 66)                                top  = 66;
-  if (top + cardH > window.innerHeight - 10)   top  = window.innerHeight - cardH - 10;
-
-  hoverCard.style.left = left + 'px';
-  hoverCard.style.top  = top  + 'px';
-  hoverCard.classList.add('visible');
-}
-
-function hideHover() {
-  hoverTimeout = setTimeout(() => hoverCard.classList.remove('visible'), 120);
-}
-
-// ── Create markers ──
-landmarks.forEach(lm => {
-  const t    = TYPES[lm.type] || { color: '#7ab648', emoji: '📍' };
-  const icon = L.divIcon({
-    className: '',
-    html: `
-      <div class="farm-pin">
-        <div class="pin-bubble" style="background:${t.color};">${t.emoji}</div>
-        <div class="pin-label">${lm.name}</div>
-      </div>`,
-    iconSize:    [44, 70],
-    iconAnchor:  [22, 54],
-    popupAnchor: [0, -54],
-  });
-
-  const marker = L.marker([lm.lat, lm.lng], { icon }).addTo(map);
-
-  // Desktop hover
-  marker.on('mouseover', function(e) {
-    showHover(lm, e.originalEvent.clientX, e.originalEvent.clientY);
-  });
-  marker.on('mousemove', function(e) {
-    showHover(lm, e.originalEvent.clientX, e.originalEvent.clientY);
-  });
-  marker.on('mouseout', hideHover);
-
-  // Mobile tap popup
-  marker.bindPopup(`
-    <div style="font-family:'DM Sans',sans-serif; min-width:180px;">
-      <div style="font-size:1.8rem; text-align:center; margin-bottom:6px;">${t.emoji}</div>
-      <div style="font-weight:600; font-size:0.95rem; margin-bottom:4px;">${lm.name}</div>
-      <div style="font-size:0.8rem; color:#888; margin-bottom:6px;">${lm.zone} · ${lm.type}</div>
-      <div style="font-size:0.82rem; line-height:1.5;">${lm.desc}</div>
-    </div>
-  `);
-});
-
-// ── Stats ──
-const zones = [...new Set(landmarks.map(l => l.zone))];
-document.getElementById('statLandmarks').textContent = landmarks.length;
-document.getElementById('statZones').textContent     = zones.length;
-</script>
 </body>
 </html>
-
