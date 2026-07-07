@@ -1630,5 +1630,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
     ]
+  },
+  "Az": {
+    "plot": "Az",
+    "staff": "Lye",
+    "plant": "Empty (空)",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
   }
 }
