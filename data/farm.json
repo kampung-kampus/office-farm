@@ -1647,5 +1647,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
+  },
+  "Abc": {
+    "plot": "Abc",
+    "staff": "Lye",
+    "plant": "Orange",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/orange1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/orange2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/orange3.jpg"
+    ]
   }
 }
