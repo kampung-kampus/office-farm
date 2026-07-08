@@ -220,7 +220,16 @@ input, select {
     📥 Download Full History
   </button> 
 
-  
+
+
+  <button id="nextWeekHarvestBtn" class="action-btn">
+    Next Week's Harvest
+</button>
+<div id="nextWeekHarvestResults" class="results-section" style="display:none;">
+    <h3>Next Week's Harvest</h3>
+    <div id="nextWeekHarvestList"></div>
+</div>
+
 
   <select id="filter">
     <option value="all">All</option>
@@ -374,7 +383,48 @@ function cancelDownload() {
 
 
 
-  
+  document.getElementById("nextWeekHarvestBtn").addEventListener("click", function () {
+    const today = new Date();
+
+    // Calculate next week's Monday
+    const nextMonday = new Date(today);
+    nextMonday.setDate(today.getDate() + ((8 - today.getDay()) % 7));
+
+    // Next week's Sunday
+    const nextSunday = new Date(nextMonday);
+    nextSunday.setDate(nextMonday.getDate() + 6);
+
+    // Assuming your crops data is stored in a variable called cropsData
+    // Each crop should have a harvest_date field in YYYY-MM-DD format
+    const nextWeekCrops = cropsData.filter(crop => {
+        const harvestDate = new Date(crop.harvest_date);
+        return harvestDate >= nextMonday && harvestDate <= nextSunday;
+    });
+
+    renderNextWeekHarvest(nextWeekCrops);
+});
+
+function renderNextWeekHarvest(crops) {
+    const container = document.getElementById("nextWeekHarvestList");
+    container.innerHTML = "";
+
+    if (crops.length === 0) {
+        container.innerHTML = "<p>No crops are ready for harvesting next week.</p>";
+    } else {
+        crops.forEach(crop => {
+            const item = document.createElement("div");
+            item.className = "crop-item";
+            item.innerHTML = `
+                <strong>${crop.name}</strong><br>
+                Harvest Date: ${crop.harvest_date}
+            `;
+            container.appendChild(item);
+        });
+    }
+
+    document.getElementById("nextWeekHarvestResults").style.display = "block";
+}
+
 
 
  
