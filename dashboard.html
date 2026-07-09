@@ -206,7 +206,16 @@ input, select {
 
 <a href="noticeboard.html" style="display:inline-block; padding:8px 16px; background:#2c7a3f; color:white; border-radius:5px; text-decoration:none; font-size:14px;">📋 Notice Board</a>
 
+<!-- New codes added for Next week's harvest button -->
+<button onclick="showNextWeekHarvest()"
+  style="padding:8px 16px; background:#e67e22; color:white;
+  border:none; border-radius:5px; cursor:pointer;
+  font-size:14px; min-height:36px;">
+  📅 Next Week's Harvest
+</button>
 
+
+  
 <a href="#" onclick="openHarvesting()"
    style="display:inline-block; padding:8px 16px;
    background:#2c7a3f; color:white;
@@ -337,6 +346,110 @@ function updateTaskSummary(items) {
 }
 
 
+
+ // New codes added  for Next week harvest from this line to line 450 //
+  function showNextWeekHarvest() {
+
+  // ── Work out next Monday and next Sunday ──
+  const today  = new Date();
+  const todayDay = today.getDay(); // 0=Sun, 1=Mon, ... 6=Sat
+
+  // Days until next Monday
+  const daysToNextMonday = todayDay === 0 ? 1 : 8 - todayDay;
+
+  const nextMonday = new Date(today);
+  nextMonday.setDate(today.getDate() + daysToNextMonday);
+  nextMonday.setHours(0, 0, 0, 0);
+
+  const nextSunday = new Date(nextMonday);
+  nextSunday.setDate(nextMonday.getDate() + 6);
+  nextSunday.setHours(23, 59, 59, 999);
+
+  // ── Format dates for display ──
+  const opts = { day: 'numeric', month: 'short', year: 'numeric' };
+  const mondayStr = nextMonday.toLocaleDateString('en-SG', opts);
+  const sundayStr = nextSunday.toLocaleDateString('en-SG', opts);
+
+  document.getElementById('harvestWeekLabel').innerHTML =
+    '🗓️ Showing harvests due: <strong>' + mondayStr + ' — ' + sundayStr + '</strong>';
+
+  // ── Find matching crops ──
+  const results = [];
+
+  Object.values(farmData).forEach(item => {
+    if (!item.estHarvest) return;
+    if (!item.plant || item.plant.toLowerCase() === 'empty') return;
+
+    const harvestDate = new Date(item.estHarvest + 'T00:00:00');
+
+    if (harvestDate >= nextMonday && harvestDate <= nextSunday) {
+      results.push(item);
+    }
+  });
+
+  // ── Sort by harvest date ──
+  results.sort((a, b) => new Date(a.estHarvest) - new Date(b.estHarvest));
+
+  // ── Build content ──
+  const container = document.getElementById('harvestModalContent');
+
+  if (results.length === 0) {
+    container.innerHTML = `
+      <div style="text-align:center; padding:32px; color:#aaa;">
+        <div style="font-size:3rem; margin-bottom:12px;">🌱</div>
+        <p style="font-size:14px;">No crops due for harvest next week.</p>
+      </div>`;
+  } else {
+    container.innerHTML = results.map(item => {
+      const harvestDate = new Date(item.estHarvest + 'T00:00:00');
+      const dayName = harvestDate.toLocaleDateString('en-SG', { weekday: 'long' });
+      const dateStr = harvestDate.toLocaleDateString('en-SG', {
+        day: 'numeric', month: 'short', year: 'numeric'
+      });
+
+      return `
+        <div style="border:1px solid #e0e0e0; border-radius:10px;
+          padding:14px 16px; margin-bottom:10px;
+          border-left:5px solid #2c7a3f;">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div>
+              <div style="font-weight:bold; font-size:16px; color:#2c7a3f;">
+                ${item.plot}
+              </div>
+              <div style="font-size:14px; margin-top:2px;">🌿 ${item.plant}</div>
+              <div style="font-size:12px; color:#888; margin-top:4px;">
+                👨‍🌾 ${item.staff}
+              </div>
+            </div>
+            <div style="text-align:right;">
+              <div style="font-size:13px; font-weight:bold; color:#e67e22;">
+                ${dayName}
+              </div>
+              <div style="font-size:12px; color:#888; margin-top:2px;">
+                📅 ${dateStr}
+              </div>
+            </div>
+          </div>
+        </div>`;
+    }).join('');
+
+    // Add summary count at top
+    container.innerHTML =
+      `<div style="text-align:center; background:#eafaf1; border-radius:8px;
+        padding:10px; margin-bottom:14px; font-size:14px; color:#2c7a3f;">
+        🌾 <strong>${results.length}</strong> crop${results.length > 1 ? 's' : ''} ready for harvest next week
+      </div>` + container.innerHTML;
+  }
+
+  // ── Show modal ──
+  document.getElementById('harvestModal').style.display = 'flex';
+}
+
+function closeHarvestModal() {
+  document.getElementById('harvestModal').style.display = 'none';
+}
+
+  
 function openHarvesting() {
   const entered = prompt("Enter password to access Harvesting Data:");
 
@@ -393,6 +506,38 @@ document.getElementById("sort").addEventListener("change", render);
 load();
 
 </script>
+
+
+
+
+
+<!--New codes added for  Next Week Harvest Modal -->
+<div id="harvestModal" style="display:none; position:fixed; top:0; left:0;
+  width:100%; height:100%; background:rgba(0,0,0,0.5); z-index:1000;
+  align-items:center; justify-content:center;">
+  <div style="background:white; border-radius:12px; padding:28px;
+    width:90%; max-width:500px; max-height:80vh; overflow-y:auto;
+    box-shadow:0 8px 32px rgba(0,0,0,0.3);">
+
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px;">
+      <h3 style="margin:0; color:#2c7a3f;">📅 Next Week's Harvest</h3>
+      <button onclick="closeHarvestModal()"
+        style="background:none; border:none; font-size:20px;
+        cursor:pointer; color:#888;">✕</button>
+    </div>
+
+    <div id="harvestWeekLabel"
+      style="font-size:13px; color:#666; margin-bottom:16px; text-align:center;">
+    </div>
+
+    <div id="harvestModalContent"></div>
+
+  </div>
+</div>
+
+
+
+  
 <!-- Password Modal -->
 <div id="pwModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%;
   background:rgba(0,0,0,0.5); z-index:1000; align-items:center; justify-content:center;">
