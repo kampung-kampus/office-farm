@@ -1715,5 +1715,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale3.jpg"
     ]
+  },
+  "D06": {
+    "plot": "D06",
+    "staff": "Mrs Tang",
+    "plant": "Purslane (马齿苋)",
+    "datePlanted": "2026-05-23",
+    "estHarvest": "2026-07-02",
+    "nextManure": "2026-07-03",
+    "nextWeeding": "2026-06-12",
+    "uses": "Can be eaten raw or cooked or stems can be pickled  in vinegar or spices.",
+    "funFact": "In Chinese folklore and traditional medicine, it is known as Ma Chi Xian and nicknamed the \"vegetable for long life\" due to its dense nutrient profile. A nutritious plant that is high in omega-3 fatty acids.",
+    "botanical": "Portulaca oleracea.",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane3.jpg"
+    ]
   }
 }
