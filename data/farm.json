@@ -1,19 +1,19 @@
 {
   "A01": {
     "plot": "A01",
-    "staff": "Mrs Tang",
-    "plant": "Bok choy (白菜)",
-    "datePlanted": "2026-06-23",
-    "estHarvest": "2026-07-28",
-    "nextManure": "2026-07-29",
-    "nextWeeding": "2026-07-11",
-    "uses": "Stir-fried or steamed vegetable.",
-    "funFact": "Tender leaves; popular in Chinese cooking.",
-    "botanical": "Brassica rapa subsp. chinensis",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A02": {
@@ -903,7 +903,7 @@
   "Plot1": {
     "plot": "Plot1",
     "staff": "Mrs Tang",
-    "plant": "Veld grape",
+    "plant": "Veld grape ( 四棱白粉藤 )",
     "datePlanted": "2026-01-06",
     "estHarvest": "",
     "nextManure": "2028-10-03",
