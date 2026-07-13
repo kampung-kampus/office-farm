@@ -1698,5 +1698,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens3.jpg"
     ]
+  },
+  "D05": {
+    "plot": "D05",
+    "staff": "Mrs Tang",
+    "plant": "Kale (羽衣甘蓝)",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Leafy green, eaten raw, sautéed, or juiced.",
+    "funFact": "Ancient crop; extremely nutrient-dense “superfood.”",
+    "botanical": "Brassica oleracea var. acephala",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kale3.jpg"
+    ]
   }
 }
