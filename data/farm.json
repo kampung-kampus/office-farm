@@ -1630,5 +1630,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
     ]
+  },
+  "D01": {
+    "plot": "D01",
+    "staff": "Mrs Tang",
+    "plant": "Mustard greens (芥菜)",
+    "datePlanted": "2026-07-06",
+    "estHarvest": "2026-08-10",
+    "nextManure": "2026-08-11",
+    "nextWeeding": "2026-07-24",
+    "uses": "Stir-fried or pickled leafy vegetable.",
+    "funFact": "Pungent flavor; seeds used for mustard condiment.",
+    "botanical": "Brassica juncea",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens3.jpg"
+    ]
   }
 }
