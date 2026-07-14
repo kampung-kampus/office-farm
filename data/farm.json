@@ -868,19 +868,19 @@
   },
   "E04": {
     "plot": "E04",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
+    "staff": "Mrs Tang",
+    "plant": "Jute mallow",
+    "datePlanted": "2026-05-12",
+    "estHarvest": "2026-08-05",
+    "nextManure": "2026-08-06",
+    "nextWeeding": "2026-06-24",
+    "uses": "Soups and Stews: The most common culinary use is boiling the leaves into a rich, mucilaginous (slimy) broth. In Egypt, it is minced into the national dish, Molokhia. In Nigeria, it is used to make Ewedu soup, and in the Philippines, it is a staple vegetable known as Saluyot.Thickening Agent: Due to its gelatinous texture (similar to okra), dried and powdered jute mallow leaves are widely used to naturally thicken stews and sauces.Herbal Tea: The leaves are dried and steeped to create a medicinal, antioxidant-rich herbal tea.",
+    "funFact": "Cleopatra’s Beauty Secret: Legend has it that the famous Egyptian queen, Cleopatra, consumed Molokhia soup daily and used the leaf extracts to maintain her radiant, youthful skin. Fiber Production: The stems of the jute mallow are the primary source of jute fiber (often called the \"golden fiber\").",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jutemallow1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jutemallow2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/jutemallow3.jpg"
     ]
   },
   "Food garden": {
