@@ -290,19 +290,19 @@
   },
   "B06": {
     "plot": "B06",
-    "staff": "Mrs Tang",
-    "plant": "Bayam red( 红苋)",
-    "datePlanted": "2026-06-09",
-    "estHarvest": "2026-07-14",
-    "nextManure": "2026-06-17",
-    "nextWeeding": "2026-06-10",
-    "uses": "Nutritious leafy vegetable, used in stir-fries and soups.",
-    "funFact": "Red pigment indicates high antioxidants; popular in Asian cuisine.",
-    "botanical": "Amaranthus tricolor",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayamred3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "B07": {
@@ -613,19 +613,19 @@
   },
   "C09": {
     "plot": "C09",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Mrs Tang",
+    "plant": "Kai lan (芥蓝)",
+    "datePlanted": "2026-07-04",
+    "estHarvest": "2026-09-02",
+    "nextManure": "2026-09-03",
+    "nextWeeding": "2026-08-03",
+    "uses": "Stir-fried or steamed vegetable",
+    "funFact": "Thick stems and leaves; flowers edible too.",
+    "botanical": "Brassica oleracea",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
     ]
   },
   "C10": {
