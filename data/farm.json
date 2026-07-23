@@ -103,19 +103,19 @@
   },
   "A07": {
     "plot": "A07",
-    "staff": "Mrs Tang",
-    "plant": "Pa bo cai (打老婆菜)",
+    "staff": "",
+    "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "The curly leaves of frisée provide a beautiful, lacy texture and a distinct crunch to mixed salads.",
-    "funFact": "It's not a true lettuce: Although it looks like loose-leaf lettuce, endive actually belongs to the chicory family.Naturally Bitter: The characteristic bitterness comes from compounds called intybin, which are prized in the culinary world for adding complexity and balancing rich flavors.Deep History: Endive has been cultivated for centuries and was eaten by the ancient Egyptians, Greeks, and Romans.Hydration Hero: True to its leafy nature, endive is approximately 95% water, making it a very hydrating and low-calorie food.Nutritional Punch: It is highly nutritious, being an excellent source of Vitamin A, Vitamin K, and folate.",
-    "botanical": "Cichorium endivia",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pabocai1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pabocai2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/pabocai3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A08": {
