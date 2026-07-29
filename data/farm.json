@@ -868,19 +868,19 @@
   },
   "E04": {
     "plot": "E04",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Mrs Tang",
+    "plant": "Australian mulberry (银背落尾麻 )",
+    "datePlanted": "2026-05-12",
+    "estHarvest": "2027-05-12",
+    "nextManure": "2027-05-13",
+    "nextWeeding": "2026-11-11",
+    "uses": "Traditional Medicine: Across Pacific and indigenous cultures, almost all parts of the plant are utilized. Boiled leaves are traditionally used in hygienic baths to soothe skin fungal infections, while pounded roots are prepared as remedies for diarrhea, coughs, and fever. Strong Fibers & Cordage: The inner bark contains incredibly strong, durable fibers. Edible Bush Tucker: The soft, translucent white berries can be eaten fresh off the branch. They are juicy with a delicate, mildly sweet, or variable lychee-like flavor.",
+    "funFact": "Silvery Secret: Its scientific name argenteus translates to \"silvery\" in Latin, describing the stark, powdery-white underlayer of dense hairs beneath its leaves that easily catch the wind.",
+    "botanical": "Pipturus argenteus ",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/australianmulberry1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/australianmulberry2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/australianmulberry3.jpg"
     ]
   },
   "Food garden": {
