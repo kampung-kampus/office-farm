@@ -477,19 +477,19 @@
   },
   "C01": {
     "plot": "C01",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Mrs Tang",
+    "plant": "Bayam (苋菜)",
+    "datePlanted": "2026-07-09",
+    "estHarvest": "2026-08-13",
+    "nextManure": "2026-08-14",
+    "nextWeeding": "2026-07-27",
+    "uses": "Leafy vegetable, eaten stir-fried or in soups.",
+    "funFact": "Ancient grain family; leaves rich in iron and calcium",
+    "botanical": "Amaranthus",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bayam3.jpg"
     ]
   },
   "C02": {
