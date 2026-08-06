@@ -1800,5 +1800,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
     ]
+  },
+  "D07": {
+    "plot": "D07",
+    "staff": "Mrs Tang",
+    "plant": "Indian borage",
+    "datePlanted": "2026-05-02",
+    "estHarvest": "",
+    "nextManure": "2034-07-20",
+    "nextWeeding": "2030-06-10",
+    "uses": "Cough and Cold Relief: Fresh leaves are chewed, or their juice is extracted and mixed with honey to soothe sore throats, chest congestion, and bronchitis.",
+    "funFact": "Despite being called Indian borage, it actually belongs to the mint and deadnettle family (Lamiaceae).",
+    "botanical": "Plectranthus amboinicus",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indianborage1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indianborage2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indianborage3.jpg"
+    ]
   }
 }
