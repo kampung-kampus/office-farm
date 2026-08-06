@@ -477,19 +477,19 @@
   },
   "C01": {
     "plot": "C01",
-    "staff": "Mrs Tang",
-    "plant": "Chinese lantern plant",
-    "datePlanted": "2026-05-02",
-    "estHarvest": "2026-08-10",
-    "nextManure": "2026-06-30",
-    "nextWeeding": "2026-05-02",
-    "uses": "Fruits are used as cakes' toppings. In Traditional Chinese Medicine and Unani systems, the fruit and calyx (husks) have been used to treat toxic heat, sore throats, and coughs. ",
-    "funFact": "Fossilized remains of these distinctive inflated pods have been found dating back to the Pleistocene era in Germany. It is a close relative of the  tomato, and eggplant, but unlike its cousins, almost all parts of this plant (except the ripe fruit) are poisonous due to solanine.",
-    "botanical": "Physalis alkekengi",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineselanternplant3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "C02": {
