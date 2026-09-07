@@ -69,13 +69,13 @@
   },
   "A05": {
     "plot": "A05",
-    "staff": "",
-    "plant": "Empty",
+    "staff": "Mrs Tang",
+    "plant": "Empty (空)",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "",
+    "uses": "Empty plots",
     "funFact": "",
     "botanical": "",
     "images": [
@@ -86,13 +86,13 @@
   },
   "A06": {
     "plot": "A06",
-    "staff": "Mrs Tang",
-    "plant": "Empty (空)",
+    "staff": "",
+    "plant": "Empty",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "Empty plots",
+    "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
