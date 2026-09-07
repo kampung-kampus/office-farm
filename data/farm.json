@@ -613,23 +613,6 @@
   },
   "C09": {
     "plot": "C09",
-    "staff": "Mrs Tang",
-    "plant": "Kai lan (芥蓝)",
-    "datePlanted": "2026-07-04",
-    "estHarvest": "2026-09-02",
-    "nextManure": "2026-09-03",
-    "nextWeeding": "2026-08-03",
-    "uses": "Stir-fried or steamed vegetable",
-    "funFact": "Thick stems and leaves; flowers edible too.",
-    "botanical": "Brassica oleracea",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/kailan3.jpg"
-    ]
-  },
-  "C10": {
-    "plot": "C10",
     "staff": "",
     "plant": "Empty",
     "datePlanted": "",
@@ -643,6 +626,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
+  },
+  "C10": {
+    "plot": "C10",
+    "staff": "Mrs Tang",
+    "plant": "Mustard greens (芥菜)",
+    "datePlanted": "2026-08-07",
+    "estHarvest": "2026-09-11",
+    "nextManure": "2026-09-12",
+    "nextWeeding": "2026-08-25",
+    "uses": "Stir-fried or pickled leafy vegetable.",
+    "funFact": "Pungent flavor; seeds used for mustard condiment.",
+    "botanical": "Brassica juncea",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mustardgreens3.jpg"
     ]
   },
   "C11": {
