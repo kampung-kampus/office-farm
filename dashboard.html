@@ -453,7 +453,7 @@ function closeHarvestModal() {
 function openHarvesting() {
   const entered = prompt("Enter password to access Harvesting Data:");
 
-  if (entered === "g") {
+  if (entered === "v") {
     window.location.href = "harvesting.html";
   } else if (entered !== null) {
     alert("Incorrect password.");
@@ -470,7 +470,7 @@ function downloadCSVFromSheet() {
 
 function confirmDownload() {
   const entered = document.getElementById('pwInput').value;
-  const correct = 'g'; // 🔑 Change password here anytime
+  const correct = 'v'; // 🔑 Change password here anytime
   if (entered === correct) {
     document.getElementById('pwModal').style.display = 'none';
     const url = "https://script.google.com/macros/s/AKfycbzAjwlVpIiVdYrQeg261RXfe6p-enuInmlu3Wjo4B9uQEGIXgrIA0pAoFkCswRVBMdGoQ/exec?type=csv&v=" + new Date().getTime();
