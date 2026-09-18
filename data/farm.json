@@ -69,19 +69,19 @@
   },
   "A05": {
     "plot": "A05",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Mrs Tang",
+    "plant": "Brinjal (茄子)",
+    "datePlanted": "2026-09-08",
+    "estHarvest": "2026-12-17",
+    "nextManure": "2026-12-18",
+    "nextWeeding": "2026-10-28",
+    "uses": "Cooked in curries, grilled, or roasted",
+    "funFact": "Botanically a berry; comes in many shapes and colors.",
+    "botanical": "Solanum melongena",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/brinjal1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/brinjal2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/brinjal3.jpg"
     ]
   },
   "A06": {
