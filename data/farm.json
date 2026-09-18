@@ -290,13 +290,13 @@
   },
   "B06": {
     "plot": "B06",
-    "staff": "",
-    "plant": "Empty",
+    "staff": "Mrs Tang",
+    "plant": "Empty (空)",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "",
+    "uses": "Empty plots",
     "funFact": "",
     "botanical": "",
     "images": [
