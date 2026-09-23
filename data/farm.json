@@ -766,19 +766,19 @@
   },
   "D04": {
     "plot": "D04",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
+    "staff": "Mrs Tang",
+    "plant": "Passion fruit",
+    "datePlanted": "2026-08-23",
     "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "nextManure": "2027-08-24",
+    "nextWeeding": "2027-02-22",
+    "uses": "Food and Drinks: The pulpy, seedy interior is eaten fresh, squeezed into juices, or used in desserts like ice cream, mousses, and jams.  The fruit is rich in Vitamin C, antioxidants, and dietary fiber, while the rind is a great source of natural pectin.",
+    "funFact": "The name \"passion\" comes from the Christian Passion of Jesus Christ. 17th-century missionaries in South America used the flower's unique parts to symbolize the crucifixion and the wounds of Christ. Passion fruit tastes best and is sweetest when the outer skin turns slightly shriveled and wrinkled",
+    "botanical": "Passiflora edulis",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/passionfruit1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/passionfruit2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/passionfruit3.jpg"
     ]
   },
   "D05": {
