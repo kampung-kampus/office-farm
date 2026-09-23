@@ -1817,5 +1817,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indianborage2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indianborage3.jpg"
     ]
+  },
+  "E05": {
+    "plot": "E05",
+    "staff": "Mrs Tang",
+    "plant": "Empty (空)",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
   }
 }
