@@ -732,13 +732,13 @@
   },
   "D02": {
     "plot": "D02",
-    "staff": "",
-    "plant": "Empty",
+    "staff": "Mrs Tang",
+    "plant": "Empty (空)",
     "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "",
+    "uses": "Empty plots",
     "funFact": "",
     "botanical": "",
     "images": [
