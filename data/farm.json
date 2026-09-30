@@ -205,19 +205,19 @@
   },
   "B01": {
     "plot": "B01",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Mrs Tang",
+    "plant": "Long bean (长豆)",
+    "datePlanted": "2026-09-22",
+    "estHarvest": "2026-12-01",
+    "nextManure": "2026-12-02",
+    "nextWeeding": "2026-10-27",
+    "uses": "Stir-fried or steamed vegetable.",
+    "funFact": "Pods can grow over 50 cm long.",
+    "botanical": "Vigna unguiculata",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/longbean1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/longbean2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/longbean3.jpg"
     ]
   },
   "B02": {
