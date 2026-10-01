@@ -263,7 +263,7 @@ const DATA_URL = "https://kampung-kampus.github.io/office-farm/data/farm.json?v=
 let farmData = {};
 
 
-function getStatus(data) {
+/*function getStatus(data) {
   const today = new Date();
 
   if (!data.plant || data.plant.trim() === "" || data.plant.toLowerCase() === "empty") {
@@ -273,6 +273,42 @@ function getStatus(data) {
   const harvest = new Date(data.estHarvest  + "T00:00:00");
   const manure  = new Date(data.nextManure  + "T00:00:00");
   const weeding = new Date(data.nextWeeding + "T00:00:00");
+
+  const harvestDiff = Math.floor((harvest - today) / (1000 * 60 * 60 * 24));
+  const manureDiff  = Math.floor((manure  - today) / (1000 * 60 * 60 * 24));
+  const weedDiff    = Math.floor((weeding - today) / (1000 * 60 * 60 * 24));
+
+  if (harvestDiff <= 0)  return { text: "Harvest Ready",      class: "ready",   priority: 1 };
+  if (manureDiff  <= 0)  return { text: "Ready for Manuring", class: "soon",    priority: 2 };
+  if (manureDiff  <= 3)  return { text: "Manuring Soon",      class: "soon",    priority: 3 };
+  if (weedDiff    <= 0)  return { text: "Weeding Needed",     class: "weeding", priority: 4 };
+
+  return { text: "No Action Needed", class: "growing", priority: 5 };
+}*/
+
+
+
+  function getStatus(data) {
+  const today = new Date();
+
+  // ── Check empty FIRST before any date parsing ──
+  if (!data.plant || data.plant.trim() === "" || data.plant.toLowerCase() === "empty") {
+    return { text: "Empty Plot", class: "empty", priority: 0 };
+  }
+
+  // ── Only parse dates if plot is NOT empty ──
+  if (!data.estHarvest || !data.nextManure || !data.nextWeeding) {
+    return { text: "Empty Plot", class: "empty", priority: 0 };
+  }
+
+  const harvest = new Date(data.estHarvest  + "T00:00:00");
+  const manure  = new Date(data.nextManure  + "T00:00:00");
+  const weeding = new Date(data.nextWeeding + "T00:00:00");
+
+  // ── Guard against invalid dates ──
+  if (isNaN(harvest) || isNaN(manure) || isNaN(weeding)) {
+    return { text: "Empty Plot", class: "empty", priority: 0 };
+  }
 
   const harvestDiff = Math.floor((harvest - today) / (1000 * 60 * 60 * 24));
   const manureDiff  = Math.floor((manure  - today) / (1000 * 60 * 60 * 24));
