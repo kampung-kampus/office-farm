@@ -35,13 +35,13 @@
   },
   "A03": {
     "plot": "A03",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
+    "staff": "Mrs Tang",
+    "plant": "Empty (空)",
+    "datePlanted": "2026-10-03",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "",
+    "uses": "Empty plots",
     "funFact": "",
     "botanical": "",
     "images": [
