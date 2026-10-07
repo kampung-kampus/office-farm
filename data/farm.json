@@ -800,19 +800,19 @@
   },
   "D06": {
     "plot": "D06",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Mrs Tang",
+    "plant": "Sweet potato",
+    "datePlanted": "2026-09-15",
+    "estHarvest": "2027-01-13",
+    "nextManure": "2027-01-14",
+    "nextWeeding": "2026-11-14",
+    "uses": "Tubers eaten roasted, boiled, or fried.",
+    "funFact": "Leaves edible too; highly nutritious root crop.",
+    "botanical": "Ipomoea batatas",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato3.jpg"
     ]
   },
   "E01": {
