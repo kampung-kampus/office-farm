@@ -815,6 +815,57 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato3.jpg"
     ]
   },
+  "D07": {
+    "plot": "D07",
+    "staff": "Mrs Tang",
+    "plant": "Indian borage",
+    "datePlanted": "2026-06-23",
+    "estHarvest": "",
+    "nextManure": "2034-09-10",
+    "nextWeeding": "2030-08-01",
+    "uses": "Cough and Cold Relief: Fresh leaves are chewed, or their juice is extracted and mixed with honey to soothe sore throats, chest congestion, and bronchitis.",
+    "funFact": "Despite being called Indian borage, it actually belongs to the mint and deadnettle family (Lamiaceae).",
+    "botanical": "Plectranthus amboinicus",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indianborage1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indianborage2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indianborage3.jpg"
+    ]
+  },
+  "D08": {
+    "plot": "D08",
+    "staff": "Mrs Tang",
+    "plant": "Purslane (马齿苋)",
+    "datePlanted": "2026-09-15",
+    "estHarvest": "2026-10-25",
+    "nextManure": "2026-10-26",
+    "nextWeeding": "2026-10-05",
+    "uses": "Can be eaten raw or cooked or stems can be pickled  in vinegar or spices.",
+    "funFact": "In Chinese folklore and traditional medicine, it is known as Ma Chi Xian and nicknamed the \"vegetable for long life\" due to its dense nutrient profile. A nutritious plant that is high in omega-3 fatty acids.",
+    "botanical": "Portulaca oleracea.",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane3.jpg"
+    ]
+  },
+  "D10": {
+    "plot": "D10",
+    "staff": "Mrs Tang",
+    "plant": "Basil (罗勒)",
+    "datePlanted": "2026-10-01",
+    "estHarvest": "2034-12-18",
+    "nextManure": "2034-12-19",
+    "nextWeeding": "2030-11-09",
+    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
+    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
+    "botanical": "Ocimum basilicum",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
+    ]
+  },
   "E01": {
     "plot": "E01",
     "staff": "Mrs Tang",
@@ -883,6 +934,40 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy3.jpg"
     ]
   },
+  "E05": {
+    "plot": "E05",
+    "staff": "Mrs Tang",
+    "plant": "Empty (空)",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Empty plots",
+    "funFact": "",
+    "botanical": "",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+    ]
+  },
+  "E06": {
+    "plot": "E06",
+    "staff": "Mrs Tang",
+    "plant": "Bok choy (白菜)",
+    "datePlanted": "2026-08-22",
+    "estHarvest": "2026-09-26",
+    "nextManure": "2026-09-27",
+    "nextWeeding": "2026-09-09",
+    "uses": "Stir-fried or steamed vegetable.",
+    "funFact": "Tender leaves; popular in Chinese cooking.",
+    "botanical": "Brassica rapa subsp. chinensis",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy3.jpg"
+    ]
+  },
   "Food garden": {
     "plot": "Food garden",
     "staff": "Mrs Tang",
@@ -900,21 +985,38 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslanechilliroselle3.jpg"
     ]
   },
-  "Plot1": {
-    "plot": "Plot1",
-    "staff": "Mrs Tang",
-    "plant": "Veld grape ( 四棱白粉藤 )",
-    "datePlanted": "2026-01-06",
+  "L 1 O": {
+    "plot": "L 1 O",
+    "staff": "Lye",
+    "plant": "Noni (诺丽果)",
+    "datePlanted": "",
     "estHarvest": "",
-    "nextManure": "2028-10-03",
-    "nextWeeding": "2027-05-21",
-    "uses": "Traditional medicinal plant. Use to speed  up healing  fractured bones, sprains  joint pain. Widely use for reducing joint inflammation (arthritis)",
-    "funFact": "Veld grape and dragon fruit  look very similar, often causing confusion among gardeners.",
-    "botanical": "Cissus quadrangularis",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Noni Juice: The ripened, fermented fruit is pressed into juice, heavily marketed globally as a nutrient-dense dietary supplement and antioxidant booster.Traditional Medicine: For over 2,000 years across Polynesia and Southeast Asia, different parts of the plant were used to treat gastrointestinal distress, infections, pain, and skin inflammation.Natural Dyes: The bark contains a red pigment, and roots yield a bright yellow pigment historically used to dye fabrics and paper.",
+    "funFact": "Strong Odor: As the fruit ripens, it emits a foul, pungent smell resembling strong, stinky cheese or vomit, giving it the nickname \"cheese fruit\" or \"vomit fruit\".Survival Food: Because the tree thrives in harsh coastal sands, volcanic terrain, and drought conditions, it is historically known as \"starvation fruit\" used by islanders during periods of famine",
+    "botanical": "Morinda citrifolia",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni3.jpg"
+    ]
+  },
+  "L1  I": {
+    "plot": "L1  I",
+    "staff": "Lye",
+    "plant": "Promegranate (石榴)",
+    "datePlanted": "2026-02-27",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary: The juicy seeds (arils) are eaten fresh, used to top salads/desserts, or pressed for juice. The juice is also boiled down into grenadine syrup. Highly valued for its antioxidant, anti-inflammatory, and antimicrobial properties. The arils are an excellent source of vitamin C, vitamin K, folate, and dietary fiber.",
+    "funFact": "The French word for pomegranate is \"pomme-grenade,\" which literally translates to \"seeded apple\". This fruit inspired the name and design of the hand grenade!",
+    "botanical": "Punica granatum",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate3.jpg"
     ]
   },
   "L1 A": {
@@ -1053,23 +1155,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineserainbell3.jpg"
     ]
   },
-  "L1  I": {
-    "plot": "L1  I",
-    "staff": "Lye",
-    "plant": "Promegranate (石榴)",
-    "datePlanted": "2026-02-27",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Culinary: The juicy seeds (arils) are eaten fresh, used to top salads/desserts, or pressed for juice. The juice is also boiled down into grenadine syrup. Highly valued for its antioxidant, anti-inflammatory, and antimicrobial properties. The arils are an excellent source of vitamin C, vitamin K, folate, and dietary fiber.",
-    "funFact": "The French word for pomegranate is \"pomme-grenade,\" which literally translates to \"seeded apple\". This fruit inspired the name and design of the hand grenade!",
-    "botanical": "Punica granatum",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate3.jpg"
-    ]
-  },
   "L1 J": {
     "plot": "L1 J",
     "staff": "Lye",
@@ -1155,23 +1240,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/singaporeholly3.jpg"
     ]
   },
-  "L 1 O": {
-    "plot": "L 1 O",
-    "staff": "Lye",
-    "plant": "Noni (诺丽果)",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Noni Juice: The ripened, fermented fruit is pressed into juice, heavily marketed globally as a nutrient-dense dietary supplement and antioxidant booster.Traditional Medicine: For over 2,000 years across Polynesia and Southeast Asia, different parts of the plant were used to treat gastrointestinal distress, infections, pain, and skin inflammation.Natural Dyes: The bark contains a red pigment, and roots yield a bright yellow pigment historically used to dye fabrics and paper.",
-    "funFact": "Strong Odor: As the fruit ripens, it emits a foul, pungent smell resembling strong, stinky cheese or vomit, giving it the nickname \"cheese fruit\" or \"vomit fruit\".Survival Food: Because the tree thrives in harsh coastal sands, volcanic terrain, and drought conditions, it is historically known as \"starvation fruit\" used by islanders during periods of famine",
-    "botanical": "Morinda citrifolia",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni3.jpg"
-    ]
-  },
   "L1 P": {
     "plot": "L1 P",
     "staff": "Lye",
@@ -1187,6 +1255,108 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/eggfruit3.jpg"
+    ]
+  },
+  "L14 A": {
+    "plot": "L14 A",
+    "staff": "GUI",
+    "plant": "Moringa (辣木)",
+    "datePlanted": "2026-03-17",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Leaves: Known as one of the most nutrient-dense foods on earth. They are cooked like spinach or dried and ground into a powder for use in smoothies and teas.",
+    "funFact": "Nutritional Super-Punch: Ounce for ounce, moringa leaves are said to provide 7 times more vitamin C than oranges, 10 times more vitamin A than carrots, and 17 times more calcium than milk.",
+    "botanical": "Moringa oleifera",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa3.jpg"
+    ]
+  },
+  "L14 B": {
+    "plot": "L14 B",
+    "staff": "GUI",
+    "plant": "Batoko plum (罗比梅)",
+    "datePlanted": "2026-02-03",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary Preserves: The mature fruits are highly acidic and astringent when eaten fresh, so they are rarely consumed raw. They are popularly cooked with generous amounts of sugar to make jams, syrups, jellies, and tarts",
+    "funFact": "Not a True Plum: Despite its name, the Batoko plum is actually a berry. It belongs to the willow family (Salicaceae), rather than being related to the traditional stone-fruit plums (genus Prunus )",
+    "botanical": "Flacourtia inermis",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum3.jpg"
+    ]
+  },
+  "L14 C": {
+    "plot": "L14 C",
+    "staff": "GUI",
+    "plant": "Cacao tree ( 可可树)",
+    "datePlanted": "2026-02-26",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Food & Confectionery: The seeds (cacao beans) are fermented, dried, and roasted to create cocoa mass, which is the foundation of all chocolate products",
+    "funFact": "Tiny Pollinators: The tree's pale, intricate flowers are not pollinated by bees. Instead, they rely exclusively on tiny biting midges (Forcipomyia flies).Fruit Makeup: Inside each football-shaped pod, the seeds are surrounded by a sweet, sticky white pulp that is delicious to eat raw.",
+    "botanical": "Theobroma cacao",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree3.jpg"
+    ]
+  },
+  "L14 D": {
+    "plot": "L14 D",
+    "staff": "GUI",
+    "plant": "Star apple (牛奶果)",
+    "datePlanted": "2026-02-24",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Fresh Eating: The fruit is typically eaten fresh; it is scooped out and best served chilled.",
+    "funFact": "The \"Star\" Pattern: When the fruit is sliced in half horizontally, the core and seeds create a beautiful, distinct star-like pattern.",
+    "botanical": "Chrysophyllum cainito",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple3.jpg"
+    ]
+  },
+  "L14 E": {
+    "plot": "L14 E",
+    "staff": "GUI",
+    "plant": "Mangosteen (山竹)",
+    "datePlanted": "2026-02-26",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Fresh Consumption: The snow-white, segmented interior flesh (aril) is juicy and tastes like a blend of peach, citrus, and vanilla.Desserts & Beverages: Used globally to make jams, sorbets, ice creams, and jellies.Traditional Medicine: The thick, deep-purple rind (pericarp) is dried and used in folk and Ayurvedic medicine to treat diarrhea, dysentery, skin infections, and wounds.Nutritional Supplements:",
+    "funFact": "Royal Nickname: The fruit earned its moniker, the \"Queen of Fruits,\" largely due to a legendary (though unverified) tale that Queen Victoria offered a reward to anyone who could bring her a fresh mangosteen.The \"King and Queen\": In Southeast Asia, it is the perfect pairing for the durian, which is dubbed the \"King of Fruits\". Eating mangosteen is traditionally said to have a cooling effect that neutralizes the \"heaty\" properties of durian.",
+    "botanical": "Garcinia mangostana",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
+    ]
+  },
+  "L8  O": {
+    "plot": "L8  O",
+    "staff": "Lye",
+    "plant": "Blue porterweed",
+    "datePlanted": "2026-02-19",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary: The mushroom-flavored flowers are a popular, quirky addition to fresh salads. The tough flower spikes can also be used as a seasoning in soups and stews much like a bay leaf.Traditional Medicine: Historically used by indigenous and folk healers as a \"cooling tonic\". Leaves are frequently steeped into teas or decoctions to help soothe gastrointestinal discomfort, clear respiratory issues, and promote relaxation",
+    "funFact": "It tastes like mushrooms: The tiny, delicate flowers can be eaten raw and have a surprisingly distinct, earthy, mushroom-like flavor.It has a beer connection: The common name \"porterweed\" comes from the dark, foamy, beer-like infusion that can be made from brewing its leaves.",
+    "botanical": "Stachytarpheta jamaicensis",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed3.jpg"
     ]
   },
   "L8 A": {
@@ -1425,23 +1595,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/citronella3.jpg"
-    ]
-  },
-  "L8  O": {
-    "plot": "L8  O",
-    "staff": "Lye",
-    "plant": "Blue porterweed",
-    "datePlanted": "2026-02-19",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Culinary: The mushroom-flavored flowers are a popular, quirky addition to fresh salads. The tough flower spikes can also be used as a seasoning in soups and stews much like a bay leaf.Traditional Medicine: Historically used by indigenous and folk healers as a \"cooling tonic\". Leaves are frequently steeped into teas or decoctions to help soothe gastrointestinal discomfort, clear respiratory issues, and promote relaxation",
-    "funFact": "It tastes like mushrooms: The tiny, delicate flowers can be eaten raw and have a surprisingly distinct, earthy, mushroom-like flavor.It has a beer connection: The common name \"porterweed\" comes from the dark, foamy, beer-like infusion that can be made from brewing its leaves.",
-    "botanical": "Stachytarpheta jamaicensis",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/blueporterweed3.jpg"
     ]
   },
   "L8 P": {
@@ -1716,174 +1869,21 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/coffee3.jpg"
     ]
   },
-  "L14 A": {
-    "plot": "L14 A",
-    "staff": "GUI",
-    "plant": "Moringa (辣木)",
-    "datePlanted": "2026-03-17",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Leaves: Known as one of the most nutrient-dense foods on earth. They are cooked like spinach or dried and ground into a powder for use in smoothies and teas.",
-    "funFact": "Nutritional Super-Punch: Ounce for ounce, moringa leaves are said to provide 7 times more vitamin C than oranges, 10 times more vitamin A than carrots, and 17 times more calcium than milk.",
-    "botanical": "Moringa oleifera",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/moringa3.jpg"
-    ]
-  },
-  "L14 B": {
-    "plot": "L14 B",
-    "staff": "GUI",
-    "plant": "Batoko plum (罗比梅)",
-    "datePlanted": "2026-02-03",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Culinary Preserves: The mature fruits are highly acidic and astringent when eaten fresh, so they are rarely consumed raw. They are popularly cooked with generous amounts of sugar to make jams, syrups, jellies, and tarts",
-    "funFact": "Not a True Plum: Despite its name, the Batoko plum is actually a berry. It belongs to the willow family (Salicaceae), rather than being related to the traditional stone-fruit plums (genus Prunus )",
-    "botanical": "Flacourtia inermis",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/batokoplum3.jpg"
-    ]
-  },
-  "L14 C": {
-    "plot": "L14 C",
-    "staff": "GUI",
-    "plant": "Cacao tree ( 可可树)",
-    "datePlanted": "2026-02-26",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Food & Confectionery: The seeds (cacao beans) are fermented, dried, and roasted to create cocoa mass, which is the foundation of all chocolate products",
-    "funFact": "Tiny Pollinators: The tree's pale, intricate flowers are not pollinated by bees. Instead, they rely exclusively on tiny biting midges (Forcipomyia flies).Fruit Makeup: Inside each football-shaped pod, the seeds are surrounded by a sweet, sticky white pulp that is delicious to eat raw.",
-    "botanical": "Theobroma cacao",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cacaotree3.jpg"
-    ]
-  },
-  "L14 D": {
-    "plot": "L14 D",
-    "staff": "GUI",
-    "plant": "Star apple (牛奶果)",
-    "datePlanted": "2026-02-24",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Fresh Eating: The fruit is typically eaten fresh; it is scooped out and best served chilled.",
-    "funFact": "The \"Star\" Pattern: When the fruit is sliced in half horizontally, the core and seeds create a beautiful, distinct star-like pattern.",
-    "botanical": "Chrysophyllum cainito",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/starapple3.jpg"
-    ]
-  },
-  "L14 E": {
-    "plot": "L14 E",
-    "staff": "GUI",
-    "plant": "Mangosteen (山竹)",
-    "datePlanted": "2026-02-26",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Fresh Consumption: The snow-white, segmented interior flesh (aril) is juicy and tastes like a blend of peach, citrus, and vanilla.Desserts & Beverages: Used globally to make jams, sorbets, ice creams, and jellies.Traditional Medicine: The thick, deep-purple rind (pericarp) is dried and used in folk and Ayurvedic medicine to treat diarrhea, dysentery, skin infections, and wounds.Nutritional Supplements:",
-    "funFact": "Royal Nickname: The fruit earned its moniker, the \"Queen of Fruits,\" largely due to a legendary (though unverified) tale that Queen Victoria offered a reward to anyone who could bring her a fresh mangosteen.The \"King and Queen\": In Southeast Asia, it is the perfect pairing for the durian, which is dubbed the \"King of Fruits\". Eating mangosteen is traditionally said to have a cooling effect that neutralizes the \"heaty\" properties of durian.",
-    "botanical": "Garcinia mangostana",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mangosteen3.jpg"
-    ]
-  },
-  "D07": {
-    "plot": "D07",
+  "Plot1": {
+    "plot": "Plot1",
     "staff": "Mrs Tang",
-    "plant": "Indian borage",
-    "datePlanted": "2026-06-23",
+    "plant": "Veld grape ( 四棱白粉藤 )",
+    "datePlanted": "2026-01-06",
     "estHarvest": "",
-    "nextManure": "2034-09-10",
-    "nextWeeding": "2030-08-01",
-    "uses": "Cough and Cold Relief: Fresh leaves are chewed, or their juice is extracted and mixed with honey to soothe sore throats, chest congestion, and bronchitis.",
-    "funFact": "Despite being called Indian borage, it actually belongs to the mint and deadnettle family (Lamiaceae).",
-    "botanical": "Plectranthus amboinicus",
+    "nextManure": "2028-10-03",
+    "nextWeeding": "2027-05-21",
+    "uses": "Traditional medicinal plant. Use to speed  up healing  fractured bones, sprains  joint pain. Widely use for reducing joint inflammation (arthritis)",
+    "funFact": "Veld grape and dragon fruit  look very similar, often causing confusion among gardeners.",
+    "botanical": "Cissus quadrangularis",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indianborage1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indianborage2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/indianborage3.jpg"
-    ]
-  },
-  "E05": {
-    "plot": "E05",
-    "staff": "Mrs Tang",
-    "plant": "Empty (空)",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Empty plots",
-    "funFact": "",
-    "botanical": "",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
-    ]
-  },
-  "E06": {
-    "plot": "E06",
-    "staff": "Mrs Tang",
-    "plant": "Bok choy (白菜)",
-    "datePlanted": "2026-08-22",
-    "estHarvest": "2026-09-26",
-    "nextManure": "2026-09-27",
-    "nextWeeding": "2026-09-09",
-    "uses": "Stir-fried or steamed vegetable.",
-    "funFact": "Tender leaves; popular in Chinese cooking.",
-    "botanical": "Brassica rapa subsp. chinensis",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/bokchoy3.jpg"
-    ]
-  },
-  "D08": {
-    "plot": "D08",
-    "staff": "Mrs Tang",
-    "plant": "Purslane (马齿苋)",
-    "datePlanted": "2026-09-15",
-    "estHarvest": "2026-10-25",
-    "nextManure": "2026-10-26",
-    "nextWeeding": "2026-10-05",
-    "uses": "Can be eaten raw or cooked or stems can be pickled  in vinegar or spices.",
-    "funFact": "In Chinese folklore and traditional medicine, it is known as Ma Chi Xian and nicknamed the \"vegetable for long life\" due to its dense nutrient profile. A nutritious plant that is high in omega-3 fatty acids.",
-    "botanical": "Portulaca oleracea.",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane3.jpg"
-    ]
-  },
-  "D10": {
-    "plot": "D10",
-    "staff": "Mrs Tang",
-    "plant": "Basil (罗勒)",
-    "datePlanted": "2026-10-01",
-    "estHarvest": "2034-12-18",
-    "nextManure": "2034-12-19",
-    "nextWeeding": "2030-11-09",
-    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
-    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
-    "botanical": "Ocimum basilicum",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
     ]
   }
 }
