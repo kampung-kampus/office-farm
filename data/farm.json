@@ -1885,5 +1885,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
     ]
+  },
+  "D100": {
+    "plot": "D100",
+    "staff": "Mrs Tang",
+    "plant": "Basil (罗勒)",
+    "datePlanted": "2026-10-07",
+    "estHarvest": "2034-12-24",
+    "nextManure": "2034-12-25",
+    "nextWeeding": "2030-11-15",
+    "uses": "Culinary herb for flavoring dishes, teas, and oils.",
+    "funFact": "Sacred in many cultures especially the  Holy Basil species; repels insects naturally.",
+    "botanical": "Ocimum basilicum",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/basil3.jpg"
+    ]
   }
 }
