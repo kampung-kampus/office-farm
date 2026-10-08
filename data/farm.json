@@ -1005,7 +1005,7 @@
   "L1 A": {
     "plot": "L1 A",
     "staff": "Lye",
-    "plant": "Mulberry",
+    "plant": "Mugwort (艾草)",
     "datePlanted": "2026-06-12",
     "estHarvest": "2027-06-12",
     "nextManure": "2027-06-13",
@@ -1014,9 +1014,9 @@
     "funFact": "Silvery Secret: Its scientific name argenteus translates to \"silvery\" in Latin, describing the stark, powdery-white underlayer of dense hairs beneath its leaves that easily catch the wind.",
     "botanical": "Pipturus argenteus ",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mulberry3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mugwort1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mugwort2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mugwort3.jpg"
     ]
   },
   "L1 B": {
