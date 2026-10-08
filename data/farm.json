@@ -1868,5 +1868,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
     ]
+  },
+  "L1A": {
+    "plot": "L1A",
+    "staff": "Lye",
+    "plant": "Mugwort",
+    "datePlanted": "2026-09-28",
+    "estHarvest": "2034-12-15",
+    "nextManure": "2034-12-16",
+    "nextWeeding": "2030-11-06",
+    "uses": "Used in teas, soups, and traditional medicine.",
+    "funFact": "Associated with folklore; used in rituals.",
+    "botanical": "Artemisia vulgaris",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mugwort1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mugwort2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/mugwort3.jpg"
+    ]
   }
 }
