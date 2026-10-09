@@ -1868,5 +1868,22 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
     ]
+  },
+  "D09": {
+    "plot": "D09",
+    "staff": "Mrs Tang",
+    "plant": "Sweet potato (地瓜)",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Tubers eaten roasted, boiled, or fried.",
+    "funFact": "Leaves edible too; highly nutritious root crop.",
+    "botanical": "Ipomoea batatas",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato3.jpg"
+    ]
   }
 }
