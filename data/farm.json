@@ -849,6 +849,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslane3.jpg"
     ]
   },
+  "D09": {
+    "plot": "D09",
+    "staff": "Mrs Tang",
+    "plant": "Sweet potato (地瓜)",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Tubers eaten roasted, boiled, or fried.",
+    "funFact": "Leaves edible too; highly nutritious root crop.",
+    "botanical": "Ipomoea batatas",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato3.jpg"
+    ]
+  },
   "E01": {
     "plot": "E01",
     "staff": "Mrs Tang",
@@ -966,40 +983,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslanechilliroselle1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslanechilliroselle2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/purslanechilliroselle3.jpg"
-    ]
-  },
-  "L 1 O": {
-    "plot": "L 1 O",
-    "staff": "Lye",
-    "plant": "Noni (诺丽果)",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Noni Juice: The ripened, fermented fruit is pressed into juice, heavily marketed globally as a nutrient-dense dietary supplement and antioxidant booster.Traditional Medicine: For over 2,000 years across Polynesia and Southeast Asia, different parts of the plant were used to treat gastrointestinal distress, infections, pain, and skin inflammation.Natural Dyes: The bark contains a red pigment, and roots yield a bright yellow pigment historically used to dye fabrics and paper.",
-    "funFact": "Strong Odor: As the fruit ripens, it emits a foul, pungent smell resembling strong, stinky cheese or vomit, giving it the nickname \"cheese fruit\" or \"vomit fruit\".Survival Food: Because the tree thrives in harsh coastal sands, volcanic terrain, and drought conditions, it is historically known as \"starvation fruit\" used by islanders during periods of famine",
-    "botanical": "Morinda citrifolia",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni3.jpg"
-    ]
-  },
-  "L1  I": {
-    "plot": "L1  I",
-    "staff": "Lye",
-    "plant": "Promegranate (石榴)",
-    "datePlanted": "2026-02-27",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Culinary: The juicy seeds (arils) are eaten fresh, used to top salads/desserts, or pressed for juice. The juice is also boiled down into grenadine syrup. Highly valued for its antioxidant, anti-inflammatory, and antimicrobial properties. The arils are an excellent source of vitamin C, vitamin K, folate, and dietary fiber.",
-    "funFact": "The French word for pomegranate is \"pomme-grenade,\" which literally translates to \"seeded apple\". This fruit inspired the name and design of the hand grenade!",
-    "botanical": "Punica granatum",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate3.jpg"
     ]
   },
   "L1 A": {
@@ -1138,6 +1121,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/chineserainbell3.jpg"
     ]
   },
+  "L1 I": {
+    "plot": "L1 I",
+    "staff": "Lye",
+    "plant": "Promegranate (石榴)",
+    "datePlanted": "2026-02-27",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Culinary: The juicy seeds (arils) are eaten fresh, used to top salads/desserts, or pressed for juice. The juice is also boiled down into grenadine syrup. Highly valued for its antioxidant, anti-inflammatory, and antimicrobial properties. The arils are an excellent source of vitamin C, vitamin K, folate, and dietary fiber.",
+    "funFact": "The French word for pomegranate is \"pomme-grenade,\" which literally translates to \"seeded apple\". This fruit inspired the name and design of the hand grenade!",
+    "botanical": "Punica granatum",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/promegranate3.jpg"
+    ]
+  },
   "L1 J": {
     "plot": "L1 J",
     "staff": "Lye",
@@ -1221,6 +1221,23 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/singaporeholly1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/singaporeholly2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/singaporeholly3.jpg"
+    ]
+  },
+  "L1 O": {
+    "plot": "L1 O",
+    "staff": "Lye",
+    "plant": "Noni (诺丽果)",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "Noni Juice: The ripened, fermented fruit is pressed into juice, heavily marketed globally as a nutrient-dense dietary supplement and antioxidant booster.Traditional Medicine: For over 2,000 years across Polynesia and Southeast Asia, different parts of the plant were used to treat gastrointestinal distress, infections, pain, and skin inflammation.Natural Dyes: The bark contains a red pigment, and roots yield a bright yellow pigment historically used to dye fabrics and paper.",
+    "funFact": "Strong Odor: As the fruit ripens, it emits a foul, pungent smell resembling strong, stinky cheese or vomit, giving it the nickname \"cheese fruit\" or \"vomit fruit\".Survival Food: Because the tree thrives in harsh coastal sands, volcanic terrain, and drought conditions, it is historically known as \"starvation fruit\" used by islanders during periods of famine",
+    "botanical": "Morinda citrifolia",
+    "images": [
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/noni3.jpg"
     ]
   },
   "L1 P": {
@@ -1867,23 +1884,6 @@
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape1.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape2.jpg",
       "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/veldgrape3.jpg"
-    ]
-  },
-  "D09": {
-    "plot": "D09",
-    "staff": "Mrs Tang",
-    "plant": "Sweet potato (地瓜)",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "Tubers eaten roasted, boiled, or fried.",
-    "funFact": "Leaves edible too; highly nutritious root crop.",
-    "botanical": "Ipomoea batatas",
-    "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato3.jpg"
     ]
   }
 }
