@@ -103,19 +103,19 @@
   },
   "A07": {
     "plot": "A07",
-    "staff": "Mrs Tang",
-    "plant": "Green bean",
-    "datePlanted": "2026-09-22",
-    "estHarvest": "2026-09-22",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
     "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/greenbean1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/greenbean2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/greenbean3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "A08": {
