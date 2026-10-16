@@ -647,19 +647,19 @@
   },
   "C11": {
     "plot": "C11",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "Mrs Tang",
+    "plant": "Cabbage (包菜)",
+    "datePlanted": "2026-09-22",
+    "estHarvest": "2026-12-06",
+    "nextManure": "2026-12-07",
+    "nextWeeding": "2026-10-30",
+    "uses": "Used in salads, stir-fries, soups, and pickling.",
+    "funFact": "Can be stored for months; grows well in cool climates.",
+    "botanical": "Brassica oleracea var. capitata",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/cabbage3.jpg"
     ]
   },
   "C12": {
