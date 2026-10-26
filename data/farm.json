@@ -596,13 +596,13 @@
   },
   "C08": {
     "plot": "C08",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
+    "staff": "Mrs Tang",
+    "plant": "Empty (空)",
+    "datePlanted": "2026-10-24",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "",
+    "uses": "Empty plots",
     "funFact": "",
     "botanical": "",
     "images": [
