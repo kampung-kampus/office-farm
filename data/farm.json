@@ -443,13 +443,13 @@
   },
   "B15": {
     "plot": "B15",
-    "staff": "Mrs Tang",
-    "plant": "Empty (空)",
-    "datePlanted": "2026-10-17",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "Empty plots",
+    "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
