@@ -222,13 +222,13 @@
   },
   "B02": {
     "plot": "B02",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
+    "staff": "Mrs Tang",
+    "plant": "Empty (空)",
+    "datePlanted": "2026-10-30",
     "estHarvest": "",
     "nextManure": "",
     "nextWeeding": "",
-    "uses": "",
+    "uses": "Empty plots",
     "funFact": "",
     "botanical": "",
     "images": [
@@ -1871,19 +1871,19 @@
   },
   "L3": {
     "plot": "L3",
-    "staff": "Mrs Tang",
-    "plant": "Green bean",
-    "datePlanted": "2026-09-03",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
     "estHarvest": "",
-    "nextManure": "2026-10-19",
-    "nextWeeding": "2026-09-26",
-    "uses": "Culinary: Eaten whole (pod and immature seeds) fresh, steamed, boiled, stir-fried, baked, canned, or frozen.\nGardening / Agriculture: Fix nitrogen in the soil through root symbioses, improving soil health for neighboring plants",
-    "funFact": "Botanically a fruit: Because they grow from a flowering plant and contain seeds, green beans are classified as fruits rather than vegetables.  Indigenous peoples in Central and South America have cultivated them for thousands of years",
-    "botanical": "Phaseolus vulgaris",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/greenbean1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/greenbean2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/greenbean3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   }
 }
