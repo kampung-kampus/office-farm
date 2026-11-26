@@ -528,19 +528,19 @@
   },
   "C04": {
     "plot": "C04",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
-    "nextManure": "",
-    "nextWeeding": "",
-    "uses": "",
-    "funFact": "",
-    "botanical": "",
+    "staff": "KK",
+    "plant": "Lettuce (生菜)",
+    "datePlanted": "2026-11-24",
+    "estHarvest": "2027-01-03",
+    "nextManure": "2027-01-04",
+    "nextWeeding": "2026-12-14",
+    "uses": "Eaten raw in salads or wraps.",
+    "funFact": "Ancient Roman delicacy; grows quickly.",
+    "botanical": "Lactuca sativa",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/lettuce3.jpg"
     ]
   },
   "C05": {
