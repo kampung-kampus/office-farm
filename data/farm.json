@@ -817,19 +817,19 @@
   },
   "D07": {
     "plot": "D07",
-    "staff": "Xiao Fang",
-    "plant": "Sweet potato (地瓜)",
-    "datePlanted": "2026-11-26",
-    "estHarvest": "2027-03-26",
-    "nextManure": "2027-03-27",
-    "nextWeeding": "2027-01-25",
-    "uses": "Tubers eaten roasted, boiled, or fried.",
-    "funFact": "Leaves edible too; highly nutritious root crop.",
-    "botanical": "Ipomoea batatas",
+    "staff": "",
+    "plant": "Empty",
+    "datePlanted": "",
+    "estHarvest": "",
+    "nextManure": "",
+    "nextWeeding": "",
+    "uses": "",
+    "funFact": "",
+    "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/sweetpotato3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
     ]
   },
   "D08": {
