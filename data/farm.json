@@ -936,19 +936,19 @@
   },
   "E06": {
     "plot": "E06",
-    "staff": "",
-    "plant": "Empty",
-    "datePlanted": "",
-    "estHarvest": "",
+    "staff": "Mrs Tang",
+    "plant": "Herbs (assorted)",
+    "datePlanted": "2026-11-03",
+    "estHarvest": "2026-11-03",
     "nextManure": "",
     "nextWeeding": "",
     "uses": "",
     "funFact": "",
     "botanical": "",
     "images": [
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty1.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty2.jpg",
-      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/empty3.jpg"
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/herbsassorted1.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/herbsassorted2.jpg",
+      "https://raw.githubusercontent.com/kampung-kampus/office-farm/main/images/herbsassorted3.jpg"
     ]
   },
   "Food garden": {
